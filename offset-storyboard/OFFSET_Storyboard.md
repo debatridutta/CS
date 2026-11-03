@@ -1,325 +1,710 @@
 # OFFSET - Storyboard
 
-**116 shots across 26 scenes.**
-
-Shot-by-shot storyboard for *OFFSET* (screenplay 15-07-2026, Thomas Beatty), aligned to the director's visual sequence on the Miro board and the Director's Statement.
-
-Reference images are the director's own Miro picks. Each `ref` link opens the full-resolution image on the board.
-
-## Visual rules (from the Director's Statement and Miro board)
-
-- **Reality:** restrained, near-monochrome Ungers architecture (white, grey, concrete). Composed with precision: centred, symmetrical, locked-off, wide lenses, architecture dominating the frame.
-- **Technology:** neon green is the only saturated colour in the real world (device rings, cameras, water bottles, the outhouse door). Device states follow the concept deck: off = grey, running = green, danger/infinity = orange-red.
-- **Fantasy:** warm, syrupy yellow light, slowed time, a floating camera. Each fantasy has its own design language (cake, black bath, forest, applause, glass pane, night hunt).
-- **Memory (Mother):** warm daylight, handheld, 35mm, intimate.
-- **Progression:** the camera moves from controlled and objective (Act 1) to subjective and immersive handheld (Acts 2B and 3). The feast decays scene by scene.
-- **Sound motif:** TWIST and CLICK mark every passage into a fantasy.
-
-Script coverage: the 15-07-2026 draft ends at p79, during Frans's fantasy. Scenes after that follow the OFFSET Treatment and the director's Miro beats, and are marked *treatment*.
-Board names: Elijah = Ezra, Fred = Frans, Cazz = Cai, Ellen = Eve.
-
-## ACT ONE - ARRIVAL
-
-### Scene 1. BLACK / INT. EVE'S FANTASY - STAIRWELL - NIGHT (p1-2)
-
-*Look:* Cold open. Desaturated blue-black concrete, one warm yellow doorway at the top. Slow motion (48-96fps). Symmetry breaks only when she looks back.
-
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 1.1 | BLACK | - | Hold on black. | MOTHER (V.O.) Wake up, Eleanora. Wach auf, Eleanora. | to generate |
-| 1.2 | ECU feet, 50mm low | Tracking up the steps, 96fps | Muddied bare feet pound the pale steps, leaving dark smears. | Breath loud and close. ELEANORA (V.O.) Despierta... Esto no es real. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679192195350) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764657015648528) |
-| 1.3 | Wide, 24mm, dead-centre symmetric | Locked-off | A WOMAN (EVE) sprints up a narrow stairwell toward a blown-out opening. | Echoing footfalls | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679191814495) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679192683900) |
-| 1.4 | MCU, 35mm | Slight push in | She halts at the top, frozen. Eyes dart back down. | MOTHER (V.O.) This is not real. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184455) |
-| 1.5 | POV down the stair, 24mm | Static then slow zoom in | Her footprints are already gone. The dark doorway below; wind howls through it. | Wind. ELEANORA (V.O.) Por eso tengo que matarte... | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648081251253) |
-| 1.6 | Wide corridor, 18mm | Handheld chase | She turns the corner: the open balcony, lit warm yellow, beckoning. | So you need to stay silent. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184450) |
-| 1.7 | Wide, side-on | Slow-motion, camera static | She launches at the light with all her might. | Para siempre. Forever. Hard JUMP CUT. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679192366069) |
-
-### Scene 2. INT. TAXI - MORNING (MOVING) (p2-4)
-
-*Look:* Reality palette: cool greens and greys of the countryside, glass and condensation. Close, compressed lenses inside the car.
-
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 2.1 | Aerial, wide | Drone tracking two black taxis | Two large black cabs snake down wet country lanes through forest. | Engine hum over the cut | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679192250369) |
-| 2.2 | Insert, 85mm | Static | Car clock reads 13:00. | Tick of indicator | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679192633671) |
-| 2.3 | ECU, 100mm macro | Static | Eleanora's face pressed to the window; breath fogs the glass over the passing green. | Sharp inhale as she jolts awake | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184395) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679193788609) |
-| 2.4 | Two-shot from front seat, 32mm | Static | Flo and Frans beside her, poised, indifferent. Tiny scars on the backs of their necks. | ELEANORA Where is this house? FLO Not a house. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679192441687) |
-| 2.5 | Insert, 50mm | Tilt down | The dog-eared 'German for Beginners' book bristling with Post-its. | - | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679192633368) |
-| 2.6 | POV back seat through windscreen | Static | GOLI, moustached driver, rosary swinging. Wipers. | DRIVER Wir fahren seit einer Stunde ueber das Anwesen. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679194111117) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647878603784) |
-| 2.7 | ECU finger on glass, 100mm | Static | Eleanora draws a large circle in the condensation, then a centre point. | ELEANORA So much space. Ungenutzt. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679194009005) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679194009142) [ref 3](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647878162664) |
-| 2.8 | Macro | Rack focus | Water droplets trail down from her drawing; the forest smears green behind. | DRIVER ...the Zentrum. The centre. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647878162443) |
-
-### Scene 3. EXT. RETREAT - FRONT GATE AND FACADE - MORNING (p4-5)
-
-*Look:* First reveal of Ungers House II. Architecture dominates: perfectly centred, locked-off, wide. White cube against dark trees.
-
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 3.1 | Extreme wide, 24mm, centred | Locked-off | The gate opens slowly; both cabs breeze in. The symmetrical white villa fills the frame. | Gravel crunch | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648081251257) |
-| 3.2 | Low insert, 35mm | Tracking with wheel | Tyres and dragging cases scrape the rocks. | Rocks scrape and collect | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679194260113) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679194347046) |
-| 3.3 | Top shot, overhead | Static | From above the guests form a rough semicircle, Eleanora lingering at the back. | - | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648073097900) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647892526365) |
-| 3.4 | MS, 50mm | Static | Coco writes on her tablet and whispers; Charlie's half-smirk, half-grimace. | - | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679194525057) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647921602014) |
-| 3.5 | Insert, 85mm | Push in | The worn white devices on the backs of Charlie's and Coco's necks, green glow. | Low electrical hum | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648144101865) |
-| 3.6 | Wide, centred | Static | Eleanora alone before the symmetrical facade rising evenly either side of her. | - | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679218379564) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679226235126) |
-
-### Scene 4. INT. DINING ROOM / BEDROOMS / STAIRWELL - DAY (INTERCUT) (p5-8)
-
-*Look:* Charlie's monologue over insert montage. White Ungers interiors, grid ceilings, cameras with green pinpoint lights.
-
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 4.1 | CU, 50mm, centred | Locked-off | Charlie addresses the group. | CHARLIE 'Dies ist ein Lebensraum, ein Laborversuch...' Oswald. Mathias. Ungers. | to generate |
-| 4.2 | Wide, 18mm, symmetrical | Slow tilt up | Insert: the building's architecture, white gallery and gridded skylight. | CHARLIE (V.O.) 'A house without qualities.' | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679226459944) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648081251247) |
-| 4.3 | Insert, 100mm | Static | Little black cameras in every room, bright green light. | CHARLIE (V.O.) No locks. Nor keys. | to generate |
-| 4.4 | Wide bedroom | Static | Bare rooms; five sets of colour-coded scrubs hang neatly, towels on beds. | FRANS (V.O.) And who watches? CHARLIE (V.O.) Us. From afar. | to generate |
-| 4.5 | CU hands | Static | Jewellery piles up in each bedside drawer; clasps undone. | - | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764649034900301) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764649034900725) |
-| 4.6 | MS through doorway | Voyeur, slow push | Cali and Cai undress each other, stealing glances at Eleanora down the hall. | - | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764649034900318) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647923849882) |
-| 4.7 | Low wide up the stairs | Static | The group ascends from shadow into pale light; Charlie and Coco flank the top doorway, ceremonial. | CHARLIE (whispers) Get back to a blank canvas. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648081251252) |
-
-### Scene 5. INT. DINING ROOM - DAY (THE FEAST) (p8-27)
-
-*Look:* Decadent abundance in cool teal light: towers of food, condensation, eight black boxes as centrepiece. Static compositions; the table is the stage.
-
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 5.1 | Wide, 24mm, symmetrical | Slow dolly in | The magnificent feast: roast joints, caviar towers, condensation-covered drinks. Eight black boxes at the centre. | CHARLIE We've come, together. That's seven. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184452) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184451) [ref 3](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648068105163) |
-| 5.2 | Overhead insert | Static | Platters of hors d'oeuvres; abundance from above. | - | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184462) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648067925185) |
-| 5.3 | CU, 85mm | Static | Charlie slaps his head; Coco shuffles towards him, halted by his hand. | CHARLIE No one likes an odd number. | to generate |
-| 5.4 | Insert, 100mm | Push in | Charlie opens a black box to reveal the device. | Soft hum | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648144101865) |
-| 5.5 | Insert | Static | Bottled water rows in the fridge; green glass. | CHARLIE The house is full of water. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648149018421) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648144248642) [ref 3](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648321234457) |
-| 5.6 | CU, 85mm | Static | Cali drinks a milkshake halfway up the straw, stops, moans without tasting; eyes locked on Eleanora. | CHARLIE Offline... Off-grid... Offbeat, Offset. ELEANORA I like that. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184434) |
-| 5.7 | ECU eye | Static, sound goes underwater | Eleanora hears her own name muffled. | Underwater muffle | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184384) |
-| 5.8 | FLASH, 35mm, warm | Handheld | FLASHBACK: Mother holds Eleanora; recognition breaks in. | MOTHER Eleanora? | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647893717365) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648038707392) [ref 3](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184388) |
-| 5.9 | CU, centred | Static | Charlie twists the device, presses: green floods the inner ring. | TWIST. CLICK. CHARLIE Ecstasy is just the press of a button away. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648143658838) |
-| 5.10 | Wide from balcony, high angle | Static | Charlie and Coco get into the last taxi; Coco looks back up at Eleanora's silhouette. | CHARLIE (V.O.) You are the glass, the ant, and the child. | to generate |
-| 5.11 | Rolling MCUs, 50mm | Slow lateral dolly round table | Devices on necks, outer rings pulsing green. The group eats; Cali chops food and eats nothing. Intercut CLOSE on chewing. | Fasting chatter. ELEANORA Tell that to the starving children. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184434) |
-| 5.12 | CU, 85mm | Static | Silence across the group. | ELEANORA Who goes first? | to generate |
+Shot-by-shot storyboard covering every scene of the 15-07-2026 screenplay (scenes 1-47) plus the ending from the Miro board and the OFFSET Treatment (scenes 48-58).
 
-### Scene 6. INT. LIVING ROOM - DAY (FIRST ACTIVATION) (p27-28)
+Images: the director's Miro references and Offset Deck V5. Interactive version with all images and a play-through animatic: https://claude.ai/artifact/WJoQZqQMdZT2EViNhAcHaa
 
-*Look:* Long white corridor-living room, semicircle of seats. Mood tightens; the green outdoors feels far away.
-
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 6.1 | Wide, 24mm, symmetrical | Locked-off | A semicircle of seats; varyingly filled wine glasses. Eleanora sits apart. | Breathing, heavier | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648839927592) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184372) |
-| 6.2 | Insert, 100mm | Static | Cali twists her device clockwise: one click. | CALI One. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648144101865) |
-| 6.3 | CU two-shot | Static | Cai and Cali mouth 'I love you'. She presses; inner ring glows green; she drops back onto the sofa. | CLICK | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184428) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184389) |
-| 6.4 | Wide | Static | A row of twists, a row of clicks: one by one they pass out in different directions. | WHOLE GROUP One. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648843567863) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648843567714) |
-| 6.5 | MCU, 50mm | Slow push in | Eleanora mimes passing out, then twists with a shaking hand and presses. | Loud CLICK. Eyes roll back. CUT TO BLACK. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647921416137) |
+## Act I: Arrival
 
-## ACT TWO A - IMMERSION AND EROSION
+### 1. BLACK / INT. EVE'S FANTASY - STAIRWELL - NIGHT (p1-2)
 
-### Scene 7. INT. CALI'S FANTASY - LIVING ROOM / KITCHEN - NIGHT (p28-31)
+A woman sprints up a stairwell toward a warm doorway while voices in Spanish and German tell her none of this is real. She leaps into the light.
 
-*Look:* First fantasy: syrupy yellow light, slowed world. Camera now drifts and floats. Food becomes grotesque.
+*Look:* Blue-black concrete, one warm yellow opening. Overcranked 96fps. Dead-centre symmetry that breaks only when she looks back.
 
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 7.1 | Wide, 24mm, warm yellow | Slow float | The house has softened; light is syrupy. The group drifts towards the kitchen. | Muffled warm drone | to generate |
-| 7.2 | Wide | Slow dolly in | A tall chocolate cake shimmers alone on the counter. Cali steps forward barefoot. | Cali giggles | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647907333006) |
-| 7.3 | ECU lips, 100mm | Static | She drags a finger through the icing and licks it slowly. | Wet, amplified mouth sounds | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648105886096) |
-| 7.4 | CU, 85mm | Static | Cali eats with both hands, face smeared, animalistic. | Heavy breathing | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647920913065) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647920482887) |
-| 7.5 | MS mirror split | Static | A mirror shows the clean version of Cali eating one teaspoon at a time. | - | to generate |
-| 7.6 | Insert, 100mm | Static | Eleanora bites cake; pulls a chocolate-covered nail from her mouth. | Crunch | to generate |
-| 7.7 | CU | Snap back | Living room, cold green glow. Cali laughs hysterically; it spreads. | Laughter | to generate |
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 1.1 | Wide, 24mm, centred | Locked-off | Black. Then a silhouette at the foot of a stair tunnel, blown-out light above. | MOTHER (V.O.) Wake up, Eleanora. Wach auf, Eleanora. |
+| 1.2 | Low, 50mm on the feet | Tracking up the steps, 96fps | Muddied bare feet pound the steps, leaving dark smears. | Breath loud and close. ELEANORA (V.O.) Esto no es real. |
+| 1.3 | Extreme wide, 18mm | Static | She halts at the top, tiny in the dark. Her eyes dart back down. | MOTHER (V.O.) This is not real. |
+| 1.4 | POV down the stair, 24mm | Slow zoom in | Her footprints are already gone. The open dark doorway below; wind howls through it. | ELEANORA (V.O.) Por eso tengo que matarte. |
+| 1.5 | Wide, 32mm | Handheld chase | She turns the corner: the balcony, lit warm yellow, beckoning. | ELEANORA (V.O.) So you need to stay silent. |
+| 1.6 | Insert, 85mm | Slow motion, 120fps | She jumps at it with all her might. Feet leave the ground. | Para siempre. Forever. Hard JUMP CUT. |
 
-### Scene 8. INT. JACQUELINE'S FANTASY - BATHROOM - NIGHT (p31-33)
+### 2. INT. TAXI - MORNING (MOVING) (p2-4)
 
-*Look:* Dark oil-like bath water, yellow syrup light. Stillness. Intercut with Mother's flat in warm daylight.
+Eleanora jolts awake pressed to the window. Flo and Frans ignore her questions. She draws a circle and its centre in the condensation.
 
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 8.1 | Wide, 24mm | Static | Eleanora wakes beneath the bookcase; no device on her neck. Figures beckon below. | - | to generate |
-| 8.2 | Wide, centred on tub | Slow pan | Jacqueline lies in a bath of opaque dark water. The pan reveals she is pregnant. | Drips | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764658161031571) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764658184880058) [ref 3](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679193847817) |
-| 8.3 | Insert | Static | Fingers dip into the water; drops fall slower and slower. | Slowing drips | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679193847137) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679193847536) |
-| 8.4 | FLASHBACK, 35mm, warm | Handheld | Eleanora washes her Mother's arm; drops the cloth, grips in frustration. | - | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647964406797) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764658159173099) [ref 3](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184432) |
-| 8.5 | Insert | Reverse motion | The drops flow in reverse. | Reversed drip | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679193847536) |
+*Look:* First reality: cool forest greens through wet glass. Long lenses inside the car; compressed, claustrophobic.
 
-### Scene 9. INT. BEDROOM / EXT. RETREAT / ENTRANCE HALL - NIGHT (EZRA ARRIVES) (p33-35)
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 2.1 | Aerial, top-down | Drone tracking | Two black taxis snake along a road cut through dense forest. | Engine hum bridges the cut. |
+| 2.2 | Insert, 35mm | Car-mounted | Wing mirror, countryside whizzing by in a green blur. | Wind roar. |
+| 2.3 | Insert, 85mm | Static | The car clock reads 13:00. | Indicator tick. |
+| 2.4 | CU, 85mm through glass | Static | Eleanora jolts awake, face pressed to the window, breath fogging the view. | Sharp inhale. |
+| 2.5 | MS, 50mm | Static | She sits up with the dog-eared 'German for Beginners', Post-its bristling. | ELEANORA Where is this house? FLO Not a house. |
+| 2.6 | POV back seat, 32mm | Static | GOLI the driver through the windscreen, wipers sweeping the wet forest road. | DRIVER Wir fahren seit einer Stunde ueber das Anwesen. |
+| 2.7 | ECU hand, 100mm macro | Static | Her finger draws a large circle on the glass, then a centre point. | ELEANORA So much space. Ungenutzt. DRIVER The Zentrum. |
+| 2.8 | Macro | Rack focus | Water droplets trail down from the drawing. | Rain on glass. |
 
-*Look:* Night exterior: headlights flare and throw a giant silhouette onto the white facade.
+### 3. EXT. RETREAT - MORNING (p4-5)
 
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 9.1 | CU, 50mm | Static | Eleanora in bed feeling her device; another breath in the room. | Second breath continues | to generate |
-| 9.2 | Wide | Static | She smokes outside in a jacket over scrubs. Headlights burst; Ezra's silhouette looms over her on the building. | Tyres on rocks | to generate |
-| 9.3 | Wide up the stairs | Static | Ezra drops his bag and climbs into the warm light above. | Welcoming shouts upstairs | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648081251252) |
-| 9.4 | CU | Static | Ezra slumps into bed; her device's green lights his face. A subtle scar on his neck. | - | to generate |
+The gate opens. The guests form a semicircle before a perfectly symmetrical white villa. Charlie and Coco wear worn devices on their necks.
 
-### Scene 10. INT. ELEANORA'S FANTASY - DINING ROOM - NIGHT (p38-40)
+*Look:* Architecture dominates: centred, locked-off, wide. White cube against black forest.
 
-*Look:* Candlelit yellow syrup over a small table dressed exactly as Mother's flat. The group observes from a doorway as if through someone's eyes.
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 3.1 | Extreme wide, 24mm, centred | Locked-off | The gate opens; both cabs pull up before the symmetrical facade. | Gravel crunch, silence. |
+| 3.2 | Low insert, 35mm | Tracking with wheel | Tyres stop on the stones. | Rocks grind. |
+| 3.3 | Low insert | Static | Bags dragged over rocks. | Scrape and rattle. |
+| 3.4 | Top shot | Static | From above, the guests form a rough semicircle. Eleanora lingers at the back. | Wind. |
+| 3.5 | MCU, 85mm | Static | Coco, tablet in hand, whispers. Charlie's half smirk, half grimace. | - |
+| 3.6 | Insert, 100mm | Slow push | The backs of Charlie's and Coco's necks: worn white devices, green glow. | Low electrical hum. |
+| 3.7 | Wide, 35mm | Static | The group before the house, poised. | - |
+| 3.8 | Top shot, very high | Static | The others flow inside. Eleanora is left alone on the stones. | - |
 
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 10.1 | Sound bridge | Static | A TWIST, a drag on the cigarette, a CLICK. She falls forward onto a table. | Inhale, exhale, CLICK | to generate |
-| 10.2 | MS, 50mm, warm | Static | Mother smiles, full of life. They laugh, embrace. | ELEANORA Aunque no seas real, igual quiero abrazarte. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764649030132458) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184422) |
-| 10.3 | POV through doorway | Static | The group watches, stone-faced. Ezra nods, breaking it down. | - | to generate |
-| 10.4 | Wide | Track back fast | The table glides away from the group carrying Eleanora and Mother. Mouths sealed; panic. | Rush of air | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679194525876) |
+### 4. INT. DINING ROOM - DAY (INTERCUT BEDROOMS) (p5-7)
 
-### Scene 11. EXT. FOREST CLEARING - CAI'S FANTASY (p41-46)
+Charlie quotes Ungers: a house without qualities. No locks, no keys, cameras everywhere. Make peace with being watched.
 
-*Look:* Daylight euphoria: yellow sky, impossible greens, top shots of bodies in grass. Sinks into grave imagery.
+*Look:* Symmetrical inserts of the architecture under Charlie's voice. Cameras with green pinpoint lights.
 
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 11.1 | Top shot | Static | Eleanora floats down and grips the grass. Trees rise and settle. | - | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679192250342) |
-| 11.2 | CU, 50mm | Handheld | Cai looks up, laughing, nerves tingling in euphoria. | Cai laughs | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648149170380) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764658160255290) |
-| 11.3 | MS two-shot | Static | Jacqueline beside Eleanora: 'You're a little chameleon.' | CAI Connect. Disconnect. Reconnect. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648149170537) |
-| 11.4 | Intercut FLASHBACK | Handheld | Mother irate in the flat; Jacqueline's lines echo hers. | MOTHER Why can't you fit in? | to generate |
-| 11.5 | Top shot, wide | Slow crane up | The seven lie back; the grass swallows them like a grave while they enjoy it. | - | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647921921649) |
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 4.1 | CU, 50mm, centred | Locked-off | Charlie addresses the group. | CHARLIE 'Dies ist ein Lebensraum, ein Laborversuch.' |
+| 4.2 | Wide, 18mm, looking up | Slow tilt | Insert: the gridded skylight and gallery of the house. | CHARLIE 'A house without qualities.' |
+| 4.3 | Overhead, 24mm | Static | Insert: the library well, perfectly ordered. | 'No ornaments, no details, no bottom nor top.' |
+| 4.4 | Wide, 24mm | Static | Insert: the long white living room, chairs in rows. | CHARLIE (V.O.) No locks. Nor keys. |
+| 4.5 | ECU, 100mm | Static | An eye at a gap in the curtain. Little black cameras glow green in every room. | CHARLIE Privacy is not prerequisite. |
 
-### Scene 12. INT. CAI'S FANTASY - BATHROOM / BLACK WATER / INT. BATHROOM - NIGHT (p46-47)
+### 5. INT. BEDROOMS - DAY (p6-7)
 
-*Look:* Reverse shot woods to bathroom. Hands with tubes. Black water and a glowing green door below.
+Bare rooms, colour-coded scrubs. Jewellery is stripped off. Cali and Cai undress each other, watching Eleanora watch them.
 
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 12.1 | Reverse shot, 35mm | Whip from woods into bathroom | Eleanora reaches the house and vomits into a toilet. | - | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184419) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184436) |
-| 12.2 | CU | Static | A hand holds her hair, then grips. The hands are covered in tubes. | - | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184435) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647923849358) |
-| 12.3 | Underwater wide | Slow sink | Black water. She swims towards a glowing green door, then surrenders and curls up. | Bubbles | to generate |
-| 12.4 | MS, 35mm | Static | Curled in the real bathroom, soaked, head bleeding, gasping. She feels the device; relief. | Gasping | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648321526955) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648038707123) [ref 3](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184371) |
+*Look:* Quiet, voyeuristic. Through doorways and down the hall.
 
-### Scene 13. INT. LIVING ROOM - NIGHT (PARTY) (p47)
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 5.1 | Wide, 32mm | Static | Each room bare but for five sets of colour-coded scrubs and folded towels. | FRANS (V.O.) And who watches? CHARLIE (V.O.) Us. From afar. |
+| 5.2 | CU hands, 85mm | Static | Clasps undone. Jewellery piles up in the bedside drawers. | - |
+| 5.3 | Insert | Static | A red silk garment discarded on a white bed. | - |
+| 5.4 | MS through doorway, 50mm | Slow push | Cali and Cai undress each other, stealing glances down the hall. | - |
+| 5.5 | CU, 85mm | Static | A shirt slips off a bare back. | - |
+| 5.6 | MS, 35mm | Static | Eleanora sits on the edge of her bed, hands gripping it. | - |
 
-*Look:* Red light party. Intercut with Mother dancing in the flat.
+### 6. INT. STAIRWELL - DAY (p7-8)
 
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 13.1 | Handheld follow | Steadicam behind her | Through the party in red light. Jacqueline mouths STRAY. | Music loud | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679193923529) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184386) |
-| 13.2 | MS | Circling | 'It's All Coming Back to Me Now'. Eleanora dances, crying, and does not stop. | Song | to generate |
-| 13.3 | FLASHBACK | Handheld | Eleanora dances for her frail mum, who mirrors her small twirls. | - | to generate |
+The group ascends from shadow into pale light. Charlie and Coco stand either side of the doorway, ceremonial.
 
-### Scene 14. INT. LIVING ROOM / BEDROOM - MORNING AND DAY (p47-54)
+*Look:* Low, symmetrical, the staircase as altar.
 
-*Look:* Cold daylight, sharp. Scratches in the balcony metal. The outhouse glimpsed.
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 6.1 | Wide, 24mm, centred | Locked-off | The gallery stair; figures rise from shadow toward the pale light from above. | CHARLIE (whispers) Get back to a blank canvas. |
+| 6.2 | POV up the stair, 35mm | Steadicam climb | The doorway looms. Charlie and Coco wait either side. | CHARLIE (V.O.) And that's where we all can begin to paint. |
 
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 14.1 | CU | Static | Eleanora on the bed, vacant stare, hand on device. | Echoing scream fades | to generate |
-| 14.2 | Wide | Static | Group conversation in German and Danish. Eleanora at the door. | ELEANORA Could you not see I was uncomfortable? | to generate |
-| 14.3 | Insert, 100mm | Static | Her fingers trail across scratches in the metal ledge. | - | to generate |
-| 14.4 | Wide, 50mm | Static | The outhouse beyond the glass. | CAI It's where they store the batteries. | to generate |
-| 14.5 | MS two-shot | Static | Ezra and Eleanora face each other on the bed, twist each other's devices. | TWIST. CLICK. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184394) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184377) |
+### 7. INT. DINING ROOM - DAY (THE FEAST) (p8-15)
 
-### Scene 15. INT. ELEANORA'S FANTASY - BEDROOM / DINING ROOM - NIGHT (p53-54)
+A magnificent feast with eight black boxes at its centre. Charlie reveals the device; Eleanora names it Offset; she hears her own name as if underwater.
 
-*Look:* Everything far too close. Long lens compression, claustrophobic.
+*Look:* Decadence in cool teal light. The table as stage, composed from the head of the room. The device is the only saturated green.
 
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 15.1 | Tight group, 85mm | Static | Ezra at the table, all pressed together. Mother: 'You brought him here to embarrass me.' | MOTHER GET OUT! | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648112173990) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184427) |
-| 15.2 | Wide, centred | Static | Ezra and Eleanora sit on opposite sides of a bed. Nothing said. | Silence | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647922828452) |
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 7.1 | Wide, 24mm, centred | Slow dolly in | Towers of food, caviar, condensation-covered drinks. Eight black boxes in the middle. | CHARLIE We've come, together. That's seven. |
+| 7.2 | Top shot | Static | The table from above, abundance in a grid. | - |
+| 7.3 | Insert | Static | Bottled water in green glass, row on row. | CHARLIE But you have water. The house is full of water. |
+| 7.4 | CU, 85mm | Static | Cali sips a milkshake halfway up the straw, stops, moans without tasting. Eyes locked on Eleanora. | CHARLIE Offline... Off-grid... Offbeat, Offset. |
+| 7.5 | Insert, 100mm macro | Static | Charlie opens a black box: the device. | Soft hum. |
+| 7.6 | ECU eye, 100mm | Push in | Eleanora hears her own name muffled, as if underwater. | ELEANORA Eleanora. Sound drops under water. |
 
-### Scene 16. INT. / EXT. EZRA'S FANTASY - HOUSE / FOREST EDGE - DAY (p54-58)
+### 8. FLASHBACK - INT. MOTHER'S FLAT - DAY (p13)
 
-*Look:* Theatrical: a crowd in white clapping in rehearsed rhythm. Ezra elevated, stage make-up. Intercut cinema memory inserts.
+Mother holds Eleanora; recognition breaks in.
 
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 16.1 | Insert | Flash | FLASHES of Jasper's fantasy: hands from darkness claiming him. | - | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764649035019987) |
-| 16.2 | Wide, 24mm | Static | A crowd in white clapping in unison below Ezra, elevated by the house. | Aggressive clapping | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184372) |
-| 16.3 | CU, 85mm | Static | Ezra in heavy stage make-up, wide smile, bowing mechanically. | - | to generate |
-| 16.4 | Handheld | Through crowd | Eleanora finds Mother cheering at the front and drags her into the forest. | - | to generate |
-| 16.5 | INSERTS | Handheld | Mother at Cine Malda; then Eleanora on the floor of a toilet cubicle holding her; kids filming. | MOTHER It really was the best day. | to generate |
+*Look:* Warm daylight, handheld 35mm, close.
 
-### Scene 17. EXT. FLO'S FANTASY - LAKE EDGE - DAY (p63-64)
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 8.1 | MCU two-shot, 35mm | Handheld | Mother softly holds Eleanora; she recognises her daughter's face. | MOTHER Eleanora? |
 
-*Look:* OCD fantasy: a massive black pane of glass at the lake. Hypnotic, repetitive.
+### 9. INT. DINING ROOM - DAY (THE DEVICE) (p13-16)
 
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 17.1 | Wide, centred | Locked-off | Flo behind a massive black pane at the lake edge, palms flat. | - | to generate |
-| 17.2 | CU hands | Static | Knuckles red; she wipes one mark, another appears. Faster, almost dancing. | Squeak of glass | to generate |
+Charlie explains the rules: the first under controls the fantasy. Twist for hours, press to go. Charlie and Coco leave; Eleanora watches from the balcony.
 
-### Scene 18. INT. BEDROOM / DINING ROOM / HALLWAY - NIGHT (p64-65)
+*Look:* Charlie centred and talking; the group in singles. Then high and wide from the balcony.
 
-*Look:* Rotting feast lit by a single sliver. Ivy on Ezra's back. Mirror-double dance through empty rooms.
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 9.1 | Wide, 32mm | Static | Charlie stands over the seated group, talking about purpose. | CHARLIE In all relationships there is the talker and there is the doer. |
+| 9.2 | Insert, 100mm | Static | Coco cleans the back of each neck. | - |
+| 9.3 | ECU, 100mm macro | Static | Charlie twists the device and presses the middle button. | TWIST. CLICK. CHARLIE Good energy. |
+| 9.4 | Insert | Static | Green floods the inner ring. | Electric bloom. |
+| 9.5 | CU, 85mm | Static | Eleanora studies a device. | ELEANORA Infinity? |
+| 9.6 | Wide from the balcony, high | Static | Charlie and Coco climb into the last taxi. Coco looks up at Eleanora's silhouette. | CHARLIE (V.O.) You are the glass, the ant, and the child. |
 
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 18.1 | CU | Static | Eleanora finishes Ezra, vacant; smears his release on his jacket. | EZRA Get me some water. | to generate |
-| 18.2 | Wide | Slow push | Frans in shadow behind the rotting food, gnawing a bone. | Chewing, cartilage | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647958658967) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648067717663) |
-| 18.3 | Wide corridor | Steadicam | A figure darts down the corridor; ivy crawls down Ezra's spine; Eleanora and her double slow dance through the house. | - | to generate |
+### 10. INT. DINING ROOM - DAY (THE FAST) (p16-27)
 
-### Scene 19. INT. KITCHEN - DAY (DISH WASHING) (p65-72)
+Devices attached and glowing. The group eats while talking about fasting. Eleanora's joke about starving children goes down badly. Who goes first?
 
-*Look:* Midpoint argument. Static, then handheld as it escalates.
+*Look:* Round-table coverage on a slow lateral dolly; intercut close-ups of chewing.
 
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 19.1 | OTS, 35mm | Static | Eleanora washing up; Jasper and Frans lounge behind. | FRANS Maybe it's why she's here. | to generate |
-| 19.2 | Two-shot, 50mm | Handheld, tightening | Ezra and Eleanora escalate. | EZRA At best you were going to be a good fuck. | to generate |
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 10.1 | Insert, 85mm | Static | Devices on every neck, outer rings pulsing green, inner rings grey. | - |
+| 10.2 | CU hands, 85mm | Static | Cali picks and chops food and eats none of it. Intercut CLOSE on chewing. | CALI The future is fasting. |
+| 10.3 | Wide, 24mm | Slow lateral dolly | The group around the table, eating and judging. | ELEANORA Tell that to the starving children. |
+| 10.4 | MS, 50mm | Static | Frans leans in, mouth on the fork, eyes on Eleanora. | FRANS He paid for you, right? |
+| 10.5 | Wide, 35mm | Static | Silence across the table. | ELEANORA Who goes first? |
 
-## ACT TWO B - THE OUTHOUSE AND THE REVEAL
+### 11. INT. LIVING ROOM - DAY (FIRST ACTIVATION) (p27-28)
 
-### Scene 20. EXT. RETREAT - NIGHT / INT. JACQUELINE'S FANTASY (p72-79)
+Cali twists once and presses. One by one they all go under. Eleanora mimes, then presses with a shaking hand.
 
-*Look:* Outhouse door lit green in the background. Jacqueline's real voice.
+*Look:* Semicircle of seats in a long white room. Locked-off wide, then singles as each goes under.
 
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 20.1 | Wide | Static | Eleanora smokes and wipes a tear; the outhouse door glows green behind. | Group gossip intercut | to generate |
-| 20.2 | CU | Handheld | Jacqueline's fantasy: Eleanora holds her hand as she screams in labour. | JACQUELINE (V.O.) It always comes at a cost. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679195011360) |
-| 20.3 | Two-shot, 50mm | Walk and talk | Jacqueline and Eleanora walk through the house. | JACQUELINE This is my actual voice. | to generate |
-| 20.4 | Wide | Static | Ezra and Jasper before the group: one last special session. Eyes close. | EZRA I will let whoever remains decide. | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648843465237) |
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 11.1 | Wide, 24mm, centred | Locked-off | A semicircle of seats, wine glasses, Eleanora apart from the group. | Breathing grows heavier. |
+| 11.2 | Insert | Static | Cali twists clockwise: one click. | CALI One. |
+| 11.3 | MS, 50mm | Static | She presses. Inner ring glows green. She drops back onto the sofa. | CLICK. |
+| 11.4 | Wide | Static | A row of twists, a row of clicks: one by one they pass out in different directions. | WHOLE GROUP One. |
+| 11.5 | ECU, 100mm | Push in | Eleanora twists, hand shaking, and presses. Her eyes roll back. | Loud CLICK. CUT TO BLACK. |
 
-### Scene 21. EXT. FRANS'S FANTASY - FOREST - NIGHT (THE HUNT) (p79+)
+## Act IIa: Immersion and Erosion
 
-*Look:* Night forest: blue-black, torch beams, inhumanly fast silhouettes. Fully subjective handheld.
+### 12. INT. CALI'S FANTASY - LIVING ROOM / KITCHEN - NIGHT (p28-30)
 
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 21.1 | Low wide | Handheld | Eleanora wakes gasping on the forest floor. | Coughing | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648140072623) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648140072328) |
-| 21.2 | Wide | Whip pan | A blood-soaked woman sprints past. Figures run between trees. | MIXED VOICES RUN! | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648068302144) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184459) |
-| 21.3 | Wide | Handheld chase | Silhouettes; one attacks another from above, darts away inhumanly fast. | - | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184458) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648847233191) [ref 3](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184437) |
-| 21.4 | CU | Handheld | Frans chokes Eleanora. | Choking | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764649689157113) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764649684026434) [ref 3](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764649684026651) |
+In syrupy yellow light, Cali devours a towering chocolate cake while a mirror shows a cleaner version of her. Eleanora bites down on a nail.
 
-### Scene 22. INT. DINING ROOM / BEDROOM - NIGHT (treatment)
+*Look:* First fantasy: warm, slow, floating camera. Food becomes grotesque.
 
-*Look:* The feast fully decayed. Bed time.
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 12.1 | Wide, 24mm | Slow float | Yellow light from the kitchen. The group drifts toward it. | A warm, slowed drone. |
+| 12.2 | Insert, macro | Slow dolly | The tall chocolate cake shimmers alone on the counter. | Cali giggles. |
+| 12.3 | ECU lips, 100mm | Static | She drags a finger through the icing and licks it slowly. | Wet, amplified mouth sounds. |
+| 12.4 | CU, 85mm | Static | Cali eats with both hands, face smeared, animalistic. | Heavy breathing. |
+| 12.5 | MCU | Static | The mirror version of Cali, clean, one teaspoon at a time. | - |
+| 12.6 | CU, 85mm | Static | Cai watches her joy and unravelling, close to tears. | - |
 
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 22.1 | Wide, centred | Locked-off | The last dinner: food fully decayed, flies. | Flies buzzing | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647958659509) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648066972414) [ref 3](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648066972109) |
-| 22.2 | Two-shot | Static | Ezra and Eleanora in bed; he sleeps, she does not. | - | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648112022893) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184431) |
+### 13. INT. LIVING ROOM - NIGHT (CALI'S CONFESSION) (p30-31)
 
-### Scene 23. EXT. / INT. OUTHOUSE - THE OFFSET LAB - NIGHT (treatment)
+Cold green replaces the yellow. Cali laughs hysterically, then talks about her mother. Jacqueline: 'Again?'
 
-*Look:* Clinical lab lit by failing green and red. The device's orange/red danger state.
+*Look:* Back to reality: green device light on faces in the dark.
 
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 23.1 | Wide | Tracking behind | Eleanora crosses to the outhouse building. | Footsteps on gravel | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648081251260) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184447) |
-| 23.2 | Wide | Slow push in | She finds Eve hooked to failing machinery, device sparking red. | Machine alarms | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648844163982) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184418) [ref 3](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184439) |
-| 23.3 | CU | Static | Coco grabs her arm. | - | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764649071411910) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764649071046158) [ref 3](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764648848923717) |
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 13.1 | CU, 85mm | Static | Cali opens her eyes in cold green light and laughs. | Contagious laughter. |
+| 13.2 | Two-shot | Static | The group around her, faces lit green. | CALI She didn't mean greedy, she meant fat. |
+| 13.3 | CU | Static | Necks fall back. TWIST. CLICK. Eyes roll back. | JACQUELINE Again? |
 
-### Scene 24. INT. HOUSE - STAIRS / LIVING ROOM / BALCONY - NIGHT (treatment)
+### 14. INT. JACQUELINE'S FANTASY - BATHROOM - NIGHT (p31-33)
 
-*Look:* Eve dragged into the house. The cold-open stairwell repeated for real.
+Jacqueline lies pregnant in a bath of dark, oil-like water. Drops fall slower and slower, then flow in reverse.
 
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 24.1 | Low wide on the stairs | Static | Eve on the stairs. | - | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184460) |
-| 24.2 | MS | Handheld | Eve, glitching, tells the group's secrets. | - | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647877184426) |
-| 24.3 | Wide | Slow motion | Eve breaks free and jumps from the balcony, the same spot as the year before. | - | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764649685329006) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647964698098) [ref 3](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764679192366069) |
+*Look:* Dark water, yellow syrup light. Stillness.
 
-## ACT THREE - THE RECKONING
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 14.1 | Wide, 24mm | Slow pan | Eleanora wakes under the bookcase; the bathroom glows below. The bathtub of opaque black water. | Drips. |
+| 14.2 | MS, 50mm | Slow pan | The pan reveals Jacqueline is pregnant, hand resting on her belly. | - |
+| 14.3 | CU belly | Static | Uncertainty and quiet happiness. | - |
+| 14.4 | Insert macro | Static | Fingers lift from the water; drops fall slower, slower. | Slowing drips. |
 
-### Scene 25. INT. DINING ROOM - NIGHT (THE RECKONING) (treatment)
+### 15. FLASHBACK - INT. MOTHER'S FLAT - BATHROOM - DAY (p32)
 
-*Look:* Final session at the ruined feast table. Each device turned to infinity. Device moves from green to orange/red danger.
+Eleanora washes her mother's arm, drops the cloth, grips in frustration.
 
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 25.1 | Wide, centred | Locked-off | The group sit for one final shared session at the ruined table. | - | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647958659508) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647958659507) |
-| 25.2 | Insert | Static | One by one Eleanora twists each device past its limit. | TWIST. TWIST. TWIST. | to generate |
-| 25.3 | Wide | Handheld fight | Final fight with Ezra across the spoiled feast. | - | to generate |
+*Look:* Warm, handheld, unflattering daylight.
 
-### Scene 26. EXT. COUNTRY LANE - DAWN (treatment)
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 15.1 | MS, 35mm | Handheld | Eleanora washes her Mother's arm with a cloth. | - |
+| 15.2 | Insert | Static | She grips the arm a little too hard. | - |
 
-*Look:* Ending: barefoot, alive, alone. Wide and still.
+### 16. INT. JACQUELINE'S FANTASY - BATHROOM / INT. LIVING ROOM - NIGHT (p33)
 
-| Shot | Size / lens | Movement | Action | Sound / dialogue | Miro refs |
-|---|---|---|---|---|---|
-| 26.1 | Extreme wide | Locked-off | Eleanora walks away from the estate down the lane at dawn. | Birdsong | [ref 1](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647924139168) [ref 2](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647924578803) [ref 3](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647924578558) [ref 4](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647957038861) [ref 5](https://miro.com/app/board/uXjVKICSnd8=/?moveToWidget=3458764647924761349) |
+The drops flow in reverse. The group wakes; Jacqueline leaves the room, Jasper shuffles after her.
+
+*Look:* Reverse motion, then cold green reality.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 16.1 | Insert | Reverse motion | The drops flow back up into her fingers. | Reversed drip. |
+| 16.2 | MCU | Static | Jacqueline rises and leaves; Jasper follows. | - |
+
+### 17. INT. RETREAT - BEDROOM - NIGHT (p33)
+
+Eleanora in bed feels the device. Another breath continues in the room after hers stops.
+
+*Look:* Dark, tight, sound-led.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 17.1 | CU, 85mm | Static | Eleanora lying awake, fingers at the device. | A second breath continues in the room. |
+
+### 18. EXT. RETREAT - NIGHT (EZRA ARRIVES) (p33-34)
+
+Headlights burst; Ezra's silhouette looms over her on the white wall. He feels for her device, then they hug.
+
+*Look:* Hard headlight, giant shadow on the facade. Then moonlight.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 18.1 | Wide, 24mm | Static | Eleanora smokes in a jacket over her scrubs. Headlights hit; a huge silhouette rises over her. | Tyres on rocks. |
+| 18.2 | MCU, 50mm | Static | Ezra marches in, clicks his tongue, grabs her ears and feels her neck. | - |
+| 18.3 | Two-shot | Static | They hug. Finally, some connection she knows. | - |
+
+### 19. INT. ENTRANCE HALL - NIGHT (p34)
+
+Ezra drops his bag and climbs toward the warm glow and the group's laughter.
+
+*Look:* From the shadows looking up the stair.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 19.1 | Wide, 24mm | Static | He climbs into the light; Eleanora watches from the shadows. | Welcoming shouts upstairs. |
+
+### 20. INT. BEDROOM - NIGHT (p34-35)
+
+Ezra stumbles in with wine. Her device lights his face green. She sees a scar on his neck and stops herself.
+
+*Look:* Green device light on skin in a dark room.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 20.1 | MS | Static | Ezra hangs his jacket and downs his wine. | - |
+| 20.2 | Insert, 100mm | Static | A subtle scar on the back of his neck. Her hand reaches, then stops. | - |
+
+### 21. INT. BEDROOM - MORNING (p35)
+
+Ezra wakes her for sex. Her touch is detached, procedural. Her eyes are closed.
+
+*Look:* Close and unglamorous. The kettle hum overlaps the cut.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 21.1 | Two-shot, 50mm | Static | Ezra kisses her neck; she stiffens, gaze drifting past him. | EZRA You're so gorgeous. |
+| 21.2 | Wide | Static | She exhales off the side of the bed, still. | The rising hum of a kettle. |
+
+### 22. INT. RETREAT - LIVING ROOM - DAY (p35-39)
+
+Hot water poured into green glass. Ezra is all charm with the group. Jacqueline mouths 'Stray'.
+
+*Look:* Clean daylight; Ezra centred, Eleanora edge of frame.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 22.1 | Insert | Static | Flo pours boiling water into a green see-through mug. | The kettle CLICKS OFF. FLO Hot or cold? |
+| 22.2 | CU | Static | Jacqueline mouths the word. | JACQUELINE Stray. |
+| 22.3 | MS | Static | Ezra, device on his neck, grabs Eleanora by the shoulders. | EZRA Gluecklich? ELEANORA Gluecklich. |
+
+### 23. INT. LIVING ROOM - BALCONY DOOR - DAY (p39)
+
+Voices fade. A cigarette. Twist. Click. She falls forward onto a table.
+
+*Look:* Sound bridge: the draw of a cigarette cut against the device.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 23.1 | CU profile | Static | Eleanora at the balcony door, the group fading behind her. | Inhale. A TWIST. |
+| 23.2 | MCU | Handheld | Smoke from her lips; breathing heavier; she falls forward. | A CLICK. |
+
+### 24. INT. ELEANORA'S FANTASY - DINING ROOM - NIGHT (p39-40)
+
+The room becomes her mother's flat. Mother is well and joyful. The table glides away from the group; their mouths are sealed.
+
+*Look:* Candlelit yellow syrup. The group watches from a doorway, as if through someone's eyes.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 24.1 | Wide, 35mm | Static | A small candlelit table in the corner, dressed as Mother's flat. | - |
+| 24.2 | Two-shot, 50mm | Static | Mother smiles, full of life. They laugh and hug. | ELEANORA Aunque no seas real, igual quiero abrazarte. |
+| 24.3 | POV through doorway | Static | The group watches. Ezra leans in, analysing. | - |
+| 24.4 | Top shot | Fast pull back | The table glides away. The group's mouths are sealed shut. | Rush of air. |
+
+### 25. EXT. RETREAT - DAY (p41-42)
+
+Chain-smoking, Eleanora repeats 'You are not my mother'. Then a twist and click from nowhere, and she drops backward.
+
+*Look:* Exterior steps, handheld, nervous.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 25.1 | CU, 85mm | Handheld | Cigarettes on the ground; she mutters under her breath. | EZRA (V.O.) Do you resent her? ELEANORA No eres mi madre. |
+| 25.2 | MS | Static | She drops backward from the same position. | A TWIST. A CLICK. |
+
+### 26. EXT. FOREST CLEARING - CAI'S FANTASY (INTERCUT MOTHER'S FLAT) (p42-45)
+
+Cai's euphoric forest. Jacqueline calls Eleanora a chameleon while Mother's accusations echo. The grass swallows the group like a grave.
+
+*Look:* Impossible greens and a yellow sky. Top shots of bodies in grass. Intercut harsh flat memory.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 26.1 | Low wide, 18mm | Static | Eleanora floats down and grips the grass; the trees rise and settle. | - |
+| 26.2 | Wide | Static | Cai drops to the ground, fingers in the grass, euphoric. Ezra above on the hill. | CAI Connect. Disconnect. Reconnect. |
+| 26.3 | MCU | Static | Jacqueline lies beside her. | JACQUELINE You're a little chameleon. |
+| 26.4 | MS, 35mm | Handheld | FLASHBACK: Mother irate and frightened in the flat. | MOTHER Why can't you fit in? |
+| 26.5 | Insert | Static | Cali shades her face with a fern. | CALI She was just asleep under a fern. |
+| 26.6 | Top shot | Slow crane up | The seven lie back; the grass envelops them like a grave. They enjoy it. | - |
+
+### 27. INT. CAI'S FANTASY - BATHROOM / BLACK WATER (p45-46)
+
+Eleanora vomits; hands covered in tubes push her into the toilet. Black water. A glowing green door below. She surrenders.
+
+*Look:* Reverse shot from the woods into the bathroom. Underwater: black, one green door.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 27.1 | MS | Static | She vomits into the toilet; a hand holds her hair, then grips. | ELEANORA Thank you. |
+| 27.2 | Insert | Static | The hands are covered in tubes. | - |
+| 27.3 | Underwater CU | Slow sink | Black water. She swims toward a glowing green door, then curls up and surrenders. | Bubbles. Silence. |
+| 27.4 | Wide | Static | The green door, glowing far below. | - |
+
+### 28. INT. BATHROOM - NIGHT (p46)
+
+She gasps awake, soaked, bleeding slightly. She feels the device and relief washes over her.
+
+*Look:* Cold, wet, real.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 28.1 | CU, 50mm | Static | Curled against the wall, soaked in scrubs, gasping. Music upstairs. | Gasping. |
+
+### 29. INT. LIVING ROOM - NIGHT (PARTY) / FLASHBACK (p46-47)
+
+Red light, loud music. 'It's All Coming Back to Me Now'. Eleanora dances and cries; intercut her dancing for her frail mother.
+
+*Look:* Red-washed, handheld, circling.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 29.1 | Handheld follow | Steadicam behind her | Through the party in red light. Bodies close. | Music loud. JACQUELINE (mouths) STRAY. |
+| 29.2 | MS | Circling | She steps into the middle of the room and dances. | 'It's All Coming Back to Me Now'. |
+| 29.3 | FLASHBACK | Handheld | Eleanora dances, playful, for her frail mother, who mirrors her small twirls. | - |
+| 29.4 | CU | Circling | Under the red light she keeps dancing, crying. | - |
+
+### 30. INT. BEDROOM - MORNING (p47)
+
+An echoing scream fades. Morning light breaks with sharpness. Vacant stare, hand on the device.
+
+*Look:* Hard white daylight.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 30.1 | CU, 85mm | Static | Eleanora on the bed, vacant. | An echoing scream fades. |
+
+### 31. INT. LIVING ROOM - MORNING (p47-52)
+
+The group gossips in German and Danish. Eleanora finds scratches in the balcony metal and asks about the other building: 'where they store the batteries'.
+
+*Look:* Group in one frame, Eleanora in the doorway. Insert of scratches. The outhouse glimpsed.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 31.1 | Wide, 32mm | Static | The group talks over her in German and Danish. | EZRA Ich habe gesagt, es wird alles gut. |
+| 31.2 | Insert, 100mm | Static | Her fingers trail across scratches in the metal ledge. | - |
+| 31.3 | Wide, 50mm | Static | The other building beyond the glass. | CAI It's where they store the batteries. |
+
+### 32. INT. BEDROOM - DAY (p52-53)
+
+Ezra and Eleanora face each other on the bed and twist each other's devices.
+
+*Look:* Symmetrical two-shot.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 32.1 | Wide, centred | Static | Facing each other on the bed. They grab each other's devices. | TWIST. CLICK. |
+
+### 33. INT. ELEANORA'S FANTASY - BEDROOM / DINING ROOM - NIGHT (p53-54)
+
+Everything is too close. Mother screams at Ezra to get out. Then a still, silent bed.
+
+*Look:* Long-lens compression, claustrophobic.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 33.1 | Tight, 85mm | Static | Ezra at the table, all pressed together. | MOTHER You brought him here to embarrass me. |
+| 33.2 | CU | Static | Mother holds her ears and screams. | MOTHER GET OUT! |
+| 33.3 | Wide, centred | Static | Ezra and Eleanora on opposite sides of a bed. Nothing said. | Silence. |
+
+### 34. INT. LIVING ROOM - DAY (EZRA'S STORY) / JASPER'S FANTASY (p54-56)
+
+Ezra tells his 'leading man' story to applause. Flashes of Jasper's fantasy: hands from the dark claiming him.
+
+*Look:* Ezra centred and lit; flash cuts to darkness.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 34.1 | MCU, 50mm | Static | Ezra holding court, delighted with himself. | EZRA You'll be wearing your fucking cortado, buddy. |
+| 34.2 | Flash insert | Handheld | Hands erupt from darkness, clutching Jasper. | JASPER Nothing major to report. |
+
+### 35. INT. / EXT. EZRA'S FANTASY - HOUSE / FOREST - DAY (p56-58)
+
+A crowd in white claps for Ezra in stage make-up. Mother cheers at the front. In the forest, Eleanora asks about the day at the cinema.
+
+*Look:* Theatrical, rehearsed applause. Then a quiet forest and handheld memory inserts.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 35.1 | Wide, 24mm | Static | A crowd dressed in white claps in unison. | Aggressive rhythmic clapping. |
+| 35.2 | Top shot | Static | The crowd fills the open land between house and forest, all eyes on Ezra. | - |
+| 35.3 | MS | Handheld | Eleanora finds Mother cheering at the front and drags her into the forest. | ELEANORA Por quien estas animando? |
+| 35.4 | INSERT | Handheld | Eleanora holding her mother's arm on the street; the cinema. | ELEANORA (V.O.) So I surprised you. |
+| 35.5 | INSERT | Handheld | On the floor beneath a toilet cubicle holding her mother; kids filming. | ELEANORA It was the worst day. |
+
+### 36. INT. LIVING ROOM - DAY (p59-63)
+
+Awkward silence after Ezra's fantasy. The argument about beauty escalates until Jacqueline twists Flo's device.
+
+*Look:* Tightening singles as the scene escalates.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 36.1 | Two-shot | Handheld, tightening | Ezra and Eleanora argue about looks. | EZRA What else do you have to offer? |
+| 36.2 | CU | Static | Jacqueline twists Flo's device and presses. | TWIST. CLICK. |
+
+### 37. EXT. FLO'S FANTASY - LAKE EDGE - DAY (p63-64)
+
+Flo wipes a massive black pane of glass. Every mark returns. She smiles, hypnotised.
+
+*Look:* Locked-off, centred, repetitive.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 37.1 | Extreme wide | Locked-off | A massive black pane at the edge of the lake. | Wind on water. |
+| 37.2 | CU hands | Static | Red knuckles, soap streaks; she wipes one mark, another appears. | Squeak of glass. |
+
+## Act IIb: The Hunt and the Outhouse
+
+### 38. EXT. FRONT ENTRANCE - NIGHT (p64)
+
+Ezra apologises, animated and unheard. Eleanora smokes.
+
+*Look:* Wide, no dialogue heard.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 38.1 | Wide | Static | Ezra gesturing; Eleanora still, smoking. | Night ambience only. |
+
+### 39. INT. BEDROOM - NIGHT (p64)
+
+She finishes him without a word, then smears his release onto his jacket.
+
+*Look:* Static, unflinching.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 39.1 | Two-shot | Static | She stares at the ceiling, vacant. | EZRA You love it. Get me some water. |
+| 39.2 | Insert | Static | She smears his jacket with the front and back of her hand. | - |
+
+### 40. INT. DINING ROOM - NIGHT (p64-65)
+
+Frans sits in the dark behind the rotting food, gnawing a bone.
+
+*Look:* One sliver of light on his body.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 40.1 | Wide | Slow push | Frans in shadow at the back of the room, behind the rotting feast. | Chewing, cartilage, bone. |
+
+### 41. INT. HALLWAY / BEDROOM - NIGHT (p65)
+
+Ivy crawls down Ezra's spine. A figure darts down the corridor. Eleanora meets her double and they slow dance through the empty rooms.
+
+*Look:* Blurred, dreamlike Steadicam through the house.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 41.1 | Wide corridor | Steadicam | A figure darts down the corridor. | - |
+| 41.2 | MS | Mirrored movement | She follows the woman; they move in sync. | - |
+| 41.3 | Wide | Slow drift | Dressed identically, they dance through every empty room. | - |
+
+### 42. INT. BEDROOM - MORNING (p65)
+
+She wakes to empty space and a wave of calm.
+
+*Look:* Soft morning, empty bed.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 42.1 | Wide | Static | Eleanora wakes alone; hand on her neck; calm. | - |
+
+### 43. INT. KITCHEN - DAY (DISH WASHING) (p65-72)
+
+The midpoint fight. Ezra calls her a creepy fan, then admits she was only ever going to be 'a good fuck'.
+
+*Look:* Static OTS that becomes handheld as it escalates.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 43.1 | OTS, 35mm | Static | Eleanora at the sink; Jasper and Frans lounge behind. | FRANS Maybe it's why she's here. |
+| 43.2 | Two-shot, 50mm | Handheld, tightening | Ezra and Eleanora face off. | ELEANORA I am lost. Cracked and broken in every way. |
+| 43.3 | CU | Static | Ezra, unrepentant. | EZRA At best you were going to be a good fuck. |
+
+### 44. EXT. RETREAT - NIGHT (INTERCUT GROUP) (p72-74)
+
+Eleanora smokes, wiping a tear; the outhouse door is lit green behind her. Inside, the group dissects her mother's death.
+
+*Look:* Green door deep in frame.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 44.1 | Wide | Static | She smokes; deep in the frame, the outhouse door glows green. | FRANS She was so rude to him. |
+| 44.2 | Wide | Static | The group gossips about her mother. | EZRA Brain to jelly and all that. |
+
+### 45. INT. JACQUELINE'S FANTASY - NIGHT (p74)
+
+Eleanora holds Jacqueline's hand as she screams in labour.
+
+*Look:* Close, harsh.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 45.1 | CU | Handheld | Jacqueline screams in labour. | JACQUELINE (V.O.) It always comes at a cost. |
+
+### 46. EXT. RETREAT - NIGHT / INT. HOUSE (p75-78)
+
+Jacqueline drops the act and speaks in her real voice about Jasper, money and children. 'I think I'm becoming a ghost and you're searching for one.'
+
+*Look:* Walk-and-talk through the house.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 46.1 | CU | Static | Jacqueline smoking, different temperament. | JACQUELINE This is my actual voice. |
+| 46.2 | Wide corridor | Walk and talk | They walk through the house. | JACQUELINE I have no money. |
+
+### 47. INT. LIVING ROOM - NIGHT (THE LAST NIGHT) (p78-79)
+
+Ezra and Jasper announce something special. Everyone closes their eyes. Jacqueline looks at Eleanora with regret.
+
+*Look:* Wide, then singles closing their eyes.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 47.1 | Wide | Static | Ezra and Jasper stand before the group. | EZRA As it's the last night. |
+| 47.2 | ECU eyes | Static | Eleanora closes her eyes slowly. | TWIST and CLICK echo louder than before. |
+
+### 48. EXT. FRANS'S FANTASY - FOREST - NIGHT (THE HUNT) (p79 + Miro)
+
+Eleanora wakes gasping on the forest floor. A blood-soaked woman sprints past. Silhouettes move inhumanly fast. Frans hunts and chokes her.
+
+*Look:* Blue-black night forest, torchlight, fully subjective handheld.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 48.1 | Low wide | Handheld | Eleanora wakes frantically on the forest floor. | Coughing. |
+| 48.2 | Wide | Whip pan | A blood-soaked woman sprints past. | MIXED VOICES RUN! |
+| 48.3 | Wide | Handheld chase | Silhouettes between the trees; one attacks another from above. | - |
+| 48.4 | MS | Handheld | Frans's hunting party looks up into the dark. | - |
+| 48.5 | CU | Handheld | Frans chokes Eleanora. | Choking. |
+
+### 49. INT. DINING ROOM - NIGHT (LAST DINNER) (Miro / treatment)
+
+The feast is fully decayed.
+
+*Look:* Locked-off, centred.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 49.1 | Wide, centred | Locked-off | The last dinner, fully decayed. | Flies. |
+
+### 50. INT. BEDROOM - NIGHT (BED TIME) (Miro / treatment)
+
+Ezra sleeps. Eleanora does not.
+
+*Look:* Static two-shot.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 50.1 | Two-shot | Static | Ezra asleep; Eleanora awake, deciding. | - |
+
+### 51. EXT. / INT. OUTHOUSE - THE OFFSET LAB - NIGHT (Miro / treatment)
+
+Eleanora goes to the outhouse and finds Eve, hooked to failing machinery, her device sparking red. Coco grabs her arm.
+
+*Look:* Green-lit clinical corridors. Device danger state: orange-red.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 51.1 | Wide | Tracking behind | Eleanora walks a green-lit corridor. | Footsteps, hum. |
+| 51.2 | Wide | Slow push in | The lab: green neon, beds, machines. | Machine alarms. |
+| 51.3 | Insert, 100mm | Static | Eve's device flashing red. | Sparking. |
+| 51.4 | MS | Static | Eve, bound and sustained. | - |
+| 51.5 | MS | Static | Coco grabs Eleanora's arm. | - |
+
+### 52. INT. HOUSE - STAIRS / LIVING ROOM - NIGHT (Miro / treatment)
+
+Eleanora drags Eve into the house. Eve, glitching, tells the group's secrets and begs to be killed.
+
+*Look:* Horror register. The cold-open stairwell, now real.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 52.1 | Wide | Static | Eve on the stairs. | - |
+| 52.2 | ECU eyes | Static | Eve, glitching, tells the group's secrets. | - |
+| 52.3 | CU | Handheld | Eve begs to be killed, an echo of Mother. | - |
+
+### 53. INT. HOUSE - BALCONY - NIGHT (Miro / treatment)
+
+Eve breaks free and jumps from the balcony, dying in the same spot as a year before.
+
+*Look:* Matches the cold open's leap.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 53.1 | Wide | Slow motion | Eve jumps. A body on the floor below the windows. | - |
+
+### 54. INT. LIVING ROOM - NIGHT (THE REQUEST) (treatment)
+
+The group fractures into blame and denial. Eleanora quietly asks to go back in one more time.
+
+*Look:* Static, quiet.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 54.1 | Two-shot | Static | The group, shaken and blaming. | 'We thought she died.' |
+| 54.2 | ECU | Static | Eleanora, calm. | ELEANORA One more time. |
+
+## Act III: The Reckoning
+
+### 55. INT. DINING ROOM - NIGHT (THE RECKONING) (treatment)
+
+At the ruined feast, Eleanora turns each device toward infinity: Frans after a struggle, Charlie turned by a weeping Coco, then the rest.
+
+*Look:* Centred and controlled again, but now Eleanora holds the dial. Device moves from green to orange-red.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 55.1 | Wide, centred | Locked-off | The group sits for one final shared session. | - |
+| 55.2 | ECU | Static | Eleanora twists a device past its limit. | TWIST. TWIST. TWIST. |
+| 55.3 | CU | Handheld | Frans struggles and loses. | - |
+| 55.4 | Insert | Static | Ring after ring flashes red. | - |
+
+### 56. INT. DINING ROOM - NIGHT (THE FIGHT) (treatment)
+
+A full physical fight with Ezra across the spoiled feast. She narrowly overpowers him.
+
+*Look:* Handheld, close, brutal.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 56.1 | Wide | Handheld | Ezra and Eleanora fight across the rotting table. | - |
+| 56.2 | CU | Handheld | Bloodied, she completes the twist. | CLICK. |
+
+### 57. INT. ELEANORA'S FANTASY - MOTHER - (FINAL) (treatment)
+
+By her own choice, one final fantasy with her mother.
+
+*Look:* Warm, still, at peace.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 57.1 | Two-shot | Static | Mother and daughter, at peace. | - |
+
+### 58. EXT. COUNTRY LANE - DAWN (treatment)
+
+Barefoot, alive and alone, Eleanora walks away from the estate.
+
+*Look:* Extreme wide, still, fog.
+
+| Shot | Size / lens | Movement | Action | Sound / dialogue |
+|---|---|---|---|---|
+| 58.1 | Extreme wide | Locked-off | Eleanora walks away down the lane into fog. | Birdsong. |
+| 58.2 | MS | Static | She stops in the trees, in her scrubs, and breathes. | - |
+| 58.3 | Aerial | Drone rising | The forest swallows the estate. | END. |
