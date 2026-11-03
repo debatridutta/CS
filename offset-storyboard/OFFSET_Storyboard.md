@@ -2,7 +2,15 @@
 
 Shot-by-shot storyboard covering every scene of the 15-07-2026 screenplay (scenes 1-47) plus the ending from the Miro board and the OFFSET Treatment (scenes 48-58).
 
-Images: the director's Miro references and Offset Deck V5. Interactive version with all images and a play-through animatic: https://claude.ai/artifact/WJoQZqQMdZT2EViNhAcHaa
+Interactive version with all images and a play-through animatic: https://claude.ai/artifact/WJoQZqQMdZT2EViNhAcHaa
+
+## Device (from DEVICE DESIGN.pdf)
+
+- About 1 inch across, raised about 0.4 from the skin; circular, white, smooth, slightly convex like a magnifying glass.
+- Twist the dial once per hour, then push the middle to turn on.
+- Outer ring green when on; inner ring green when connected.
+- The longer in the fantasy, the more it glows toward red: bright green, then bright yellow, then bright red.
+- A neural implant at the base of the skull; a surgical spike reaches the cortex and rewrites signals.
 
 ## Act I: Arrival
 
@@ -51,7 +59,7 @@ The gate opens. The guests form a semicircle before a perfectly symmetrical whit
 | 3.3 | Low insert | Static | Bags dragged over rocks. | Scrape and rattle. |
 | 3.4 | Top shot | Static | From above, the guests form a rough semicircle. Eleanora lingers at the back. | Wind. |
 | 3.5 | MCU, 85mm | Static | Coco, tablet in hand, whispers. Charlie's half smirk, half grimace. | - |
-| 3.6 | Insert, 100mm | Slow push | The backs of Charlie's and Coco's necks: worn white devices, green glow. | Low electrical hum. |
+| 3.6 | Insert, 100mm | Slow push | The backs of Charlie's and Coco's necks: worn white 1-inch discs, slightly convex, green outer glow. Tiny surgical scars. | Low electrical hum. |
 | 3.7 | Wide, 35mm | Static | The group before the house, poised. | - |
 | 3.8 | Top shot, very high | Static | The others flow inside. Eleanora is left alone on the stones. | - |
 
@@ -130,8 +138,8 @@ Charlie explains the rules: the first under controls the fantasy. Twist for hour
 |---|---|---|---|---|
 | 9.1 | Wide, 32mm | Static | Charlie stands over the seated group, talking about purpose. | CHARLIE In all relationships there is the talker and there is the doer. |
 | 9.2 | Insert, 100mm | Static | Coco cleans the back of each neck. | - |
-| 9.3 | ECU, 100mm macro | Static | Charlie twists the device and presses the middle button. | TWIST. CLICK. CHARLIE Good energy. |
-| 9.4 | Insert | Static | Green floods the inner ring. | Electric bloom. |
+| 9.3 | ECU, 100mm macro | Static | Charlie twists the white, convex dial once and pushes the middle. It sits at the base of the skull like a magnifying glass on the skin. | TWIST. CLICK. CHARLIE Good energy. |
+| 9.4 | Insert | Static | Outer ring green: on. Inner ring floods green: connected. | Electric bloom. |
 | 9.5 | CU, 85mm | Static | Eleanora studies a device. | ELEANORA Infinity? |
 | 9.6 | Wide from the balcony, high | Static | Charlie and Coco climb into the last taxi. Coco looks up at Eleanora's silhouette. | CHARLIE (V.O.) You are the glass, the ant, and the child. |
 
@@ -143,7 +151,7 @@ Devices attached and glowing. The group eats while talking about fasting. Eleano
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 10.1 | Insert, 85mm | Static | Devices on every neck, outer rings pulsing green, inner rings grey. | - |
+| 10.1 | Insert, 85mm | Static | Devices on every neck: outer rings green (on), inner rings grey (not yet connected). | - |
 | 10.2 | CU hands, 85mm | Static | Cali picks and chops food and eats none of it. Intercut CLOSE on chewing. | CALI The future is fasting. |
 | 10.3 | Wide, 24mm | Slow lateral dolly | The group around the table, eating and judging. | ELEANORA Tell that to the starving children. |
 | 10.4 | MS, 50mm | Static | Frans leans in, mouth on the fork, eyes on Eleanora. | FRANS He paid for you, right? |
@@ -158,7 +166,7 @@ Cali twists once and presses. One by one they all go under. Eleanora mimes, then
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 11.1 | Wide, 24mm, centred | Locked-off | A semicircle of seats, wine glasses, Eleanora apart from the group. | Breathing grows heavier. |
-| 11.2 | Insert | Static | Cali twists clockwise: one click. | CALI One. |
+| 11.2 | Insert | Static | Cali twists the dial clockwise: one click, one hour. | CALI One. |
 | 11.3 | MS, 50mm | Static | She presses. Inner ring glows green. She drops back onto the sofa. | CLICK. |
 | 11.4 | Wide | Static | A row of twists, a row of clicks: one by one they pass out in different directions. | WHOLE GROUP One. |
 | 11.5 | ECU, 100mm | Push in | Eleanora twists, hand shaking, and presses. Her eyes roll back. | Loud CLICK. CUT TO BLACK. |
@@ -291,7 +299,7 @@ Hot water poured into green glass. Ezra is all charm with the group. Jacqueline 
 |---|---|---|---|---|
 | 22.1 | Insert | Static | Flo pours boiling water into a green see-through mug. | The kettle CLICKS OFF. FLO Hot or cold? |
 | 22.2 | CU | Static | Jacqueline mouths the word. | JACQUELINE Stray. |
-| 22.3 | MS | Static | Ezra, device on his neck, grabs Eleanora by the shoulders. | EZRA Gluecklich? ELEANORA Gluecklich. |
+| 22.3 | MS | Static | Ezra, his device already fitted (Flo helped), grabs Eleanora by the shoulders. | EZRA Gluecklich? ELEANORA Gluecklich. |
 
 ### 23. INT. LIVING ROOM - BALCONY DOOR - DAY (p39)
 
@@ -624,7 +632,7 @@ Eleanora goes to the outhouse and finds Eve, hooked to failing machinery, her de
 |---|---|---|---|---|
 | 51.1 | Wide | Tracking behind | Eleanora walks a green-lit corridor. | Footsteps, hum. |
 | 51.2 | Wide | Slow push in | The lab: green neon, beds, machines. | Machine alarms. |
-| 51.3 | Insert, 100mm | Static | Eve's device flashing red. | Sparking. |
+| 51.3 | Insert, 100mm | Static | Eve's device after a year under: burnt past green and yellow to bright red, flickering. | Sparking. |
 | 51.4 | MS | Static | Eve, bound and sustained. | - |
 | 51.5 | MS | Static | Coco grabs Eleanora's arm. | - |
 
@@ -672,9 +680,9 @@ At the ruined feast, Eleanora turns each device toward infinity: Frans after a s
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 55.1 | Wide, centred | Locked-off | The group sits for one final shared session. | - |
-| 55.2 | ECU | Static | Eleanora twists a device past its limit. | TWIST. TWIST. TWIST. |
+| 55.2 | ECU | Static | Eleanora twists a dial past its limit, toward infinity. | TWIST. TWIST. TWIST. |
 | 55.3 | CU | Handheld | Frans struggles and loses. | - |
-| 55.4 | Insert | Static | Ring after ring flashes red. | - |
+| 55.4 | Insert | Static | Ring after ring runs green, then yellow, then bright red as the hours pass. | - |
 
 ### 56. INT. DINING ROOM - NIGHT (THE FIGHT) (treatment)
 
