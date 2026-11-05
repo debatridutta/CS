@@ -39,8 +39,7 @@ A woman sprints up a stairwell toward a warm doorway while voices in Spanish and
 | 1.5 | Wide, 32mm | Handheld | She turns the corner, back pressed to the wall, and sees the open balcony. | ELEANORA (V.O.) Tu boca puede imitar los sonidos. |
 | 1.6 | CU, 85mm | Static | She exhales shakily. Fear grips her as she sees it. | ELEANORA (V.O.) So you need to stay silent. |
 | 1.7 | Wide, 32mm | Slow push in | The open balcony, lit with warm yellow light, beckoning her in. | ELEANORA (V.O.) Para siempre. Forever. |
-| 1.8 | Insert, 85mm | Slow motion, 120fps | She jumps at it with all her might. Feet leave the ground. | Wind roar drops to silence. |
-| 1.9 | Wide, side-on | Slow motion | She launches through the open balcony into the light. | Hard JUMP CUT to the car. |
+| 1.8 | Insert, 85mm | Slow motion, 120fps | She jumps at it with all her might. Feet leave the ground. | Wind roar drops to silence. Hard JUMP CUT to the car. |
 
 ### 2. INT. TAXI - MORNING (MOVING) (p2-4)
 
