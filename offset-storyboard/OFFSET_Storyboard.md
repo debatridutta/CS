@@ -32,12 +32,15 @@ A woman sprints up a stairwell toward a warm doorway while voices in Spanish and
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 1.1 | Wide, 24mm, centred | Locked-off | Black. Then a silhouette at the foot of a stair tunnel, blown-out light above. | MOTHER (V.O.) Wake up, Eleanora. Wach auf, Eleanora. |
-| 1.2 | Low, 50mm on the feet | Tracking up the steps, 96fps | Muddied bare feet pound the steps, leaving dark smears. | Breath loud and close. ELEANORA (V.O.) Esto no es real. |
-| 1.3 | Extreme wide, 18mm | Static | She halts at the top, tiny in the dark. Her eyes dart back down. | MOTHER (V.O.) This is not real. |
-| 1.4 | POV down the stair, 24mm | Slow zoom in | Her footprints are already gone. The open dark doorway below; wind howls through it. | ELEANORA (V.O.) Por eso tengo que matarte. |
-| 1.5 | Wide, 32mm | Handheld chase | She turns the corner: the balcony, lit warm yellow, beckoning. | ELEANORA (V.O.) So you need to stay silent. |
-| 1.6 | Insert, 85mm | Slow motion, 120fps | She jumps at it with all her might. Feet leave the ground. | Para siempre. Forever. Hard JUMP CUT. |
+| 1.1 | ECU feet, 50mm low | Tracking up the steps, 96fps | Black. Then muddied bare feet pound the steps, leaving dark smears. | MOTHER (V.O.) Wake up, Eleanora. Wach auf, Eleanora. |
+| 1.2 | Wide, 24mm, centred | Locked-off, slow motion | A woman sprints up a stair tunnel toward blown-out light. | ELEANORA (V.O.) Despierta, Eleanora. Esto no es real. |
+| 1.3 | Wide, 24mm, looking up | Static | The stairwell rises to a bright opening. Her breath echoes loudly. | Breath, echoing. |
+| 1.4 | POV, 35mm, centred | Slow push in | She halts at the top before the symmetrical doorway, frozen. Her eyes dart back: her footprints are already gone, wind howls through the dark doorway below. | MOTHER (V.O.) This is not real. ELEANORA (V.O.) Por eso tengo que matarte. |
+| 1.5 | Wide, 50mm | Handheld chase | She sprints again, turning the corner, through haze and pooled light. | ELEANORA (V.O.) Pero porque no hablas mi idioma. |
+| 1.6 | CU, 85mm | Static | She exhales shakily. Fear grips her as she sees it. | ELEANORA (V.O.) So you need to stay silent. |
+| 1.7 | Wide, 32mm | Slow push in | The open balcony, lit with warm yellow light, beckoning her in. | ELEANORA (V.O.) Para siempre. Forever. |
+| 1.8 | Insert, 85mm | Slow motion, 120fps | She jumps at it with all her might. Feet leave the ground. | Wind roar drops to silence. |
+| 1.9 | Wide, side-on | Slow motion | She launches through the open balcony into the light. | Hard JUMP CUT to the car. |
 
 ### 2. INT. TAXI - MORNING (MOVING) (p2-4)
 
