@@ -4,6 +4,16 @@ Shot-by-shot storyboard covering every scene of the 15-07-2026 screenplay (scene
 
 Interactive version with all images and a play-through animatic: https://claude.ai/artifact/WJoQZqQMdZT2EViNhAcHaa
 
+## Story notes
+
+- Ezra is Eleanora's fling, not her boyfriend. After years caring for her mother through a long illness, Eleanora is grieving and wants to put herself out there and experience life.
+
+## Memory colour
+
+- Grey: the hard years and bad memories (the bath, Mother's confusion, the cubicle).
+- White: the good times (recognition, dancing for Mother, the final fantasy).
+- Yellow: the walk to the cinema (Cine Malda).
+
 ## Device (from DEVICE DESIGN.pdf)
 
 - About 1 inch across, raised about 0.4 from the skin; circular, white, smooth, slightly convex like a magnifying glass.
@@ -122,7 +132,7 @@ A magnificent feast with eight black boxes at its centre. Charlie reveals the de
 
 Mother holds Eleanora; recognition breaks in.
 
-*Look:* Warm daylight, handheld 35mm, close.
+*Look:* A good memory: soft, bright, near-white light. Handheld 35mm, close.
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
@@ -217,7 +227,7 @@ Jacqueline lies pregnant in a bath of dark, oil-like water. Drops fall slower an
 
 Eleanora washes her mother's arm, drops the cloth, grips in frustration.
 
-*Look:* Warm, handheld, unflattering daylight.
+*Look:* Greyish, flat, unflattering daylight. Handheld.
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
@@ -340,7 +350,7 @@ Chain-smoking, Eleanora repeats 'You are not my mother'. Then a twist and click 
 
 Cai's euphoric forest. Jacqueline calls Eleanora a chameleon while Mother's accusations echo. The grass swallows the group like a grave.
 
-*Look:* Impossible greens and a yellow sky. Top shots of bodies in grass. Intercut harsh flat memory.
+*Look:* Impossible greens and a yellow sky. Top shots of bodies in grass. Intercut grey, harsh memory of the flat.
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
@@ -378,7 +388,7 @@ She gasps awake, soaked, bleeding slightly. She feels the device and relief wash
 
 Red light, loud music. 'It's All Coming Back to Me Now'. Eleanora dances and cries; intercut her dancing for her frail mother.
 
-*Look:* Red-washed, handheld, circling.
+*Look:* Red-washed, handheld, circling. The flashback of dancing for Mother is soft white.
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
@@ -446,14 +456,14 @@ Ezra tells his 'leading man' story to applause. Flashes of Jasper's fantasy: han
 
 A crowd in white claps for Ezra in stage make-up. Mother cheers at the front. In the forest, Eleanora asks about the day at the cinema.
 
-*Look:* Theatrical, rehearsed applause. Then a quiet forest and handheld memory inserts.
+*Look:* Theatrical, rehearsed applause. Then a quiet forest. Memory inserts: warm yellow for the walk to the cinema, grey for the cubicle.
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 35.1 | Wide, 24mm | Static | A crowd dressed in white claps in unison. | Aggressive rhythmic clapping. |
 | 35.2 | Top shot | Static | The crowd fills the open land between house and forest, all eyes on Ezra. | - |
 | 35.3 | MS | Handheld | Eleanora finds Mother cheering at the front and drags her into the forest. | ELEANORA Por quien estas animando? |
-| 35.4 | INSERT | Handheld | Eleanora holding her mother's arm on the street; the cinema. | ELEANORA (V.O.) So I surprised you. |
+| 35.4 | INSERT | Handheld | Eleanora walks her mother, arm in arm, down the street to Cine Malda. Her mother's eyes light up in her seat. | ELEANORA (V.O.) How you took the train. The popcorn. So I surprised you. |
 | 35.5 | INSERT | Handheld | On the floor beneath a toilet cubicle holding her mother; kids filming. | ELEANORA It was the worst day. |
 
 ### 36. INT. LIVING ROOM - DAY (p59-63)
@@ -699,7 +709,7 @@ A full physical fight with Ezra across the spoiled feast. She narrowly overpower
 
 By her own choice, one final fantasy with her mother.
 
-*Look:* Warm, still, at peace.
+*Look:* White and bright, still, at peace: the good times.
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
