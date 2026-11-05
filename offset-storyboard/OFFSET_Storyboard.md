@@ -35,7 +35,7 @@ A woman sprints up a stairwell toward a warm doorway while voices in Spanish and
 | 1.1 | ECU feet, 50mm low | Tracking up the steps, 96fps | Black. Then muddied bare feet pound the steps, leaving dark smears. | MOTHER (V.O.) Wake up, Eleanora. Wach auf, Eleanora. |
 | 1.2 | Wide, 24mm, centred | Locked-off, slow motion | A woman sprints up a stair tunnel toward blown-out light. | ELEANORA (V.O.) Despierta, Eleanora. Esto no es real. |
 | 1.3 | POV, 35mm, centred | Slow push in | She halts at the top before the symmetrical doorway, frozen. Her eyes dart back: her footprints are already gone, wind howls through the dark doorway below. | MOTHER (V.O.) This is not real. ELEANORA (V.O.) Por eso tengo que matarte. |
-| 1.4 | Wide, 50mm | Handheld chase | She sprints again, through haze and pooled light. | ELEANORA (V.O.) Pero porque no hablas mi idioma. |
+| 1.4 | MS, 85mm | Handheld chase | She sprints again, through haze and pooled light. | ELEANORA (V.O.) Pero porque no hablas mi idioma. |
 | 1.5 | Wide, 32mm | Handheld | She turns the corner, back pressed to the wall, and sees the open balcony. | ELEANORA (V.O.) Tu boca puede imitar los sonidos. |
 | 1.6 | CU, 85mm | Static | She exhales shakily. Fear grips her as she sees it. | ELEANORA (V.O.) So you need to stay silent. |
 | 1.7 | Wide, 32mm | Slow push in | The open balcony, lit with warm yellow light, beckoning her in. | ELEANORA (V.O.) Para siempre. Forever. |
