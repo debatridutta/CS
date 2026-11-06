@@ -301,7 +301,7 @@ Ezra stumbles in with wine. Her device lights his face green. She sees a scar on
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 20.1 | MS | Static | Ezra strolls in with the end of a glass of wine. He carefully takes off his jacket and hangs it, downs his wine and plants it on the bedside table. | - |
+| 20.1 | CU, 50mm | Static | Ezra strolls in with the end of a glass of wine. He carefully takes off his jacket and hangs it, downs his wine and plants it on the bedside table. | - |
 | 20.2 | ECU, 100mm | Static | He slumps down onto the bed and looks across at her for a moment. His face illuminates with green light from her device. He turns away. | - |
 | 20.3 | Insert, 100mm | Static | Eleanora glances around. A very subtle scar on the back of his neck can be seen. She reaches out, only to stop herself. | - |
 
@@ -313,8 +313,9 @@ Ezra wakes her for sex. Her touch is detached, procedural. Her eyes are closed.
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 21.1 | Two-shot, 50mm | Static | Ezra kisses her neck; she stiffens, gaze drifting past him. | EZRA You're so gorgeous. |
-| 21.2 | Wide | Static | She exhales off the side of the bed, still. | The rising hum of a kettle. |
+| 21.1 | Two-shot, 50mm | Static | Ezra kisses the side of Eleanora's neck, a trace of red wine on his lips. She stiffens; she doesn't lean into him. Her gaze drifts past his shoulder. | - |
+| 21.2 | Insert, 85mm | Static | Her touch is quick, detached, almost procedural. His breath catches, his body tensing; his fist clenches the sheet. Her eyes are closed. | An extra-loud climax. EZRA You're so gorgeous. |
+| 21.3 | Wide | Static | She exhales off the side of the bed, still. | The rising hum of a kettle. |
 
 ### 22. INT. RETREAT - LIVING ROOM - DAY (p35-39)
 
