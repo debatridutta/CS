@@ -326,7 +326,7 @@ Hot water poured into green glass. Ezra is all charm with the group. Jacqueline 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 22.1 | Insert | Static | Flo pours boiling water into a green see-through mug. | The kettle CLICKS OFF. FLO Hot or cold? |
-| 22.2 | CU | Static | Jacqueline mouths the word. | JACQUELINE Stray. |
+| 22.2 | CU, 85mm | Static | Jacqueline mouths the word. | JACQUELINE Stray. |
 | 22.3 | MS | Static | Ezra, his device already fitted (Flo helped), grabs Eleanora by the shoulders. | EZRA Gluecklich? ELEANORA Gluecklich. |
 
 ### 23. INT. LIVING ROOM - BALCONY DOOR - DAY (p39)
