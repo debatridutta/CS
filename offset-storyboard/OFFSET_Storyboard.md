@@ -184,13 +184,13 @@ Cali twists once and presses. One by one they all go under. Eleanora mimes, then
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 11.1 | Wide, 24mm, centred | Locked-off | A semicircle of seats, wine glasses, Eleanora apart from the group. | Breathing grows heavier. |
-| 11.2 | Insert | Static | Cali twists the dial clockwise: one click, one hour. | CALI One. |
-| 11.3 | MS, 50mm | Static | She presses. Inner ring glows green. She drops back onto the sofa. | CLICK. |
-| 11.4 | Wide | Static | A row of twists, a row of clicks: one by one they pass out in different directions. | WHOLE GROUP One. |
-| 11.5 | ECU, 100mm | Push in | Eleanora twists, hand shaking, and presses. Her eyes roll back. | Loud CLICK. CUT TO BLACK. |
-
-## Act IIa: Immersion and Erosion
+| 11.1 | Wide, 24mm, centred | Locked-off | A semi-circle of seats holds all but one. Eleanora is in her own chair, a little apart from the group. | - |
+| 11.2 | Wide, 32mm, over Eleanora's shoulder | Static | Everyone else occupies the sofa and adjacent seats, facing inward as if bracing for something unsaid. The mood shifts from jovial and tipsy to tightened. | The room is still, apart from the breathing which has become heavier. |
+| 11.3 | Insert, 85mm | Static | Varyingly filled wine glasses cover the table. | Breathing. |
+| 11.4 | Insert | Static | Cali twists the dial clockwise: one click, one hour. | CALI One. |
+| 11.5 | MS, 50mm | Static | She presses. Inner ring glows green. She drops back onto the sofa. | CLICK. |
+| 11.6 | Wide | Static | A row of twists, a row of clicks: one by one they pass out in different directions. | WHOLE GROUP One. |
+| 11.7 | ECU, 100mm | Push in | Eleanora twists, hand shaking, and presses. Her eyes roll back. | Loud CLICK. CUT TO BLACK. |
 
 ### 12. INT. CALI'S FANTASY - LIVING ROOM / KITCHEN - NIGHT (p28-30)
 
