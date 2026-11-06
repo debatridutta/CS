@@ -85,7 +85,7 @@ Close on Charlie addressing the group. He quotes Ungers over insert shots of the
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 4.1 | CU, 50mm, centred | Locked-off | Close on Charlie, speaking, addressing the group. | CHARLIE 'Dies ist ein Lebensraum, ein Laborversuch. Eine Darstellung der Idee der Welt.' ('This is a living space, a laboratory test. A representation of the idea of the world.') |
+| 4.1 | CU, 50mm | Locked-off | Close on Charlie, speaking, addressing the group. | CHARLIE 'Dies ist ein Lebensraum, ein Laborversuch. Eine Darstellung der Idee der Welt.' ('This is a living space, a laboratory test. A representation of the idea of the world.') |
 | 4.2 | Wide, 35mm, centred | Locked-off | Insert shot: building architecture. | CHARLIE (CONT'D) I can't take credit for it, nor shall I. So I use the words of the man who designed this place. Oswald. Mathias. Ungers. |
 | 4.3 | Wide, 24mm | Slow push in | Insert shot: building architecture. | CHARLIE (CONT'D) 'An idea of the world.' Who speaks like that nowadays? Such grandiose plans. |
 | 4.4 | Wide, 18mm, looking up | Slow tilt | Insert shot: building architecture. | CHARLIE (CONT'D) His aim was 'To see how far architecture can be abstract. A house without qualities. No ornaments, no details, no bottom nor top. Everything subtracted to the absolute core of abstraction.' End quote. |
