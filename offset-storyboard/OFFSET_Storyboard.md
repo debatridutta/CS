@@ -279,7 +279,7 @@ Headlights burst; Ezra's silhouette looms over her on the white wall. He feels f
 | 18.1 | CU, 85mm | Static | Eleanora is having a cigarette in front of the house, wearing a jacket over her scrubs. She lights it. | The flick of a lighter. |
 | 18.2 | Wide, 50mm, her POV | Static | Suddenly, a huge bright light bursts at her from outside. | The noise of car tyres on rocks. |
 | 18.3 | Wide, 24mm | Static | The light hits the figure, creating a large silhouette against the building which looms over Eleanora, covering her in shadow. As the figure becomes clearer, we see Ezra marching forward with bag in hand. | - |
-| 18.4 | MCU, 50mm | Static | Ezra marches in, clicks his tongue, grabs her ears and feels her neck. | - |
+| 18.4 | ECU, 100mm | Static | Ezra makes a talking symbol with his hand, shaking his head. The car drives off. He reaches out and grabs the top of her ears and feels her neck. | A strange clicking sound from his mouth. |
 | 18.5 | CU, 85mm | Static | They hug. Finally, some connection she knows. | - |
 
 ### 19. INT. ENTRANCE HALL - NIGHT (p34)
@@ -290,7 +290,8 @@ Ezra drops his bag and climbs toward the warm glow and the group's laughter.
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 19.1 | Wide, 24mm | Static | He climbs into the light; Eleanora watches from the shadows. | Welcoming shouts upstairs. |
+| 19.1 | Low wide, 32mm | Static | Light comes from the top of the stairs. He drops his bag at the foot of the stairs. It slides to a stop near her feet. | EZRA I'll just say hello. I'll be down in a minute. A swift peck on the cheek. Laughter echoes upstairs. |
+| 19.2 | Wide, 24mm | Static | Unfazed, Ezra heads up the stairs, drawn toward the warm glow spilling through the open doorway above. From the shadows, Eleanora watches him climb into the light. | His footsteps echo loudly on the stairs. |
 
 ### 20. INT. BEDROOM - NIGHT (p34-35)
 
