@@ -77,21 +77,21 @@ The gate opens. The guests form a semicircle before a perfectly symmetrical whit
 | 3.8 | Wide, 35mm | Static | The group before the house, poised. | - |
 | 3.9 | Top shot, very high | Static | The others flow inside. Eleanora is left alone on the stones. | - |
 
-### 4. INT. DINING ROOM - DAY (INTERCUT BEDROOMS) (p5-7)
+### 4. INT. DINING ROOM - DAY (INTERCUT BEDROOM) (p5-7)
 
-Charlie quotes Ungers: a house without qualities. No locks, no keys, cameras everywhere. Make peace with being watched.
+Close on Charlie addressing the group. He quotes Ungers over insert shots of the building's architecture. Little black cameras in every room, a bright green light emitting from them. No locks. Nor keys.
 
-*Look:* Symmetrical inserts of the architecture under Charlie's voice. Cameras with green pinpoint lights.
+*Look:* Insert shots of the building architecture under Charlie's voice. The cameras' bright green light.
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 4.1 | CU, 50mm, centred | Locked-off | Charlie addresses the group. | CHARLIE 'Dies ist ein Lebensraum, ein Laborversuch. Eine Darstellung der Idee der Welt.' |
-| 4.2 | Wide, 35mm, centred | Locked-off | Insert: the white villa among black trees, every window identical, set in a perfect rhythm. | CHARLIE (V.O.) The man who designed this place. Oswald. Mathias. Ungers. |
-| 4.3 | Wide, 24mm | Slow push in | Insert: the gallery around the stairwell. Dark gridded balustrades, twin columns, walls of books, every doorway framed the same. | CHARLIE (V.O.) 'An idea of the world.' Who speaks like that nowadays? Such grandiose plans. |
-| 4.4 | Wide, 18mm, looking up | Slow tilt | Insert: the gridded skylight and gallery of the house. | CHARLIE (V.O.) 'To see how far architecture can be abstract. A house without qualities.' 'No ornaments, no details, no bottom nor top.' 'Everything subtracted to the absolute core of abstraction.' |
-| 4.5 | Wide, 24mm | Static | Insert: the long white living room, chairs in rows. | CHARLIE (V.O.) Abstraction. That is what we are going to do here. Find the core of each of you. No locks. Nor keys. |
-| 4.6 | ECU, 100mm, centred | Locked-off, slow push in | Insert: a camera dome set flush in the brushed steel wall, the house reflected in its lens. One small green light. | CHARLIE Privacy is not prerequisite. |
-| 4.7 | ECU, 100mm | Static | An eye fills the frame, green-grey iris, pupil fixed. Watching, and watched. Little black cameras glow green in every room. | CHARLIE Make peace with being watched. |
+| 4.1 | CU, 50mm, centred | Locked-off | Close on Charlie, speaking, addressing the group. | CHARLIE 'Dies ist ein Lebensraum, ein Laborversuch. Eine Darstellung der Idee der Welt.' ('This is a living space, a laboratory test. A representation of the idea of the world.') |
+| 4.2 | Wide, 35mm, centred | Locked-off | Insert shot: building architecture. | CHARLIE (CONT'D) I can't take credit for it, nor shall I. So I use the words of the man who designed this place. Oswald. Mathias. Ungers. |
+| 4.3 | Wide, 24mm | Slow push in | Insert shot: building architecture. | CHARLIE (CONT'D) 'An idea of the world.' Who speaks like that nowadays? Such grandiose plans. |
+| 4.4 | Wide, 18mm, looking up | Slow tilt | Insert shot: building architecture. | CHARLIE (CONT'D) His aim was 'To see how far architecture can be abstract. A house without qualities. No ornaments, no details, no bottom nor top. Everything subtracted to the absolute core of abstraction.' End quote. |
+| 4.5 | Wide, 24mm | Static | Insert shot: building architecture. | CHARLIE (CONT'D) Abstraction. That is what we are going to do here. Find the core of each of you. |
+| 4.6 | ECU, 100mm, centred | Locked-off | INT. BEDROOM - DAY. Little black cameras in every room, a bright green light emitting from them. | CHARLIE (V.O.) No locks. Nor keys. |
+| 4.7 | ECU, 100mm | Static | Watched. The group unpack and manoeuvre below. | CHARLIE (CONT'D) Privacy is not prerequisite. Make peace with being watched. |
 
 ### 5. INT. BEDROOMS - DAY (p6-7)
 
