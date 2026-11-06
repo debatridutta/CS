@@ -68,13 +68,14 @@ The gate opens. The guests form a semicircle before a perfectly symmetrical whit
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 3.1 | Extreme wide, 24mm, centred | Locked-off | The gate opens; both cabs pull up before the symmetrical facade. | Gravel crunch, silence. |
-| 3.2 | Low insert, 35mm | Tracking with wheel | Tyres stop on the stones. | Rocks grind. |
-| 3.3 | Low insert | Static | Bags dragged over rocks. | Scrape and rattle. |
-| 3.4 | Top shot | Static | From above, the guests form a rough semicircle. Eleanora lingers at the back. | Wind. |
-| 3.5 | MCU, 85mm | Static | Coco, tablet in hand, whispers. Charlie's half smirk, half grimace. | - |
-| 3.6 | Insert, 100mm | Slow push | The backs of Charlie's and Coco's necks: worn white 1-inch discs, slightly convex, green outer glow. Tiny surgical scars. | Low electrical hum. |
-| 3.7 | Wide, 35mm | Static | The group before the house, poised. | - |
-| 3.8 | Top shot, very high | Static | The others flow inside. Eleanora is left alone on the stones. | - |
+| 3.2 | ECU, 100mm | Static | Brake lights flare red as the taxi pulls to a stop: the only colour against the grey morning. | Engine idles. |
+| 3.3 | Low insert, 35mm | Tracking with wheel | Tyres stop on the stones. | Rocks grind. |
+| 3.4 | Low insert | Static | Bags dragged over rocks. | Scrape and rattle. |
+| 3.5 | Top shot | Static | From above, the guests form a rough semicircle. Eleanora lingers at the back. | Wind. |
+| 3.6 | MCU, 85mm | Static | Coco, tablet in hand, whispers. Charlie's half smirk, half grimace. | - |
+| 3.7 | Insert, 100mm | Slow push | The backs of Charlie's and Coco's necks: worn white 1-inch discs, slightly convex, green outer glow. Tiny surgical scars. | Low electrical hum. |
+| 3.8 | Wide, 35mm | Static | The group before the house, poised. | - |
+| 3.9 | Top shot, very high | Static | The others flow inside. Eleanora is left alone on the stones. | - |
 
 ### 4. INT. DINING ROOM - DAY (INTERCUT BEDROOMS) (p5-7)
 
