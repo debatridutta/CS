@@ -52,10 +52,12 @@ Eleanora jolts awake pressed to the window. Flo and Frans ignore her questions. 
 | 2.1 | Aerial, top-down | Drone tracking | Two black taxis snake along a road cut through dense forest. | Engine hum bridges the cut. |
 | 2.2 | Insert, 35mm | Car-mounted | Wing mirror, countryside whizzing by in a green blur. | Wind roar. |
 | 2.3 | Insert, 85mm | Static | The car clock reads 13:00. | Indicator tick. |
-| 2.4 | CU, 85mm through glass | Static | Eleanora jolts awake, face pressed to the window, breath fogging the view. | Sharp inhale. ELEANORA Where is this house? FLO Not a house. |
-| 2.5 | POV back seat, 32mm | Static | GOLI the driver through the windscreen, wipers sweeping the wet forest road. | DRIVER Wir fahren seit einer Stunde ueber das Anwesen. |
-| 2.6 | ECU hand, 100mm macro | Static | Her finger draws a large circle on the glass, then a centre point. | ELEANORA So much space. Ungenutzt. DRIVER The Zentrum. |
-| 2.7 | Macro | Rack focus | Water droplets trail down from the drawing. | Rain on glass. |
+| 2.4 | CU, 85mm through glass | Static | Eleanora jolts awake, face pressed to the window, breath fogging the view. | Sharp inhale. |
+| 2.5 | Wide, high angle | Slow crane, following | Two large black taxis move down wet country lanes through the misty forest. | Tyres hiss on the wet road. |
+| 2.6 | Insert, 50mm | Static | Eleanora sits up with her 'German for Beginners': beat-up, dog-eared in every which way, Post-it notes sticking out. | ELEANORA Where is this house? FLO Not a house. |
+| 2.7 | POV back seat, 32mm | Static | GOLI the driver through the windscreen, wipers sweeping the wet forest road. | DRIVER Wir fahren seit einer Stunde ueber das Anwesen. |
+| 2.8 | ECU hand, 100mm macro | Static | Her finger draws a large circle on the glass, then a centre point. | ELEANORA So much space. Ungenutzt. DRIVER The Zentrum. |
+| 2.9 | Macro | Rack focus | Water droplets trail down from the drawing. | Rain on glass. |
 
 ### 3. EXT. RETREAT - MORNING (p4-5)
 
