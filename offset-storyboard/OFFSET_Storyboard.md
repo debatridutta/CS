@@ -379,12 +379,13 @@ Eleanora floats down into Cai's forest; trees rise and settle under a yellow sky
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 26.1 | Low wide, 18mm | Static | Eleanora floats across the ground; as she lands, her hands grip onto the grass. The space shifts: tall trees rise and settle into place. Light filters through the branches, unreal but calming. She senses something slightly wrong beneath the beauty. | - |
-| 26.2 | Wide | Static | Cai looks up at the yellow sky. He drops to the ground, fingers pressing into the grass as if to anchor himself, nerves tingling in euphoria. Ezra sits above them on the hill. Cali sits quietly with a soft, dreamy smile. | CAI Connect. Disconnect. Reconnect. |
-| 26.3 | MCU | Static | Eleanora turns to Jacqueline, who lies beside her. | ELEANORA What do you think of me? JACQUELINE Honest. You're a little chameleon. Unsure which colour to change to. You've been through some things... Not sure why you're here? |
-| 26.4 | MS, 35mm | Handheld | FLASHBACK: Mother is irate, panicked, rambling; when she makes eye contact it looks fearful rather than spiteful. | MOTHER Always disappearing like that. They don't like you. Why can't you fit in? Is there something wrong with you? They never come to see you. ELEANORA They never came to see me. |
-| 26.5 | Insert | Static | Cali shades her face with a fern-like hand. The group is quiet; they all turn away from her. Their faces blur in and out of focus. | ELEANORA Who did you lose? CALI She was just asleep under a fern... It was me... maybe it was you. CAI You can trust us. |
-| 26.6 | Top shot | Slow crane up | Eleanora moves in reverse away from the group, eyes darting. Cai lets out an ecstatic breath; they all lie back, sinking into the grass. The grass envelopes them like a grave: seven bodies being swallowed up, but they are enjoying it. | ELEANORA (under her breath) Could you just bring me back though, please? |
+| 26.1 | Low wide, 18mm | Static | Eleanora floats across the ground. The space subtly shifts: tall trees rise and settle into place. Light filters through the branches, unreal but calming. She senses something slightly wrong beneath the beauty. | - |
+| 26.2 | Insert, 85mm | Static | As she gently lands, her hands grip onto the grass. | - |
+| 26.3 | Wide | Static | Cai looks up at the yellow sky. He drops to the ground, fingers pressing into the grass as if to anchor himself, nerves tingling in euphoria. Ezra sits above them on the hill. Cali sits quietly with a soft, dreamy smile. | CAI Connect. Disconnect. Reconnect. |
+| 26.4 | MCU | Static | Eleanora turns to Jacqueline, who lies beside her. | ELEANORA What do you think of me? JACQUELINE Honest. You're a little chameleon. Unsure which colour to change to. You've been through some things... Not sure why you're here? |
+| 26.5 | MS, 35mm | Handheld | FLASHBACK: Mother is irate, panicked, rambling; when she makes eye contact it looks fearful rather than spiteful. | MOTHER Always disappearing like that. They don't like you. Why can't you fit in? Is there something wrong with you? They never come to see you. ELEANORA They never came to see me. |
+| 26.6 | Insert | Static | Cali shades her face with a fern-like hand. The group is quiet; they all turn away from her. Their faces blur in and out of focus. | ELEANORA Who did you lose? CALI She was just asleep under a fern... It was me... maybe it was you. CAI You can trust us. |
+| 26.7 | Top shot | Slow crane up | Eleanora moves in reverse away from the group, eyes darting. Cai lets out an ecstatic breath; they all lie back, sinking into the grass. The grass envelopes them like a grave: seven bodies being swallowed up, but they are enjoying it. | ELEANORA (under her breath) Could you just bring me back though, please? |
 
 ### 27. INT. CAI'S FANTASY - BATHROOM / BLACK WATER (p45-46)
 
