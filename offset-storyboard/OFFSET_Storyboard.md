@@ -315,7 +315,7 @@ Ezra wakes her for sex. Her touch is detached, procedural. Her eyes are closed.
 |---|---|---|---|---|
 | 21.1 | Two-shot, 50mm | Static | Ezra kisses the side of Eleanora's neck, a trace of red wine on his lips. She stiffens; she doesn't lean into him. Her gaze drifts past his shoulder. | - |
 | 21.2 | Insert, 85mm | Static | Her touch is quick, detached, almost procedural. His breath catches, his body tensing; his fist clenches the sheet. Her eyes are closed. | An extra-loud climax. EZRA You're so gorgeous. |
-| 21.3 | Wide | Static | She exhales off the side of the bed, still. | The rising hum of a kettle. |
+| 21.3 | CU, 50mm | Static | Eleanora now remains still, eyes open, half her face in the pillow. She exhales off the side of the bed. | The rising hum of a kettle. |
 
 ### 22. INT. RETREAT - LIVING ROOM - DAY (p35-39)
 
