@@ -337,8 +337,9 @@ Voices fade. A cigarette. Twist. Click. She falls forward onto a table.
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 23.1 | CU profile | Static | Eleanora at the balcony door, the group fading behind her. | Inhale. A TWIST. |
-| 23.2 | MCU | Handheld | Smoke from her lips; breathing heavier; she falls forward. | A CLICK. |
+| 23.1 | Wide, 32mm | Static | The group chatters in the living room. Eleanora moves away toward the balcony door. | Overlapping chatter, fading until the words are lost. |
+| 23.2 | CU profile | Static | Eleanora at the balcony door, pensive, bracing for what is to come. A cigarette in her hand. | Inhale. The sound of the draw. A TWIST. |
+| 23.3 | MCU | Handheld | Smoke from her lips; breathing heavier; she falls forward. | A CLICK. |
 
 ### 24. INT. ELEANORA'S FANTASY - DINING ROOM - NIGHT (p39-40)
 
