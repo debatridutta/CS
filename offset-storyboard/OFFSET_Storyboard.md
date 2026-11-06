@@ -68,7 +68,7 @@ The gate opens. The guests form a semicircle before a perfectly symmetrical whit
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 3.1 | Extreme wide, 24mm, centred | Locked-off | The gate opens; both cabs pull up before the symmetrical facade. | Gravel crunch, silence. |
-| 3.2 | ECU, 100mm | Static | Brake lights flare red as the taxi pulls to a stop: the only colour against the grey morning. | Engine idles. |
+| 3.2 | ECU, 100mm | Static | A brake light flares red as the taxi pulls to a stop: the only colour against the grey morning. | Engine idles. |
 | 3.3 | Low insert, 35mm | Tracking with wheel | Tyres stop on the stones. | Rocks grind. |
 | 3.4 | Low insert | Static | Bags dragged over rocks. | Scrape and rattle. |
 | 3.5 | Top shot | Static | From above, the guests form a rough semicircle. Eleanora lingers at the back. | Wind. |
