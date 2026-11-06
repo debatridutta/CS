@@ -278,7 +278,7 @@ Headlights burst; Ezra's silhouette looms over her on the white wall. He feels f
 |---|---|---|---|---|
 | 18.1 | Wide, 24mm | Static | Eleanora smokes in a jacket over her scrubs. Headlights hit; a huge silhouette rises over her. | Tyres on rocks. |
 | 18.2 | MCU, 50mm | Static | Ezra marches in, clicks his tongue, grabs her ears and feels her neck. | - |
-| 18.3 | Two-shot | Static | They hug. Finally, some connection she knows. | - |
+| 18.3 | CU, 85mm | Static | They hug. Finally, some connection she knows. | - |
 
 ### 19. INT. ENTRANCE HALL - NIGHT (p34)
 
