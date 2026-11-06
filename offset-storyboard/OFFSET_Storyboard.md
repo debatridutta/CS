@@ -87,7 +87,7 @@ Charlie quotes Ungers: a house without qualities. No locks, no keys, cameras eve
 |---|---|---|---|---|
 | 4.1 | CU, 50mm, centred | Locked-off | Charlie addresses the group. | CHARLIE 'Dies ist ein Lebensraum, ein Laborversuch. Eine Darstellung der Idee der Welt.' |
 | 4.2 | Wide, 35mm, centred | Locked-off | Insert: the white villa among black trees, every window identical, set in a perfect rhythm. | CHARLIE (V.O.) The man who designed this place. Oswald. Mathias. Ungers. |
-| 4.3 | Extreme wide, 24mm | Slow push in | Insert: the house across the lawn and the still lake, a measured volume in a gridded landscape. | CHARLIE (V.O.) 'An idea of the world.' Who speaks like that nowadays? Such grandiose plans. |
+| 4.3 | Wide, 24mm | Slow push in | Insert: the gallery around the stairwell. Dark gridded balustrades, twin columns, walls of books, every doorway framed the same. | CHARLIE (V.O.) 'An idea of the world.' Who speaks like that nowadays? Such grandiose plans. |
 | 4.4 | Wide, 18mm, looking up | Slow tilt | Insert: the gridded skylight and gallery of the house. | CHARLIE (V.O.) 'To see how far architecture can be abstract. A house without qualities.' |
 | 4.5 | Wide, 24mm, looking up | Slow crane up | Insert: the spiral stair rising through the library, white and exact. | CHARLIE (V.O.) 'No ornaments, no details,' |
 | 4.6 | Overhead, 24mm | Static | Insert: the library well from above, perfectly ordered. | CHARLIE (V.O.) 'no bottom nor top.' |
