@@ -193,6 +193,8 @@ Cali twists once, mouths 'I love you' to Cai and presses; she passes out. A row 
 | 11.7 | MCU, 50mm | Static | One by one they all follow suit, passing out in a similar manner in different directions. | A row of clicks. |
 | 11.8 | ECU eyes, 100mm | Static | Eleanora surveys the room: these characters, so lively, now in complete silence. She mimes passing out, flicking her head back in a strange manner. She twists her device. Her hand shakes. Tentatively she presses. Her eyes roll back. | A loud click. CUT TO BLACK. |
 
+## Act IIa: Immersion and Erosion
+
 ### 12. INT. CALI'S FANTASY - LIVING ROOM / KITCHEN - NIGHT (p28-30)
 
 In syrupy yellow light, Cali devours a towering chocolate cake while a mirror shows a cleaner version of her. Eleanora bites down on a nail.
@@ -511,6 +513,8 @@ Flo stands behind a massive black pane of glass at the edge of the lake. She wip
 | 37.1 | Extreme wide | Locked-off | Flo stands behind a massive black pane of glass at the edge of the lake, palms pressed flat. Marks appear across the surface: endless lines, smudges, imperfections. | - |
 | 37.2 | CU hands | Static | She wipes one clean; another instantly appears. Another. Her fingers are red at the knuckles, tiny streaks of soap and water trailing down her hands. A flicker of irritation, then a slow, satisfied smile; she moves faster, almost dancing with the repetition. | Flo exhales, a soft, contented sigh. |
 
+## Act IIb: The Hunt and the Outhouse
+
 ### 38. EXT. FRONT ENTRANCE - NIGHT (p64)
 
 We do not hear what is said: Ezra is very animated with his speech and apology while Eleanora stands and smokes.
@@ -699,6 +703,8 @@ Script (p79): Eleanora wakes frantically on the forest floor; a blood-soaked wom
 |---|---|---|---|---|
 | 54.1 | Two-shot | Static | The group scrambles to distance themselves, fracturing into blame, panic and denial. | 'We thought she died.' |
 | 54.2 | ECU | Static | Eleanora's quiet, unsettling request. | ELEANORA One more time. |
+
+## Act III: The Reckoning
 
 ### 55. INT. DINING ROOM - NIGHT (THE RECKONING) (treatment)
 
