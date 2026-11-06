@@ -397,9 +397,9 @@ Eleanora vomits into the toilet; a hand holds her hair, then grips. The hands ar
 |---|---|---|---|---|
 | 27.1 | MS | Static | Eleanora finally reaches the property and vomits into the closest toilet. A hand comes from behind her, holding her hair gently at first, then grabs a little rougher. | ELEANORA Thank you. |
 | 27.2 | Insert | Static | She reaches back: the hands are covered in tubes. They grab her hair and push her head into the toilet, further and further in. | - |
-| 27.3 | Underwater CU | Slow sink | Black water surrounds Eleanora. She swims toward a glowing green door below. Bubbles escape her lips; realisation comes over her face as she starts scrambling toward the surface. | - |
+| 27.3 | Underwater CU | Slow sink | Black water surrounds Eleanora. She swims toward a glowing green door below. Bubbles escape her lips; realisation comes over her face as she scrambles toward the surface. Her eyes close. Out of breath, she gives in, curls into herself and surrenders to the depths. | JUMP CUT TO: |
 | 27.4 | Wide | Static | The glowing green door, below. | - |
-| 27.5 | Wide, 35mm, floor level | Static | Her eyes close. Out of breath, she gives in. She curls into herself and surrenders to the depths. | JUMP CUT TO: |
+| 27.5 | Wide, 35mm, floor level | Static | JUMP CUT TO: INT. BATHROOM - NIGHT. Back in reality: curled up in the same position, she breathes, gasping for air. | Gasping. |
 
 ### 28. INT. BATHROOM - NIGHT (p46)
 
@@ -409,7 +409,7 @@ Curled against the wall, gasping, soaked, her head bleeding slightly. She feels 
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 28.1 | CU, 50mm | Static | Curled up in the same position, back against the wall, gasping for air. She pushes her wet hair behind her ears and feels the device attached: a wave of relief. Soaked in her scrubs, her head bleeding slightly from the top. | Gasping. Music coming from upstairs. |
+| 28.1 | CU, 50mm | Static | Back against the wall, she gets her breath back and pushes her wet hair behind her ears. She feels the device attached: a wave of relief washes over her. Soaked in her scrubs, her head bleeding slightly from the top. | Music coming from upstairs. |
 
 ### 29. INT. LIVING ROOM - NIGHT (PARTY) / FLASHBACK (p46-47)
 
