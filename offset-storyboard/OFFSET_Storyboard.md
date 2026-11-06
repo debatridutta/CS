@@ -171,7 +171,7 @@ Devices attached and glowing. The group eats while talking about fasting. Eleano
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 10.1 | Insert, 85mm | Static | Devices on every neck: outer rings green (on), inner rings grey (not yet connected). | - |
-| 10.2 | CU hands, 85mm | Static | Cali picks and chops food and eats none of it. Intercut CLOSE on chewing. | CALI The future is fasting. |
+| 10.2 | CU hands, 85mm | Static | Cali picks and chops and adds food to her plate but very clearly isn't eating anything. A routine she has done many times. Intercut CLOSE on chewing. | CALI 'The future is fasting' I hear. |
 | 10.3 | Wide, 24mm | Slow lateral dolly | The group around the table, eating and judging. | ELEANORA Tell that to the starving children. |
 | 10.4 | CU, 50mm | Static | Frans eats with his fingers, eyes on Eleanora. Eleanora winces. | FRANS He paid for you right? You wouldn't be speaking like that if you paid for this yourself. |
 | 10.5 | Wide, 35mm | Static | Silence across the table. | ELEANORA Who goes first? |
