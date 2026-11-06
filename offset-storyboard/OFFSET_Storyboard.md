@@ -154,11 +154,13 @@ Charlie explains the rules: the first under controls the fantasy. Twist for hour
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 9.1 | Wide, 32mm | Static | Charlie stands over the seated group, talking about purpose. | CHARLIE In all relationships there is the talker and there is the doer. |
-| 9.2 | Insert, 100mm | Static | Coco cleans the back of each neck. | - |
-| 9.3 | ECU, 100mm macro | Static | Charlie twists the white, convex dial once and pushes the middle. It sits at the base of the skull like a magnifying glass on the skin. | TWIST. CLICK. CHARLIE Good energy. |
-| 9.4 | Insert | Static | Outer ring green: on. Inner ring floods green: connected. | Electric bloom. ELEANORA (O.S.) Infinity? |
-| 9.5 | Wide from the balcony, high | Static | Charlie and Coco climb into the last taxi. Coco looks up at Eleanora's silhouette. | CHARLIE (V.O.) You are the glass, the ant, and the child. |
+| 9.1 | Wide, 32mm | Static | Charlie and Coco stand at the head of the table. The group notice Eleanora's slip; subtle side-eyes are made to each other. | CHARLIE Eleanora. In all relationships there is the talker and there is the doer. Coco right here is the doer and I am the talker. |
+| 9.2 | Wide, 32mm | Static | Charlie stands over the seated group, talking about purpose. | CHARLIE This machine, if I can call it a machine... It has given me purpose. I. Us. Purpose. It shows you what you desire. |
+| 9.3 | Wide, 24mm, centred | Slow push in | Charlie centred, the group seated around him. | CHARLIE You each need to lay yourself out on the slab. For all to see. Then, what judgement can harm you? |
+| 9.4 | Insert, 100mm | Static | Coco cleans the back of each neck. | - |
+| 9.5 | ECU, 100mm macro | Static | Charlie twists the white, convex dial once and pushes the middle. It sits at the base of the skull like a magnifying glass on the skin. | TWIST. CLICK. CHARLIE Good energy. |
+| 9.6 | Insert | Static | Outer ring green: on. Inner ring floods green: connected. | Electric bloom. ELEANORA (O.S.) Infinity? |
+| 9.7 | Wide from the balcony, high | Static | Charlie and Coco climb into the last taxi. Coco looks up at Eleanora's silhouette. | CHARLIE (V.O.) You are the glass, the ant, and the child. |
 
 ### 10. INT. DINING ROOM - DAY (THE FAST) (p16-27)
 
