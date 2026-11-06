@@ -231,8 +231,8 @@ Jacqueline lies pregnant in a bath of dark, oil-like water. Drops fall slower an
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 14.1 | Wide, 24mm | Slow pan | Eleanora wakes under the bookcase; the bathroom glows below. The bathtub of opaque black water. | Drips. |
-| 14.2 | MS, 50mm | Slow pan | The pan reveals Jacqueline is pregnant, hand resting on her belly. | - |
+| 14.1 | CU, 50mm | Static | Eleanora wakes up on the floor below the bookcase. She feels the back of her neck immediately: there is no device. A warm glow comes from downstairs; figures standing, watching, beckon her down. | - |
+| 14.2 | MS, 50mm | Slow pan | The bathtub is filled with dark, oil-like water, opaque and still. The pan reveals Jacqueline is pregnant, hand resting on her belly. | Drips. |
 | 14.3 | CU belly | Static | Uncertainty and quiet happiness. | - |
 | 14.4 | Insert macro | Static | Fingers lift from the water; drops fall slower, slower. | Slowing drips. |
 
