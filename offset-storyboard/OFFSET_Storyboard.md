@@ -85,11 +85,16 @@ Charlie quotes Ungers: a house without qualities. No locks, no keys, cameras eve
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 4.1 | CU, 50mm, centred | Locked-off | Charlie addresses the group. | CHARLIE 'Dies ist ein Lebensraum, ein Laborversuch.' |
-| 4.2 | Wide, 18mm, looking up | Slow tilt | Insert: the gridded skylight and gallery of the house. | CHARLIE 'A house without qualities.' |
-| 4.3 | Overhead, 24mm | Static | Insert: the library well, perfectly ordered. | 'No ornaments, no details, no bottom nor top.' |
-| 4.4 | Wide, 24mm | Static | Insert: the long white living room, chairs in rows. | CHARLIE (V.O.) No locks. Nor keys. |
-| 4.5 | ECU, 100mm | Static | An eye at a gap in the curtain. Little black cameras glow green in every room. | CHARLIE Privacy is not prerequisite. |
+| 4.1 | CU, 50mm, centred | Locked-off | Charlie addresses the group. | CHARLIE 'Dies ist ein Lebensraum, ein Laborversuch. Eine Darstellung der Idee der Welt.' |
+| 4.2 | Wide, 35mm, centred | Locked-off | Insert: the white villa among black trees, every window identical, set in a perfect rhythm. | CHARLIE (V.O.) The man who designed this place. Oswald. Mathias. Ungers. |
+| 4.3 | Extreme wide, 24mm | Slow push in | Insert: the house across the lawn and the still lake, a measured volume in a gridded landscape. | CHARLIE (V.O.) 'An idea of the world.' Who speaks like that nowadays? Such grandiose plans. |
+| 4.4 | Wide, 18mm, looking up | Slow tilt | Insert: the gridded skylight and gallery of the house. | CHARLIE (V.O.) 'To see how far architecture can be abstract. A house without qualities.' |
+| 4.5 | Wide, 24mm, looking up | Slow crane up | Insert: the spiral stair rising through the library, white and exact. | CHARLIE (V.O.) 'No ornaments, no details,' |
+| 4.6 | Overhead, 24mm | Static | Insert: the library well from above, perfectly ordered. | CHARLIE (V.O.) 'no bottom nor top.' |
+| 4.7 | Wide, 24mm, centred | Slow dolly in | Insert: the library at dusk, warm lamps behind the grid of shelves and balustrades. | CHARLIE (V.O.) 'Everything subtracted to the absolute core of abstraction.' |
+| 4.8 | Wide, 24mm | Static | Insert: the long white living room, chairs in rows. | CHARLIE (V.O.) Abstraction. That is what we are going to do here. |
+| 4.9 | Extreme wide, 24mm | Locked-off | Insert: the house at dusk, every window lit, alone in the forest. | CHARLIE (V.O.) Find the core of each of you. No locks. Nor keys. |
+| 4.10 | ECU, 100mm | Static | An eye at a gap in the curtain. Little black cameras glow green in every room. | CHARLIE Privacy is not prerequisite. Make peace with being watched. |
 
 ### 5. INT. BEDROOMS - DAY (p6-7)
 
