@@ -301,9 +301,10 @@ Ezra stumbles in with wine. Her device lights his face green. She sees a scar on
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 20.1 | CU, 50mm | Static | Ezra strolls in with the end of a glass of wine. He carefully takes off his jacket and hangs it, downs his wine and plants it on the bedside table. | - |
-| 20.2 | ECU, 100mm | Static | He slumps down onto the bed and looks across at her for a moment. His face illuminates with green light from her device. He turns away. | - |
-| 20.3 | Insert, 100mm | Static | Eleanora glances around. A very subtle scar on the back of his neck can be seen. She reaches out, only to stop herself. | - |
+| 20.1 | CU, 50mm | Static | Ezra strolls in with the end of a glass of wine. He carefully takes off his jacket and hangs it. | - |
+| 20.2 | CU, 50mm | Static | He downs his wine, plants it onto the bedside table and slumps down onto the bed. He looks across at her for a moment. | - |
+| 20.3 | ECU, 100mm | Static | His face illuminates with green light from her device. He turns away. | - |
+| 20.4 | Insert, 100mm | Static | Eleanora glances around. A very subtle scar on the back of his neck can be seen. She reaches out, only to stop herself. | - |
 
 ### 21. INT. BEDROOM - MORNING (p35)
 
