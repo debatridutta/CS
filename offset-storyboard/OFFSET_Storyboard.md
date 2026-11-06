@@ -434,7 +434,7 @@ The group gossips in German and Danish. Eleanora finds scratches in the balcony 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 31.1 | Wide, 32mm | Static | The group talks over her in German and Danish. | EZRA Ich habe gesagt, es wird alles gut. |
-| 31.2 | Insert, 100mm | Static | Her fingers trail across scratches in the metal ledge. | - |
+| 31.2 | Insert, 100mm macro | Slow track | Eleanora opens the door for some fresh air and holds the metal ledge. She notices scratches in the metal; her fingers trail across them. | CALI You should close that? |
 | 31.3 | Wide, 50mm | Static | The other building beyond the glass. | CAI It's where they store the batteries. |
 
 ### 32. INT. BEDROOM - DAY (p52-53)
