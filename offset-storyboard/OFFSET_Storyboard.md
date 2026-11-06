@@ -365,7 +365,8 @@ Chain-smoking, Eleanora repeats 'You are not my mother'. Then a twist and click 
 |---|---|---|---|---|
 | 25.1 | Insert, 50mm | Static | A few cigarettes are on the floor already. | - |
 | 25.2 | Wide, 24mm | Handheld | Eleanora is fidgety, hurrying through each cigarette, repeating something to herself under her breath. | EZRA (V.O.) Do you love her? ELEANORA (V.O.) Yes. ELEANORA (rushing, unclear) No eres mi madre. EZRA (V.O.) Do you resent her? |
-| 25.3 | MS | Static | She drops backward from the same position. | A TWIST. A CLICK. |
+| 25.3 | MS | Static | The group vanish out of sight through the back doorway. She stops and turns away. Suddenly she starts to turn, then drops backward to the floor from the same position. | A TWIST. A CLICK. |
+| 25.4 | CU, 35mm, tilted | Handheld | Dazed, she lurches forward as the device takes her under. The world tilts and swims. | A rising, warped hum. |
 
 ### 26. EXT. FOREST CLEARING - CAI'S FANTASY (INTERCUT MOTHER'S FLAT) (p42-45)
 
