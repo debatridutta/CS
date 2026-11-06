@@ -202,11 +202,13 @@ In syrupy yellow light, Cali devours a towering chocolate cake while a mirror sh
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 12.1 | Wide, 24mm | Slow float | Yellow light from the kitchen. The group drifts toward it. | A warm, slowed drone. |
-| 12.2 | Insert, macro | Slow dolly | The tall chocolate cake shimmers alone on the counter. | Cali giggles. |
-| 12.3 | ECU lips, 100mm | Static | She drags a finger through the icing and licks it slowly. | Wet, amplified mouth sounds. |
-| 12.4 | CU, 85mm | Static | Cali eats with both hands, face smeared, animalistic. | Heavy breathing. |
-| 12.5 | MCU | Static | The mirror version of Cali, clean, one teaspoon at a time. | - |
-| 12.6 | CU, 85mm | Static | Cai watches her joy and unravelling, close to tears. | - |
+| 12.2 | Wide, 35mm, centred | Slow float forward | She follows the yellow glow down the corridor toward the kitchen, breathing calmly. The house has softened. Light is syrupy. | A warm, slowed drone. |
+| 12.3 | Insert, macro | Slow dolly | The tall chocolate cake shimmers alone on the counter. | Cali giggles. |
+| 12.4 | ECU lips, 100mm | Static | She drags a finger through the icing and licks it slowly. | Wet, amplified mouth sounds. |
+| 12.5 | CU, 85mm | Static | Cali eats with both hands, face smeared, animalistic. | Heavy breathing. |
+| 12.6 | MCU | Static | The mirror version of Cali, clean, one teaspoon at a time. | - |
+| 12.7 | OTS two-shot, 50mm | Static | Eleanora takes a fresh bite from the same side, chews, crunches on something hard. She pulls a chocolate-covered nail from her mouth. Her jaw clenches in disgust. | A hard CRUNCH. |
+| 12.8 | CU, 85mm | Static | Cai watches her joy and unravelling, close to tears. | - |
 
 ### 13. INT. LIVING ROOM - NIGHT (CALI'S CONFESSION) (p30-31)
 
