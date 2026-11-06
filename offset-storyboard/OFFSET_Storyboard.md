@@ -190,7 +190,8 @@ Cali twists once and presses. One by one they all go under. Eleanora mimes, then
 | 11.4 | ECU, 100mm macro | Static | Cali raises her hand to the device on her neck. She twists the device clockwise until she hears the one click. | CLICK. CALI One. |
 | 11.5 | MS, 50mm | Static | She presses. Inner ring glows green. She drops back onto the sofa. | CLICK. |
 | 11.6 | Wide | Static | A row of twists, a row of clicks: one by one they pass out in different directions. | WHOLE GROUP One. |
-| 11.7 | ECU, 100mm | Push in | Eleanora twists, hand shaking, and presses. Her eyes roll back. | Loud CLICK. CUT TO BLACK. |
+| 11.7 | ECU, 100mm | Push in | Eleanora mimes passing out. She twists her device. Her hand shakes. Tentatively she presses. | A loud CLICK. |
+| 11.8 | ECU eyes, 100mm | Static | Her eyes roll back. | CUT TO BLACK. |
 
 ### 12. INT. CALI'S FANTASY - LIVING ROOM / KITCHEN - NIGHT (p28-30)
 
