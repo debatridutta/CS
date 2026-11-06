@@ -218,9 +218,10 @@ Cold green replaces the yellow. Cali laughs hysterically, then talks about her m
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 13.1 | CU, 85mm | Static | Cali opens her eyes in cold green light and laughs. | Contagious laughter. |
-| 13.2 | Two-shot | Static | The group around her, faces lit green. | CALI She didn't mean greedy, she meant fat. |
-| 13.3 | CU | Static | Necks fall back. TWIST. CLICK. Eyes roll back. | JACQUELINE Again? |
+| 13.1 | CU, 85mm | Static | The yellow warming glow has been replaced with a colder green one. The rest of them appear to still be in Cali's fantasy, savouring the pure ecstasy of it all. | - |
+| 13.2 | CU, 85mm | Static | Cali opens her eyes in cold green light and laughs hysterically. It's so contagious everyone has a smile. | Contagious laughter. |
+| 13.3 | Two-shot | Static | The group around her, faces lit green. | CALI She didn't mean greedy, she meant fat. |
+| 13.4 | CU | Static | Necks fall back. TWIST. CLICK. Eyes roll back. | JACQUELINE Again? |
 
 ### 14. INT. JACQUELINE'S FANTASY - BATHROOM - NIGHT (p31-33)
 
