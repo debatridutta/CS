@@ -91,7 +91,7 @@ Charlie quotes Ungers: a house without qualities. No locks, no keys, cameras eve
 | 4.4 | Wide, 18mm, looking up | Slow tilt | Insert: the gridded skylight and gallery of the house. | CHARLIE (V.O.) 'To see how far architecture can be abstract. A house without qualities.' 'No ornaments, no details, no bottom nor top.' 'Everything subtracted to the absolute core of abstraction.' |
 | 4.5 | Wide, 24mm | Static | Insert: the long white living room, chairs in rows. | CHARLIE (V.O.) Abstraction. That is what we are going to do here. Find the core of each of you. No locks. Nor keys. |
 | 4.6 | ECU, 100mm, centred | Locked-off, slow push in | Insert: a camera dome set flush in the brushed steel wall, the house reflected in its lens. One small green light. | CHARLIE Privacy is not prerequisite. |
-| 4.7 | ECU, 100mm | Static | An eye at a gap in the curtain. Little black cameras glow green in every room. | CHARLIE Make peace with being watched. |
+| 4.7 | ECU, 100mm | Static | An eye fills the frame, green-grey iris, pupil fixed. Watching, and watched. Little black cameras glow green in every room. | CHARLIE Make peace with being watched. |
 
 ### 5. INT. BEDROOMS - DAY (p6-7)
 
