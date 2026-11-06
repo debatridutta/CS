@@ -256,7 +256,7 @@ The drops flow in reverse. The group wakes; Jacqueline leaves the room, Jasper s
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 16.1 | Insert | Reverse motion | The drops flow back up into her fingers. | Reversed drip. |
-| 16.2 | MCU | Static | Jacqueline rises and leaves; Jasper follows. | - |
+| 16.2 | MCU, 50mm | Static | Eleanora, in a similar position, shakes her head. The group wake up all around as she pulls her hair back; she sees Jacqueline leaving the room. Jasper quickly shuffles after her. | - |
 
 ### 17. INT. RETREAT - BEDROOM - NIGHT (p33)
 
