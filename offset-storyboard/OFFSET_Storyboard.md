@@ -127,12 +127,13 @@ A magnificent feast with eight black boxes at its centre. Charlie reveals the de
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 7.1 | Wide, 24mm, centred | Slow dolly in | Eleanora is seated, her gaze falls upon a magnificent feast laid out in sumptuous splendour. 8 pristine black boxes as a centrepiece. | CHARLIE We've come, together. That's seven. |
-| 7.2 | Top shot | Static | The table from above, abundance in a grid. | - |
-| 7.3 | Insert | Static | Bottled water in green glass, row on row. | CHARLIE But you have water. The house is full of water. |
-| 7.4 | CU, 85mm | Static | Cali sips a milkshake halfway up the straw, stops, moans without tasting. Eyes locked on Eleanora. | CHARLIE Offline... Off-grid... Offbeat, Offset. |
-| 7.5 | Insert, 100mm macro | Static | Charlie opens a black box: the device. | Soft hum. |
-| 7.6 | ECU eye, 100mm | Push in | Eleanora hears her own name muffled, as if underwater. | ELEANORA Eleanora. Sound drops under water. |
+| 7.1 | High wide, 24mm | Slow push in | Eleanora is seated, her gaze falls upon a magnificent feast laid out in sumptuous splendour. | - |
+| 7.2 | Wide, 24mm, centred | Slow dolly in | Gleaming platters overflow with golden joints of roast meat. Towers of exquisite hors d'oeuvres plastered with caviar. A lavish smorgasbord of decadent delights and condensation-covered drinks. 8 pristine black boxes as a centrepiece. | CHARLIE We've come, together. That's seven. |
+| 7.3 | Top shot | Static | The table from above, abundance in a grid. | - |
+| 7.4 | Insert | Static | Bottled water in green glass, row on row. | CHARLIE But you have water. The house is full of water. |
+| 7.5 | CU, 85mm | Static | Cali sips a milkshake halfway up the straw, stops, moans without tasting. Eyes locked on Eleanora. | CHARLIE Offline... Off-grid... Offbeat, Offset. |
+| 7.6 | Insert, 100mm macro | Static | Charlie opens a black box: the device. | Soft hum. |
+| 7.7 | ECU eye, 100mm | Push in | Eleanora hears her own name muffled, as if underwater. | ELEANORA Eleanora. Sound drops under water. |
 
 ### 8. FLASHBACK - INT. MOTHER'S FLAT - DAY (p13)
 
