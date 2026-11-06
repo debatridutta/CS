@@ -173,7 +173,7 @@ Devices attached and glowing. The group eats while talking about fasting. Eleano
 | 10.1 | Insert, 85mm | Static | Devices on every neck: outer rings green (on), inner rings grey (not yet connected). | - |
 | 10.2 | CU hands, 85mm | Static | Cali picks and chops food and eats none of it. Intercut CLOSE on chewing. | CALI The future is fasting. |
 | 10.3 | Wide, 24mm | Slow lateral dolly | The group around the table, eating and judging. | ELEANORA Tell that to the starving children. |
-| 10.4 | MS, 50mm | Static | Frans leans in, mouth on the fork, eyes on Eleanora. | FRANS He paid for you, right? |
+| 10.4 | CU, 50mm | Static | Frans eats with his fingers, eyes on Eleanora. Eleanora winces. | FRANS He paid for you right? You wouldn't be speaking like that if you paid for this yourself. |
 | 10.5 | Wide, 35mm | Static | Silence across the table. | ELEANORA Who goes first? |
 
 ### 11. INT. LIVING ROOM - DAY (FIRST ACTIVATION) (p27-28)
