@@ -127,7 +127,7 @@ A magnificent feast with eight black boxes at its centre. Charlie reveals the de
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 7.1 | Wide, 24mm, centred | Slow dolly in | Towers of food, caviar, condensation-covered drinks. Eight black boxes in the middle. | CHARLIE We've come, together. That's seven. |
+| 7.1 | CU, 50mm | Slow dolly in | Her gaze falls upon a magnificent feast laid out in sumptuous splendour. Gleaming platters, towers of exquisite hors d'oeuvres, condensation-covered drinks. 8 pristine black boxes as a centrepiece. | CHARLIE We've come, together. That's seven. |
 | 7.2 | Top shot | Static | The table from above, abundance in a grid. | - |
 | 7.3 | Insert | Static | Bottled water in green glass, row on row. | CHARLIE But you have water. The house is full of water. |
 | 7.4 | CU, 85mm | Static | Cali sips a milkshake halfway up the straw, stops, moans without tasting. Eyes locked on Eleanora. | CHARLIE Offline... Off-grid... Offbeat, Offset. |
