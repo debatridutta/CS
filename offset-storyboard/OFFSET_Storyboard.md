@@ -352,7 +352,7 @@ The room becomes her mother's flat. Mother is well and joyful. The table glides 
 | 24.1 | Wide, 35mm | Static | A small candlelit table in the corner, dressed as Mother's flat. | - |
 | 24.2 | Two-shot, 50mm | Static | Mother smiles, full of life. They laugh and hug. | ELEANORA Aunque no seas real, igual quiero abrazarte. |
 | 24.3 | POV through doorway | Static | The group watches. Ezra leans in, analysing. | - |
-| 24.4 | Top shot | Fast pull back | The table glides away. The group's mouths are sealed shut. | Rush of air. |
+| 24.4 | CU, 50mm | Static | The table glides away. The group's mouths are sealed shut; they can only watch. | Rush of air. |
 
 ### 25. EXT. RETREAT - DAY (p41-42)
 
