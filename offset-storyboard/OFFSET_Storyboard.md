@@ -276,9 +276,11 @@ Headlights burst; Ezra's silhouette looms over her on the white wall. He feels f
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 18.1 | Wide, 24mm | Static | Eleanora smokes in a jacket over her scrubs. Headlights hit; a huge silhouette rises over her. | Tyres on rocks. |
-| 18.2 | MCU, 50mm | Static | Ezra marches in, clicks his tongue, grabs her ears and feels her neck. | - |
-| 18.3 | CU, 85mm | Static | They hug. Finally, some connection she knows. | - |
+| 18.1 | Wide, 24mm | Static | Eleanora is having a cigarette in front of the house, wearing a jacket over her scrubs. | - |
+| 18.2 | Wide, 50mm, her POV | Static | Suddenly, a huge bright light bursts at her from outside. | The noise of car tyres on rocks. |
+| 18.3 | Wide, 24mm | Static | The light hits the figure, creating a large silhouette against the building which looms over Eleanora, covering her in shadow. As the figure becomes clearer, we see Ezra marching forward with bag in hand. | - |
+| 18.4 | MCU, 50mm | Static | Ezra marches in, clicks his tongue, grabs her ears and feels her neck. | - |
+| 18.5 | CU, 85mm | Static | They hug. Finally, some connection she knows. | - |
 
 ### 19. INT. ENTRANCE HALL - NIGHT (p34)
 
