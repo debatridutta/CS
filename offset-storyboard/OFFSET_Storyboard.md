@@ -399,8 +399,9 @@ Eleanora vomits into the toilet; a hand holds her hair, then grips. The hands ar
 | 27.2 | Insert, 85mm | Static | The hand grabs onto her hair a little rougher. | - |
 | 27.3 | Insert | Static | She reaches back: the hands are covered in tubes. They grab her hair and push her head into the toilet, further and further in. | - |
 | 27.4 | Underwater CU | Slow sink | Black water surrounds Eleanora. She swims toward a glowing green door below. Bubbles escape her lips; realisation comes over her face as she scrambles toward the surface. Her eyes close. Out of breath, she gives in, curls into herself and surrenders to the depths. | JUMP CUT TO: |
-| 27.5 | Wide | Static | The glowing green door, below. | - |
-| 27.6 | Wide, 35mm, floor level | Static | JUMP CUT TO: INT. BATHROOM - NIGHT. Back in reality: curled up in the same position, she breathes, gasping for air. | Gasping. |
+| 27.5 | Wide, overhead | Slow sink | Black water surrounds Eleanora. She swims down toward the glowing green door below. | - |
+| 27.6 | Wide | Static | The glowing green door, below. | - |
+| 27.7 | Wide, 35mm, floor level | Static | JUMP CUT TO: INT. BATHROOM - NIGHT. Back in reality: curled up in the same position, she breathes, gasping for air. | Gasping. |
 
 ### 28. INT. BATHROOM - NIGHT (p46)
 
@@ -421,9 +422,10 @@ Jacqueline mouths 'Stray'. The song switches to 'It's All Coming Back to Me Now'
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 29.1 | Handheld follow | Steadicam behind her | We follow her through the small party in full swing. A handful of the group dance, bodies close, the room washed in red light. Jacqueline catches Eleanora's eye. | Music plays loud. JACQUELINE (mouths) STRAY. |
-| 29.2 | MS | Circling | Eleanora smiles, unfazed, then steps into the middle of the room and begins to dance. | The song switches to 'It's All Coming Back to Me Now'. |
-| 29.3 | FLASHBACK | Handheld | FLASHBACK: Eleanora dancing for her mum, silly, playful, trying to make her laugh. Mother, frailer, still mirrors her movements in a smaller fashion; when she spins, she twirls her fingers. | - |
-| 29.4 | CU | Circling | Under the red light, Eleanora keeps dancing. Tears run down her face, but she doesn't stop. Darting eyes across the room; Ezra is enjoying the chaos, as is Frans. | - |
+| 29.2 | Wide, 24mm | Handheld, drifting | Music plays loud in the space. A handful of the group dance. Bodies close, the room washed in red light. | Music plays loud. |
+| 29.3 | MS | Circling | Eleanora smiles, unfazed, then steps into the middle of the room and begins to dance. | The song switches to 'It's All Coming Back to Me Now'. |
+| 29.4 | FLASHBACK | Handheld | FLASHBACK: Eleanora dancing for her mum, silly, playful, trying to make her laugh. Mother, frailer, still mirrors her movements in a smaller fashion; when she spins, she twirls her fingers. | - |
+| 29.5 | CU | Circling | Under the red light, Eleanora keeps dancing. Tears run down her face, but she doesn't stop. Darting eyes across the room; Ezra is enjoying the chaos, as is Frans. | - |
 
 ### 30. INT. BEDROOM - MORNING (p47)
 
@@ -570,6 +572,7 @@ Morning arrives. Eleanora opens her eyes to empty space, places a hand on the ba
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 42.1 | Wide | Static | Morning arrives. Eleanora opens her eyes to empty space. She places a hand on the back of her neck, inhales deeply; a wave of calm washes over her again. | - |
+| 42.2 | Wide, low angle | Slow push | EXT. FOREST - DAY - ELEANORA'S FANTASY. She walks out of the house towards the forest; some of the group stare through the window at her. Her old dining room is now outside in the forest. | - |
 
 ### 43. INT. KITCHEN - DAY (DISH WASHING) (p65-72)
 
@@ -626,7 +629,7 @@ Ezra and Jasper, very sure of themselves: as it's the last night, something spec
 | 47.1 | Wide | Static | Ezra and Jasper stand very sure of themselves in front of the group. Eleanora's eyes search the room for reassurance; the women avoid her gaze, each wearing the same quiet dread. | EZRA As it's the last night. We thought let's do something special. If you could take a seat. Close your eyes. I will let whoever remains decide. |
 | 47.2 | ECU eyes | Static | Most close their eyes. Jacqueline looks to Eleanora with regret, then closes hers. Eleanora takes in a deep breath and closes her eyes slowly. | TWIST and CLICK from across the room; Eleanora follows. It echoes louder than before. |
 
-### 48. EXT. FRANS'S FANTASY - FOREST - NIGHT (THE HUNT) (p79 + Miro)
+### 48. EXT. FRANS'S FANTASY - FOREST - NIGHT (THE HUNT) (p79-80)
 
 Script (p79): Eleanora wakes frantically on the forest floor; a blood-soaked woman sprints past; the group runs between the trees; mixed voices cry RUN! The hunt that follows is from the treatment and Miro board.
 
@@ -638,9 +641,10 @@ Script (p79): Eleanora wakes frantically on the forest floor; a blood-soaked wom
 | 48.2 | Wide | Whip pan | A blood-soaked woman sprints past her, her movements frantic, unnatural. Eleanora hears rustles through the trees and sees some of the group running in between the trees. | MIX: ELEANORA'S MOTHER / JACQUELINE / EVE (distorted) RUN! |
 | 48.3 | Wide | Handheld chase | (Treatment / Miro) Silhouettes between the trees; one attacks another from above. | - |
 | 48.4 | MS | Handheld | (Treatment / Miro) Frans's hunting party looks up into the dark. | - |
-| 48.5 | CU | Handheld | (Treatment / Miro) Frans chokes Eleanora. | - |
+| 48.5 | Wide | Handheld | Eleanora reaches the house and tries the locked double doors. She moves around the house; the other doors are locked as well. | We hear breathing surrounding her. |
+| 48.6 | CU | Handheld | (Treatment / Miro) Frans chokes Eleanora. | - |
 
-### 49. INT. DINING ROOM - NIGHT (LAST DINNER) (Miro / treatment)
+### 49. INT. DINING ROOM - NIGHT (LAST DINNER) (p80-81)
 
 (Miro board) The last dinner: the feast is fully decayed.
 
@@ -649,8 +653,10 @@ Script (p79): Eleanora wakes frantically on the forest floor; a blood-soaked wom
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 49.1 | Wide, centred | Locked-off | (Miro board) The last dinner: the feast fully decayed. | - |
+| 49.2 | Insert | Static | Candles burn low, their flames bending toward the rotten feast. The guys keep reliving the hunt; Frans is particularly smug. | Laughing, toasting with glasses of water. |
+| 49.3 | Wide | Slow push | INT. ELEANORA'S FANTASY - MOTHER'S FLAT - NIGHT. She presses her head against her Mother's at the dinner table, her eyes closed at first, then she opens them. | - |
 
-### 50. INT. BEDROOM - NIGHT (BED TIME) (Miro / treatment)
+### 50. INT. BEDROOM - NIGHT (BED TIME) (p81-82)
 
 (Miro board) Bed time. Ezra sleeps; Eleanora does not.
 
@@ -660,7 +666,7 @@ Script (p79): Eleanora wakes frantically on the forest floor; a blood-soaked wom
 |---|---|---|---|---|
 | 50.1 | Two-shot | Static | (Miro board) Ezra asleep; Eleanora awake. | - |
 
-### 51. EXT. / INT. OUTHOUSE - THE OFFSET LAB - NIGHT (Miro / treatment)
+### 51. EXT. / INT. OUTHOUSE - THE OFFSET LAB - NIGHT (p82-83)
 
 (Treatment) Fully alienated, Eleanora makes a night-time trip to the outhouse. She discovers Eve: hooked to failing machinery, her device sparking red, damaged by prolonged 'infinity' use.
 
@@ -669,12 +675,13 @@ Script (p79): Eleanora wakes frantically on the forest floor; a blood-soaked wom
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 51.1 | Wide | Tracking behind | Eleanora makes a night-time trip to the outhouse. | - |
-| 51.2 | Wide | Slow push in | Inside the outhouse: machines, beds, the lab. | - |
-| 51.3 | Insert, 100mm | Static | Eve's device, sparking red: damaged by prolonged 'infinity' use. | - |
-| 51.4 | MS | Static | Eve, hooked to failing machinery. | - |
-| 51.5 | MS | Static | (Miro board) Coco grabs Eleanora's arm. | - |
+| 51.2 | Wide | Handheld, following | Her breaths become heavier as she gets closer to the building on the hill; the door frame illuminates a green glow. | Heavy breathing. |
+| 51.3 | Wide | Slow push in | Inside the outhouse: machines, beds, the lab. | - |
+| 51.4 | Insert, 100mm | Static | Eve's device, sparking red: damaged by prolonged 'infinity' use. | - |
+| 51.5 | MS | Static | Eve, hooked to failing machinery. | - |
+| 51.6 | MS | Static | (Miro board) Coco grabs Eleanora's arm. | - |
 
-### 52. INT. HOUSE - STAIRS / LIVING ROOM - NIGHT (Miro / treatment)
+### 52. INT. HOUSE - STAIRS / LIVING ROOM - NIGHT (p83-91)
 
 (Treatment) Eleanora shuts down the equipment and hauls Eve into the house to confront the group. Charlie and Coco's culpability is exposed. Eve, glitching and in agony, begs to be killed: an echo of Eleanora's mother.
 
@@ -683,10 +690,13 @@ Script (p79): Eleanora wakes frantically on the forest floor; a blood-soaked wom
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 52.1 | Wide | Static | Eleanora shuts down the equipment and hauls Eve into the house to confront the group. | - |
-| 52.2 | ECU eyes | Static | Eve, glitching and in agony. Charlie and Coco's culpability is exposed. | - |
-| 52.3 | CU | Handheld | Eve begs to be killed: an explicit echo of Eleanora's mother. | - |
+| 52.2 | Wide | Static | INTERCUT BETWEEN BEDROOMS: Eleanora enters all the bedrooms and whispers to everyone. | Whispers. |
+| 52.3 | Wide | Handheld | FLASHBACK FROM THE YEAR BEFORE: the same group in their pristine clothes, devices on, laughing and joking. | COCO We took turns like you have. |
+| 52.4 | MS | Floating | Eve's fantasy, a year ago: so wholesome, full of love. The system was younger. | COCO Hers was so wholesome, full of love. I admired her optimism. |
+| 52.5 | ECU eyes | Static | Eve, glitching and in agony. Charlie and Coco's culpability is exposed. | - |
+| 52.6 | CU | Handheld | Eve begs to be killed: an explicit echo of Eleanora's mother. | - |
 
-### 53. INT. HOUSE - BALCONY - NIGHT (Miro / treatment)
+### 53. INT. HOUSE - BALCONY - NIGHT (p92)
 
 (Treatment) Eve breaks free and jumps from the balcony, dying in the same spot as the year before.
 
@@ -696,7 +706,7 @@ Script (p79): Eleanora wakes frantically on the forest floor; a blood-soaked wom
 |---|---|---|---|---|
 | 53.1 | Wide | Slow motion | Eve breaks free and jumps from the balcony, dying in the same spot as the year before. | - |
 
-### 54. INT. LIVING ROOM - NIGHT (THE REQUEST) (treatment)
+### 54. INT. LIVING ROOM - NIGHT (THE REQUEST) (p92-94)
 
 (Treatment) The group fractures into blame, panic and denial ('we thought she died'). Eleanora quietly asks to go back into the device 'one more time'.
 
@@ -709,7 +719,7 @@ Script (p79): Eleanora wakes frantically on the forest floor; a blood-soaked wom
 
 ## Act III: The Reckoning
 
-### 55. INT. DINING ROOM - NIGHT (THE RECKONING) (treatment)
+### 55. INT. DINING ROOM - NIGHT (THE RECKONING) (p94-95)
 
 (Treatment) One final shared session at the ruined feast table. One by one, Eleanora turns each device past its intended duration toward 'infinity': Frans first, a physical struggle she wins; then Charlie, turned by a weeping, complicit Coco; then the rest.
 
@@ -719,10 +729,11 @@ Script (p79): Eleanora wakes frantically on the forest floor; a blood-soaked wom
 |---|---|---|---|---|
 | 55.1 | Wide, centred | Locked-off | Reluctantly, grief-numbed and eager to move past what just happened, the group agrees to one final shared session at the ruined feast table. | - |
 | 55.2 | ECU | Static | Eleanora turns a device past its intended duration, toward 'infinity'. | TWIST. TWIST. TWIST. |
-| 55.3 | CU | Handheld | Frans first: a physical struggle she wins. | - |
-| 55.4 | Insert | Static | Then Charlie, turned by a weeping, complicit Coco; then the rest of the group in sequence. | - |
+| 55.3 | Insert, 100mm | Static | Frans slowly leans forward to see if she is in the system. He moves her hair off her neck and catches a glance of the device with just one green circle. | - |
+| 55.4 | CU | Handheld | Frans first: a physical struggle she wins. | - |
+| 55.5 | Insert | Static | Then Charlie, turned by a weeping, complicit Coco; then the rest of the group in sequence. | - |
 
-### 56. INT. DINING ROOM - NIGHT (THE FIGHT) (treatment)
+### 56. INT. DINING ROOM - NIGHT (THE FIGHT) (p95-96)
 
 (Treatment) Ezra is the final and hardest confrontation: a full physical fight across the spoiled feast. Eleanora narrowly overpowers him.
 
@@ -732,8 +743,11 @@ Script (p79): Eleanora wakes frantically on the forest floor; a blood-soaked wom
 |---|---|---|---|---|
 | 56.1 | Wide | Handheld | Ezra: a full physical fight across the spoiled feast. | - |
 | 56.2 | CU | Handheld | Eleanora narrowly overpowers him, completing the same act he once performed on someone else for entertainment. | CLICK. |
+| 56.3 | ECU | Push in | She twists his device even further, just before infinity. Eleanora moves around the table doing it to each person. | ELEANORA (V.O) My Mother knew what she meant to me. |
+| 56.4 | CU | Static | INTERCUT: A morbidly obese Cali, in pain, stuffs cake into her mouth. Her mirror unchanged. | ELEANORA (V.O) A year for a year. |
+| 56.5 | Insert | Static | Flo's fingers bleed, fumbling as she tries to conceal the marks on the glass. | ELEANORA (V.O) What is desire if it's fulfilled? |
 
-### 57. INT. ELEANORA'S FANTASY - MOTHER - (FINAL) (treatment)
+### 57. INT. ELEANORA'S FANTASY - MOTHER - (FINAL) (p97)
 
 (Treatment) Once more and by her own choice, Eleanora returns to a final fantasy with her mother: an ending on her own terms.
 
@@ -743,7 +757,7 @@ Script (p79): Eleanora wakes frantically on the forest floor; a blood-soaked wom
 |---|---|---|---|---|
 | 57.1 | Two-shot | Static | Eleanora returns, once more and by her own choice, to a final fantasy with her mother. | - |
 
-### 58. EXT. COUNTRY LANE - DAWN (treatment)
+### 58. EXT. COUNTRY LANE - DAWN (p97)
 
 (Treatment) At dawn Eleanora walks away from the estate, barefoot, alive, and entirely alone.
 
@@ -753,5 +767,6 @@ Script (p79): Eleanora wakes frantically on the forest floor; a blood-soaked wom
 |---|---|---|---|---|
 | 58.1 | Extreme wide | Locked-off | At dawn, Eleanora walks away from the estate, barefoot, alive, and entirely alone. | - |
 | 58.2 | MS | Static | (Miro board) She stops in the trees and breathes. | - |
-| 58.3 | Aerial | Drone rising | (Miro board) The forest closes over the estate. | END. |
+| 58.3 | MS | Slow track | LATER: INT. LIVING ROOM - DAY. The group are all slightly dusty, connected to devices, feeding tubes, heart monitors and IVs. | ELEANORA (V.O) Or should it always be just out of reach. Aimed for but never grasped. |
+| 58.4 | Aerial | Drone rising | (Miro board) The forest closes over the estate. | END. |
 
