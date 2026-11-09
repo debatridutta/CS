@@ -488,6 +488,8 @@ Eleanora walks in on Ezra telling his 'leading man' story; her leg shakes. Jaspe
 |---|---|---|---|---|
 | 34.1 | MCU, 50mm | Static | Eleanora walks in on Ezra telling a story. She sits, her leg shaking from the experience. Ezra is completely at ease, reciting a story he takes great joy in. Small applause from Jasper. | EZRA They say leading man. Like it's a burden... I didn't want to be cheered or whatever, champion of the fucking people. JASPER Man of the people. EZRA ...I wanted him to know that his card is marked. |
 | 34.2 | Flash insert | Handheld | INTERCUT: FLASHES OF JASPER'S FANTASY. Hands erupt from the darkness, brushing, clutching, scratching, claiming every inch of him. Jasper's breath quickens, eyes closing, swallowed by the void. | JASPER Nothing major to report. ELEANORA Then it's you. |
+| 34.3 | Flash insert | Push in | Hands erupt from the darkness, reaching for Jasper. | - |
+| 34.4 | Flash insert, top shot | Handheld | Brushing, clutching, scratching, claiming every inch of him; he is swallowed by the void. | - |
 
 ### 35. INT. / EXT. EZRA'S FANTASY - HOUSE / FOREST - DAY (p56-58)
 
@@ -546,7 +548,8 @@ Ezra in bed with Eleanora. She finishes him off without a word, staring at the c
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 39.1 | Two-shot | Static | Ezra in bed with Eleanora. She looks increasingly upset the closer he gets to climaxing. Again she finishes him off without saying a word, still staring at the ceiling, a vacant look across her eyes. | EZRA You love it. You really love it, don't you? Get me some water. |
-| 39.2 | Insert | Static | She sits at the side of the bed; he rolls over. Her hand covered, she walks over to his jacket and smears his release onto it, using the front of her hand and the back. | - |
+| 39.2 | Insert | Static | She sits at the side of the bed; he rolls over. | - |
+| 39.3 | Insert, 85mm | Static | Her hand covered, she walks over to his jacket and smears his release onto it, using the front of her hand and the back. | - |
 
 ### 40. INT. DINING ROOM - NIGHT (p64-65)
 
