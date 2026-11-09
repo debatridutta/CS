@@ -353,9 +353,10 @@ The room becomes her mother's flat. Mother is well and joyful. The table glides 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 24.1 | Wide, 35mm | Static | A small candlelit table in the corner, dressed as Mother's flat. | - |
-| 24.2 | Two-shot, 50mm | Static | Mother smiles, full of life. They laugh and hug. | ELEANORA Aunque no seas real, igual quiero abrazarte. |
-| 24.3 | POV through doorway | Static | The group watches. Ezra leans in, analysing. | - |
-| 24.4 | CU, 50mm | Static | The table glides away. The group's mouths are sealed shut; they can only watch. | Rush of air. |
+| 24.2 | MCU, 85mm | Static | Eleanora looks down at her plate, almost finished bar one last bite. She looks up to see her Mother smiling from ear to ear. | - |
+| 24.3 | Two-shot, 50mm | Static | Mother smiles, full of life. They laugh and hug. | ELEANORA Aunque no seas real, igual quiero abrazarte. |
+| 24.4 | POV through doorway | Static | The group watches. Ezra leans in, analysing. | - |
+| 24.5 | CU, 50mm | Static | The table glides away. The group's mouths are sealed shut; they can only watch. | Rush of air. |
 
 ### 25. EXT. RETREAT - DAY (p41-42)
 
@@ -380,12 +381,15 @@ Eleanora floats down into Cai's forest; trees rise and settle under a yellow sky
 |---|---|---|---|---|
 | 26.1 | Top shot, 24mm | Slow crane down | JUMP CUT TO: Cai's fantasy. Eleanora floats across the ground, then gently lands on the grass. | - |
 | 26.2 | Low wide, 18mm | Static | The space subtly shifts: the environment morphs into tall trees that rise and settle into place. Light filters through the branches, unreal but calming. She senses something slightly wrong beneath the beauty. | - |
-| 26.3 | Insert, 85mm | Static | As she gently lands, her hands grip onto the grass. | - |
-| 26.4 | Wide | Static | Cai looks up at the yellow sky. He drops to the ground, fingers pressing into the grass as if to anchor himself, nerves tingling in euphoria. Ezra sits above them on the hill. Cali sits quietly with a soft, dreamy smile. | CAI Connect. Disconnect. Reconnect. |
-| 26.5 | MCU | Static | Eleanora turns to Jacqueline, who lies beside her. | ELEANORA What do you think of me? JACQUELINE Honest. You're a little chameleon. Unsure which colour to change to. You've been through some things... Not sure why you're here? |
-| 26.6 | MS, 35mm | Handheld | FLASHBACK: Mother is irate, panicked, rambling; when she makes eye contact it looks fearful rather than spiteful. | MOTHER Always disappearing like that. They don't like you. Why can't you fit in? Is there something wrong with you? They never come to see you. ELEANORA They never came to see me. |
-| 26.7 | Insert | Static | Cali shades her face with a fern-like hand. The group is quiet; they all turn away from her. Their faces blur in and out of focus. | ELEANORA Who did you lose? CALI She was just asleep under a fern... It was me... maybe it was you. CAI You can trust us. |
-| 26.8 | Top shot | Slow crane up | Eleanora moves in reverse away from the group, eyes darting. Cai lets out an ecstatic breath; they all lie back, sinking into the grass. The grass envelopes them like a grave: seven bodies being swallowed up, but they are enjoying it. | ELEANORA (under her breath) Could you just bring me back though, please? |
+| 26.3 | Low angle, 14mm | Slow rotate | Tall trees rise and settle into place; light filters through the branches. | - |
+| 26.4 | Insert, 85mm | Static | As she gently lands, her hands grip onto the grass. | - |
+| 26.5 | Wide | Static | Cai looks up at the yellow sky. He drops to the ground, fingers pressing into the grass as if to anchor himself, nerves tingling in euphoria. Ezra sits above them on the hill. Cali sits quietly with a soft, dreamy smile. | CAI Connect. Disconnect. Reconnect. |
+| 26.6 | Top shot, 50mm | Static | Cai lies back in the grass, laughing, nerves tingling in euphoria. | - |
+| 26.7 | MCU | Static | Eleanora turns to Jacqueline, who lies beside her. | ELEANORA What do you think of me? JACQUELINE Honest. You're a little chameleon. Unsure which colour to change to. You've been through some things... Not sure why you're here? |
+| 26.8 | MS, 35mm | Handheld | FLASHBACK: Mother is irate, panicked, rambling; when she makes eye contact it looks fearful rather than spiteful. | MOTHER Always disappearing like that. They don't like you. Why can't you fit in? Is there something wrong with you? They never come to see you. ELEANORA They never came to see me. |
+| 26.9 | Insert | Static | Cali shades her face with a fern-like hand. The group is quiet; they all turn away from her. Their faces blur in and out of focus. | ELEANORA Who did you lose? CALI She was just asleep under a fern... It was me... maybe it was you. CAI You can trust us. |
+| 26.10 | Top shot | Slow crane up | Eleanora moves in reverse away from the group, eyes darting. Cai lets out an ecstatic breath; they all lie back, sinking into the grass. The grass envelopes them like a grave: seven bodies being swallowed up, but they are enjoying it. | ELEANORA (under her breath) Could you just bring me back though, please? |
+| 26.11 | Top shot, 50mm | Slow crane up | Jacqueline lies back, eyes closed, laughing as the grass envelopes her: swallowed up, but enjoying it. | - |
 
 ### 27. INT. CAI'S FANTASY - BATHROOM / BLACK WATER (p45-46)
 
@@ -427,7 +431,8 @@ Jacqueline mouths 'Stray'. The song switches to 'It's All Coming Back to Me Now'
 | 29.2 | Wide, 24mm | Handheld, drifting | Music plays loud in the space. A handful of the group dance. Bodies close, the room washed in red light. | Music plays loud. |
 | 29.3 | MS | Circling | Eleanora smiles, unfazed, then steps into the middle of the room and begins to dance. | The song switches to 'It's All Coming Back to Me Now'. |
 | 29.4 | FLASHBACK | Handheld | FLASHBACK: Eleanora dancing for her mum, silly, playful, trying to make her laugh. Mother, frailer, still mirrors her movements in a smaller fashion; when she spins, she twirls her fingers. | - |
-| 29.5 | CU | Circling | Under the red light, Eleanora keeps dancing. Tears run down her face, but she doesn't stop. Darting eyes across the room; Ezra is enjoying the chaos, as is Frans. | - |
+| 29.5 | CU | Circling | Under the red light, Eleanora keeps dancing. Tears run down her face, but she doesn't stop. She's dancing and crying at the same time. | - |
+| 29.6 | CU, 85mm | Static | Darting eyes across the room between the group. Ezra is enjoying the chaos of the whole scene, as is Frans. | - |
 
 ### 30. INT. BEDROOM - MORNING (p47)
 
@@ -552,6 +557,8 @@ Eleanora hears a rustle: Frans sits in the dark at the back of the dining room b
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 40.1 | Wide | Slow push | Eleanora hears a rustle and goes into the dining room. A figure sits at the back of the room, behind the rotting food: Frans. Just a little light hitting the side of his body makes him visible. She pauses and stares briefly at him. | The noise of him eating increases. |
+| 40.2 | MS, 50mm | Static | Frans sits behind the rotting food, eating in the dark. | The noise of him eating increases. |
+| 40.3 | Low wide, 24mm | Slow push | The rotting feast between them; Frans keeps eating, unbothered. | - |
 
 ### 41. INT. HALLWAY / BEDROOM - NIGHT (p65)
 
