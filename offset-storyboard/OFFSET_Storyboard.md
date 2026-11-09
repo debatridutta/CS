@@ -401,7 +401,7 @@ Eleanora vomits into the toilet; a hand holds her hair, then grips. The hands ar
 | 27.4 | Insert | Static | She reaches back: the hands are covered in tubes. They grab her hair and push her head into the toilet, further and further in. | - |
 | 27.5 | Underwater CU | Slow sink | Black water surrounds Eleanora. She swims toward a glowing green door below. Bubbles escape her lips; realisation comes over her face as she scrambles toward the surface. Her eyes close. Out of breath, she gives in, curls into herself and surrenders to the depths. | JUMP CUT TO: |
 | 27.6 | Wide, overhead | Slow sink | Black water surrounds Eleanora. She swims down toward the glowing green door below. | - |
-| 27.7 | Wide | Static | The glowing green door, below. | - |
+| 27.7 | Wide | Static | The glowing green door at the bottom of the black water, below. | - |
 | 27.8 | Wide, 35mm, floor level | Static | JUMP CUT TO: INT. BATHROOM - NIGHT. Back in reality: curled up in the same position, she breathes, gasping for air. | Gasping. |
 
 ### 28. INT. BATHROOM - NIGHT (p46)
@@ -412,7 +412,8 @@ Curled against the wall, gasping, soaked, her head bleeding slightly. She feels 
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 28.1 | CU, 50mm | Static | Back against the wall, she gets her breath back and pushes her wet hair behind her ears. She feels the device attached: a wave of relief washes over her. Soaked in her scrubs, her head bleeding slightly from the top. | Music coming from upstairs. |
+| 28.1 | CU, 85mm | Static | INT. BATHROOM - NIGHT. In the dark, she breathes, gasping and coughing for air. The yellow dreamy hue is gone. | Gasping, coughing. |
+| 28.2 | CU, 50mm | Static | Back against the wall, she gets her breath back and pushes her wet hair behind her ears. She feels the device attached: a wave of relief washes over her. Soaked in her scrubs, her head bleeding slightly from the top. | Music coming from upstairs. |
 
 ### 29. INT. LIVING ROOM - NIGHT (PARTY) / FLASHBACK (p46-47)
 
