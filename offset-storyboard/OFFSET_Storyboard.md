@@ -401,14 +401,15 @@ Eleanora vomits into the toilet; a hand holds her hair, then grips. The hands ar
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 27.1 | MS | Static | Eleanora finally reaches the property and vomits into the closest toilet. A hand comes from behind her, holding her hair gently at first. | ELEANORA Thank you. |
-| 27.2 | Insert, 85mm | Static | The hand grabs onto her hair a little rougher. | - |
-| 27.3 | ECU, 100mm | Static | Her head is pulled back by the hair. Sweat beads across her throat. Eleanora reaches back... | - |
-| 27.4 | Insert | Static | She reaches back: the hands are covered in tubes. They grab her hair and push her head into the toilet, further and further in. | - |
-| 27.5 | Underwater CU | Slow sink | Black water surrounds Eleanora. She swims toward a glowing green door below. Bubbles escape her lips; realisation comes over her face as she scrambles toward the surface. Her eyes close. Out of breath, she gives in, curls into herself and surrenders to the depths. | JUMP CUT TO: |
-| 27.6 | Wide, overhead | Slow sink | Black water surrounds Eleanora. She swims down toward the glowing green door below. | - |
-| 27.7 | Wide | Static | The glowing green door at the bottom of the black water, below. | - |
-| 27.8 | Wide, 35mm, floor level | Static | JUMP CUT TO: INT. BATHROOM - NIGHT. Back in reality: curled up in the same position, she breathes, gasping for air. | Gasping. |
+| 27.1 | CU, 50mm | Handheld, backing away | As Eleanora walks away from the group, in the background the seven bodies are swallowed up by the grass, enjoying it. She reaches the property and rushes inside. | - |
+| 27.2 | MS | Static | Eleanora finally reaches the property and vomits into the closest toilet. A hand comes from behind her, holding her hair gently at first. | ELEANORA Thank you. |
+| 27.3 | Insert, 85mm | Static | The hand grabs onto her hair a little rougher. | - |
+| 27.4 | ECU, 100mm | Static | Her head is pulled back by the hair. Sweat beads across her throat. Eleanora reaches back... | - |
+| 27.5 | Insert | Static | She reaches back: the hands are covered in tubes. They grab her hair and push her head into the toilet, further and further in. | - |
+| 27.6 | Underwater CU | Slow sink | Black water surrounds Eleanora. She swims toward a glowing green door below. Bubbles escape her lips; realisation comes over her face as she scrambles toward the surface. Her eyes close. Out of breath, she gives in, curls into herself and surrenders to the depths. | JUMP CUT TO: |
+| 27.7 | Wide, overhead | Slow sink | Black water surrounds Eleanora. She swims down toward the glowing green door below. | - |
+| 27.8 | Wide | Static | The glowing green door at the bottom of the black water, below. | - |
+| 27.9 | Wide, 35mm, floor level | Static | JUMP CUT TO: INT. BATHROOM - NIGHT. Back in reality: curled up in the same position, she breathes, gasping for air. | Gasping. |
 
 ### 28. INT. BATHROOM - NIGHT (p46)
 
