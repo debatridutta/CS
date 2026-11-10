@@ -733,7 +733,8 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | 52.8 | ECU eyes | Static | Eve, glitching and in agony. Charlie and Coco's culpability is exposed. | - |
 | 52.9 | Wide, 35mm | Static | FLASHBACK - MOTHER'S FLAT - DAY. Her Mother, frail in her wheelchair at the end of the hallway. Eleanora has a strong emotional reaction. | MOTHER SCREAMS IN PAIN. MOTHER Kill me! |
 | 52.10 | Ground level, 50mm | Static | INT. LIVING ROOM - NIGHT. Eleanora opens her eyes on the floor. | - |
-| 52.11 | CU | Handheld | Eve begs to be killed: an explicit echo of Eleanora's mother. | - |
+| 52.11 | ECU, 85mm | Static | Eve slowly walks towards her, struggling to find balance, and grabs onto her; Eleanora, tears in her eyes, looks more concerned for Eve than for herself. | - |
+| 52.12 | CU | Handheld | Eve begs to be killed: an explicit echo of Eleanora's mother. | - |
 
 ### 53. INT. HOUSE - BALCONY - NIGHT (p92)
 
