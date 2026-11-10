@@ -457,8 +457,7 @@ The group gossips about 'the stray' in German and Danish. Eleanora confronts Cai
 | 31.1 | Wide, 32mm | Static | The group talks about her in German and Danish. Eleanora stands in the doorway. | EZRA It's been fucking group therapy so far... FLO Ja, hvad var der med den strejfer? EZRA Ich habe gesagt, es wird alles gut. ELEANORA Could you not see I was uncomfortable? JASPER No one sits out. EZRA That's the point. |
 | 31.2 | Wide, 24mm | Static | Eleanora opens the door to get some fresh air, a dark silhouette against the green outside. | - |
 | 31.3 | Insert, 100mm macro | Slow track | She holds onto the metal ledge and notices some scratches in the metal; her fingers trail across them. | CALI You should close that? CAI I don't like it open either. |
-| 31.4 | Wide, 35mm | Static | Eleanora stands at the open balcony door at the end of the dark room, looking out. | - |
-| 31.5 | Wide, 50mm | Static | Eleanora glances back out as she is closing it over: the other building. | ELEANORA What's the other building? CALI It's like an outhouse. CAI It's where they store the batteries. ... They last for ages. CALI He told us so we wouldn't go in. ELEANORA So who would? CAI Exactly. No one. |
+| 31.4 | Wide, 35mm | Static | Eleanora stands at the open balcony door at the end of the dark room, looking out. She glances back out as she is closing it over: the other building. | ELEANORA What's the other building? CALI It's like an outhouse. CAI It's where they store the batteries. ... They last for ages. CALI He told us so we wouldn't go in. ELEANORA So who would? CAI Exactly. No one. |
 
 ### 32. INT. BEDROOM - DAY (p52-53)
 
