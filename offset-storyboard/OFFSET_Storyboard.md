@@ -824,7 +824,7 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | 58.2 | Insert, low, 50mm | Tracking | Under her bare feet, the ground is damp with dew; each step soft but deliberate. | ELEANORA (V.O) Would your fantasy really be your fantasy if you could have it all the time? |
 | 58.3 | MS | Static | (Miro board) She stops in the trees and breathes. | - |
 | 58.4 | Insert, 85mm | Static | LATER: dust hangs in the light of the living room. | - |
-| 58.5 | Wide, 24mm | Slow track | The group lie in rows, wired in, feeding tubes and lines running from each of them: kept in the system, indefinitely. | ELEANORA (V.O) Or should it always be just out of reach. |
+| 58.5 | Wide, 24mm | Slow track | The group lie in rows, wired in, feeding tubes and lines running from each of them: kept in the system, indefinitely. | The hum of the machines. |
 | 58.6 | MS | Slow track | LATER: INT. LIVING ROOM - DAY. The group are all slightly dusty, connected to devices, feeding tubes, heart monitors and IVs. | ELEANORA (V.O) Or should it always be just out of reach. Aimed for but never grasped. |
 | 58.7 | Insert, 85mm | Static | Heart monitors tick over beside each of them, keeping the group suspended in the system. | The steady beep of the monitors. |
 | 58.8 | Aerial | Drone rising | (Miro board) The forest closes over the estate. | END. |
