@@ -717,11 +717,13 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 |---|---|---|---|---|
 | 51.1 | Wide | Tracking behind | Eleanora makes a night-time trip to the outhouse. | - |
 | 51.2 | Wide | Handheld, following | Her breaths become heavier as she gets closer to the building on the hill; the door frame illuminates a green glow. | Heavy breathing. |
-| 51.3 | Wide | Slow push in | Inside the outhouse: machines, beds, the lab. | - |
-| 51.4 | Top shot, 35mm | Slow push | An unknown woman lies surrounded by softly beeping machines, tubes and lines keeping her suspended between worlds. | Machines beeping softly. |
-| 51.5 | Insert, 100mm | Static | Eve's device, sparking red: damaged by prolonged 'infinity' use. | - |
-| 51.6 | MS | Static | Eve, hooked to failing machinery. | - |
-| 51.7 | MS | Static | (Miro board) Coco grabs Eleanora's arm. | - |
+| 51.3 | Wide, 35mm | Slow push | The door stands ajar, its frame glowing neon green. | A low hum. |
+| 51.4 | Wide | Slow push in | Inside the outhouse: machines, beds, the lab. | - |
+| 51.5 | ECU, eyes | Static | Eleanora's eyes take it in: many devices, all glowing green, pulsing, reflected in her pupils. | - |
+| 51.6 | Top shot, 35mm | Slow push | An unknown woman lies surrounded by softly beeping machines, tubes and lines keeping her suspended between worlds. | Machines beeping softly. |
+| 51.7 | Insert, 100mm | Static | Eve's device, sparking red: damaged by prolonged 'infinity' use. | - |
+| 51.8 | MS | Static | Eve, hooked to failing machinery. | - |
+| 51.9 | MS | Static | (Miro board) Coco grabs Eleanora's arm. | - |
 
 ### 52. INT. HOUSE - STAIRS / LIVING ROOM - NIGHT (p83-91)
 
