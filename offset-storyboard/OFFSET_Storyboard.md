@@ -737,11 +737,12 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 |---|---|---|---|---|
 | 52.1 | Wide | Static | Eleanora shuts down the equipment and hauls Eve into the house to confront the group. | - |
 | 52.2 | Low angle, 24mm | Handheld | INT. HALLWAY - NIGHT. Eleanora, out of breath but trying to remain silent, holds Eve upright and props her against the side of the staircase. | Laboured breathing. |
-| 52.3 | Wide | Static | INTERCUT BETWEEN BEDROOMS: Eleanora enters all the bedrooms and whispers to everyone. | Whispers. |
-| 52.4 | Wide | Handheld | FLASHBACK FROM THE YEAR BEFORE: the same group in their pristine clothes, devices on, laughing and joking. | COCO We took turns like you have. |
-| 52.5 | MS | Floating | Eve's fantasy, a year ago: so wholesome, full of love. The system was younger. | COCO Hers was so wholesome, full of love. I admired her optimism. |
-| 52.6 | ECU eyes | Static | Eve, glitching and in agony. Charlie and Coco's culpability is exposed. | - |
-| 52.7 | CU | Handheld | Eve begs to be killed: an explicit echo of Eleanora's mother. | - |
+| 52.3 | Ground level, 35mm | Static | Eve slumps at the foot of the staircase. Eleanora stares at her, then looks up at the impending flight of stairs. | - |
+| 52.4 | Wide | Static | INTERCUT BETWEEN BEDROOMS: Eleanora enters all the bedrooms and whispers to everyone. | Whispers. |
+| 52.5 | Wide | Handheld | FLASHBACK FROM THE YEAR BEFORE: the same group in their pristine clothes, devices on, laughing and joking. | COCO We took turns like you have. |
+| 52.6 | MS | Floating | Eve's fantasy, a year ago: so wholesome, full of love. The system was younger. | COCO Hers was so wholesome, full of love. I admired her optimism. |
+| 52.7 | ECU eyes | Static | Eve, glitching and in agony. Charlie and Coco's culpability is exposed. | - |
+| 52.8 | CU | Handheld | Eve begs to be killed: an explicit echo of Eleanora's mother. | - |
 
 ### 53. INT. HOUSE - BALCONY - NIGHT (p92)
 
