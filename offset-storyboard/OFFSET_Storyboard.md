@@ -796,8 +796,9 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | 56.1 | Wide | Handheld | Ezra: a full physical fight across the spoiled feast. | - |
 | 56.2 | CU | Handheld | Eleanora narrowly overpowers him, completing the same act he once performed on someone else for entertainment. | CLICK. |
 | 56.3 | ECU | Push in | She twists his device even further, just before infinity. Eleanora moves around the table doing it to each person. | ELEANORA (V.O) My Mother knew what she meant to me. |
-| 56.4 | CU | Static | INTERCUT: A morbidly obese Cali, in pain, stuffs cake into her mouth. Her mirror unchanged. | ELEANORA (V.O) A year for a year. |
-| 56.5 | Insert | Static | Flo's fingers bleed, fumbling as she tries to conceal the marks on the glass. | ELEANORA (V.O) What is desire if it's fulfilled? |
+| 56.4 | Wide, 35mm | Static | INTERCUT: A morbidly obese Cali, in pain, hunched over the table. | ELEANORA (V.O) A year for a year. |
+| 56.5 | CU | Static | She stuffs cake into her mouth. Her mirror unchanged. | - |
+| 56.6 | Insert | Static | Flo's fingers bleed, fumbling as she tries to conceal the marks on the glass. | ELEANORA (V.O) What is desire if it's fulfilled? |
 
 ### 57. INT. ELEANORA'S FANTASY - MOTHER - (FINAL) (p97)
 
@@ -822,6 +823,7 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | 58.1 | Extreme wide | Locked-off | At dawn, Eleanora walks away from the estate, barefoot, alive, and entirely alone. | - |
 | 58.2 | Insert, low, 50mm | Tracking | Under her bare feet, the ground is damp with dew; each step soft but deliberate. | ELEANORA (V.O) Would your fantasy really be your fantasy if you could have it all the time? |
 | 58.3 | MS | Static | (Miro board) She stops in the trees and breathes. | - |
-| 58.4 | MS | Slow track | LATER: INT. LIVING ROOM - DAY. The group are all slightly dusty, connected to devices, feeding tubes, heart monitors and IVs. | ELEANORA (V.O) Or should it always be just out of reach. Aimed for but never grasped. |
-| 58.5 | Aerial | Drone rising | (Miro board) The forest closes over the estate. | END. |
+| 58.4 | Insert, 85mm | Static | LATER: dust hangs in the light of the living room. | - |
+| 58.5 | MS | Slow track | LATER: INT. LIVING ROOM - DAY. The group are all slightly dusty, connected to devices, feeding tubes, heart monitors and IVs. | ELEANORA (V.O) Or should it always be just out of reach. Aimed for but never grasped. |
+| 58.6 | Aerial | Drone rising | (Miro board) The forest closes over the estate. | END. |
 
