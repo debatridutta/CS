@@ -455,7 +455,8 @@ The group gossips about 'the stray' in German and Danish. Eleanora confronts Cai
 | 31.1 | Wide, 32mm | Static | The group talks about her in German and Danish. Eleanora stands in the doorway. | EZRA It's been fucking group therapy so far... FLO Ja, hvad var der med den strejfer? EZRA Ich habe gesagt, es wird alles gut. ELEANORA Could you not see I was uncomfortable? JASPER No one sits out. EZRA That's the point. |
 | 31.2 | Wide, 24mm | Static | Eleanora opens the door to get some fresh air, a dark silhouette against the green outside. | - |
 | 31.3 | Insert, 100mm macro | Slow track | She holds onto the metal ledge and notices some scratches in the metal; her fingers trail across them. | CALI You should close that? CAI I don't like it open either. |
-| 31.4 | Wide, 50mm | Static | Eleanora glances back out as she is closing it over: the other building. | ELEANORA What's the other building? CALI It's like an outhouse. CAI It's where they store the batteries. ... They last for ages. CALI He told us so we wouldn't go in. ELEANORA So who would? CAI Exactly. No one. |
+| 31.4 | Wide, 35mm | Static | Eleanora stands at the open balcony door at the end of the dark room, looking out. | - |
+| 31.5 | Wide, 50mm | Static | Eleanora glances back out as she is closing it over: the other building. | ELEANORA What's the other building? CALI It's like an outhouse. CAI It's where they store the batteries. ... They last for ages. CALI He told us so we wouldn't go in. ELEANORA So who would? CAI Exactly. No one. |
 
 ### 32. INT. BEDROOM - DAY (p52-53)
 
@@ -574,8 +575,7 @@ Ezra is asleep. Through blurred vision a figure darts down the corridor; ivy cra
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 41.1 | Wide corridor | Steadicam | Eleanora sets down two glasses of water; Ezra is already asleep. She slips into bed. Through blurred vision, a figure darts down the corridor. Startled, she turns to Ezra: ivy crawls down his back, from the top of his neck to the base of his spine. | - |
-| 41.2 | MS | Mirrored movement | Eleanora rises and follows the unknown woman. They move in sync, mirroring every step, neither catching the other, both trying to escape the property. | - |
-| 41.3 | Wide | Slow drift | When they finally meet, they are dressed identically; even their faces echo each other. They push their bodies together, relieved, and slow dance, first slowly, then faster, drifting through the property, bringing a moment of peace to every empty room. | - |
+| 41.2 | Wide | Slow drift | Eleanora rises and follows the unknown woman. They move in sync, mirroring every step, neither catching the other, both trying to escape the property. When they finally meet, they are dressed identically; even their faces echo each other. They push their bodies together, relieved, and slow dance, first slowly, then faster, drifting through the property, bringing a moment of peace to every empty room. | - |
 
 ### 42. INT. BEDROOM - MORNING (p65)
 
