@@ -741,9 +741,11 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | 52.4 | Wide | Static | INTERCUT BETWEEN BEDROOMS: Eleanora enters all the bedrooms and whispers to everyone. | Whispers. |
 | 52.5 | Wide | Handheld | FLASHBACK FROM THE YEAR BEFORE: the same group in their pristine clothes, devices on, laughing and joking. | COCO We took turns like you have. |
 | 52.6 | MS | Floating | Eve's fantasy, a year ago: so wholesome, full of love. The system was younger. | COCO Hers was so wholesome, full of love. I admired her optimism. |
-| 52.7 | ECU eyes | Static | Eve, glitching and in agony. Charlie and Coco's culpability is exposed. | - |
-| 52.8 | Wide, 35mm | Static | FLASHBACK - MOTHER'S FLAT - DAY. Her Mother, frail in her wheelchair at the end of the hallway. Eleanora has a strong emotional reaction. | MOTHER SCREAMS IN PAIN. MOTHER Kill me! |
-| 52.9 | CU | Handheld | Eve begs to be killed: an explicit echo of Eleanora's mother. | - |
+| 52.7 | ECU, eyes | Static | The group go quiet as we slowly see Eve rising from her chair, her device glitching in and out. Her eyes try to find focus like a camera, opening and closing in pain from the lights. | EZRA My god. |
+| 52.8 | ECU eyes | Static | Eve, glitching and in agony. Charlie and Coco's culpability is exposed. | - |
+| 52.9 | Wide, 35mm | Static | FLASHBACK - MOTHER'S FLAT - DAY. Her Mother, frail in her wheelchair at the end of the hallway. Eleanora has a strong emotional reaction. | MOTHER SCREAMS IN PAIN. MOTHER Kill me! |
+| 52.10 | Ground level, 50mm | Static | INT. LIVING ROOM - NIGHT. Eleanora opens her eyes on the floor. | - |
+| 52.11 | CU | Handheld | Eve begs to be killed: an explicit echo of Eleanora's mother. | - |
 
 ### 53. INT. HOUSE - BALCONY - NIGHT (p92)
 
@@ -753,7 +755,8 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 53.1 | Wide | Slow motion | Eve breaks free and jumps from the balcony, dying in the same spot as the year before. | - |
+| 53.1 | Insert, 50mm | Static | FLASHBACK - INT. MOTHER'S FLAT - DAY. Eleanora holds her Mother's hand. She gives her mum a huge hug; they grip each other tightly. | - |
+| 53.2 | Wide | Slow motion | Eve breaks free and jumps from the balcony, dying in the same spot as the year before. | - |
 
 ### 54. INT. LIVING ROOM - NIGHT (THE REQUEST) (p92-94)
 
