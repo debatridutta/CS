@@ -661,29 +661,13 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 48.1 | Extreme wide | Static | EXT. FRANS'S FANTASY - FOREST - NIGHT. A body lies on the forest floor between the trees. | TWIST and CLICK echo, louder than before. |
-| 48.2 | Low wide | Handheld | Eleanora wakes frantically on the forest floor, gasping for air and coughing across the dirt. | - |
-| 48.3 | CU, ground level | Static | Eleanora wakes frantically, gasping for air, coughing across the dirt floor of the forest. | Gasping. |
-| 48.4 | Top shot | Slow crane up | She lies sprawled in the undergrowth, getting her bearings. | - |
-| 48.5 | POV, looking up | Slow spin | The canopy spins above her. | - |
-| 48.6 | Wide | Whip pan | Torchlight cuts through the trees: the hunt has begun. | MIX: ELEANORA'S MOTHER / JACQUELINE / EVE (distorted) RUN! |
-| 48.7 | MS | Handheld | A blood-soaked woman sprints past her, her movements frantic, unnatural. | - |
-| 48.8 | Wide | Handheld | Eleanora hears rustles through the trees. She sees some of the group running in between the trees. | Rustling. |
-| 48.9 | Extreme wide | Static | A lone figure stands in the fog between the trees. | - |
-| 48.10 | Wide | Handheld chase | Eleanora backtracks and sees silhouetted figures, one attacking the other from above. | - |
-| 48.11 | Whip pan | Whip | A figure stands up and darts to their right, inhumanely fast. | - |
-| 48.12 | Low tracking | Handheld, running | Eleanora sprints, hitting some branches, cutting her face. | Branches snapping. |
-| 48.13 | Wide | Static | In the distance another person is hacked down. | We hear other voices SCREAMING IN PAIN. |
-| 48.14 | CU | Handheld | A bloodied face in the dark. | - |
-| 48.15 | Wide | Handheld | Jacqueline is tackled by a figure from the dark. | - |
-| 48.16 | MS | Handheld | Frans's hunting party looks up into the dark. | - |
-| 48.17 | Wide | Handheld | Eleanora reaches the house and tries the locked double doors. | - |
-| 48.18 | Wide | Handheld | She moves around the house and peeks around the corner. She tries the other doors, which are locked as well. | - |
-| 48.19 | MCU | Static | We can hear breathing surrounding her. | Breathing all around. |
-| 48.20 | Two-shot | Handheld | She doubles back on herself as soon as she turns the corner; suddenly she is grabbed and tries to fight back. | - |
-| 48.21 | CU | Handheld | The figure is unclear, scrubs sticking to them. Eleanora is raised up, choked against the wall. | - |
-| 48.22 | Wide | Static | Her feet kick against the wall, trying to gain some grip. | Gasping for air. |
-| 48.23 | CU | Slow push | Desperately, Eleanora looks around for help. Her gaze flicks to the side, then up to the window above: the woman she danced through the house with stares down at her. | BLURRED CUT TO: |
+| 48.1 | Low wide | Handheld | EXT. FRANS'S FANTASY - FOREST - NIGHT. Eleanora wakes frantically on the forest floor, gasping for air and coughing across the dirt. | TWIST and CLICK echo, louder than before. |
+| 48.2 | Wide | Whip pan | A blood-soaked woman sprints past her. Eleanora hears rustles through the trees and sees some of the group running between them; torchlight cuts through the dark. | MIX: ELEANORA'S MOTHER / JACQUELINE / EVE (distorted) RUN! |
+| 48.3 | Wide | Handheld chase | Eleanora backtracks and sees silhouetted figures, one attacking the other from above. A figure stands up and darts to their right, inhumanely fast. | - |
+| 48.4 | Wide | Static | Eleanora sprints, hitting branches, cutting her face. In the distance another person is hacked down. | We hear other voices SCREAMING IN PAIN. |
+| 48.5 | MS | Handheld | Jacqueline is tackled by a figure from the dark. Frans's hunting party looks up into the dark. | - |
+| 48.6 | Wide | Handheld | Eleanora reaches the house and tries the locked double doors. She moves around the house; the other doors are locked as well. | We can hear breathing surrounding her. |
+| 48.7 | CU | Handheld | She doubles back as she turns the corner and is grabbed. Raised up, she is choked against the wall, feet kicking for grip. Desperately she looks up to the window above: the woman she danced through the house with stares down at her. | Gasping for air. BLURRED CUT TO: |
 
 ### 49. INT. DINING ROOM - NIGHT (LAST DINNER) (p80-81)
 
