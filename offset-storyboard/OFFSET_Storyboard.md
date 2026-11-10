@@ -723,9 +723,8 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | 51.6 | Top shot, 35mm | Slow push | An unknown woman lies surrounded by softly beeping machines, tubes and lines keeping her suspended between worlds. | Machines beeping softly. |
 | 51.7 | Insert, 100mm | Static | Eve's device, sparking red: damaged by prolonged 'infinity' use. | - |
 | 51.8 | MS, 50mm | Slow track | Eleanora, with calm focus, studies the web of equipment: tubes and lines keeping the woman suspended between worlds. | Softly beeping machines. |
-| 51.9 | MS | Static | Eve, hooked to failing machinery. | - |
-| 51.10 | Insert, 50mm | Static | Coco grabs the arm of Eleanora aggressively to stop her. | - |
-| 51.11 | CU, 85mm | Static | She pauses; a look of realisation washes over Coco's face. She releases Eleanora's arm apologetically. | - |
+| 51.9 | Insert, 50mm | Static | Coco grabs the arm of Eleanora aggressively to stop her. | - |
+| 51.10 | CU, 85mm | Static | She pauses; a look of realisation washes over Coco's face. She releases Eleanora's arm apologetically. | - |
 
 ### 52. INT. HOUSE - STAIRS / LIVING ROOM - NIGHT (p83-91)
 
