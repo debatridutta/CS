@@ -607,8 +607,9 @@ Eleanora smokes outside, wiping away a tear; behind her the outhouse door is lit
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 44.1 | Wide | Static | Eleanora is outside having a smoke and wiping away a tear. In the background we can see the outhouse door lit with green. | - |
-| 44.2 | Wide | Static | INTERCUT WITH THE GROUP. | FRANS I mean she was so rude to him, you have no idea... EZRA Well, yes. Brain to jelly and all that. JASPER We've all lost family. FRANS Fun sponge. NOISE of a TWIST and CLICK echoes. |
+| 44.1 | Wide two-shot, 35mm | Static | Outside the house, Ezra and Eleanora argue face to face in the dark. | - |
+| 44.2 | Wide | Static | Eleanora is outside having a smoke and wiping away a tear. In the background we can see the outhouse door lit with green. | - |
+| 44.3 | Wide | Static | INTERCUT WITH THE GROUP. | FRANS I mean she was so rude to him, you have no idea... EZRA Well, yes. Brain to jelly and all that. JASPER We've all lost family. FRANS Fun sponge. NOISE of a TWIST and CLICK echoes. |
 
 ### 45. INT. JACQUELINE'S FANTASY - NIGHT (p74)
 
