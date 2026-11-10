@@ -670,7 +670,8 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | 48.6 | Wide | Static | In the distance another person is hacked down. | We hear other voices SCREAMING IN PAIN. |
 | 48.7 | MS | Handheld | Jacqueline is tackled by a figure from the dark. Frans's hunting party looks up into the dark. | - |
 | 48.8 | Wide | Handheld | Eleanora reaches the house and tries the locked double doors. She moves around the house; the other doors are locked as well. | We can hear breathing surrounding her. |
-| 48.9 | CU | Handheld | She doubles back as she turns the corner and is grabbed. Raised up, she is choked against the wall, feet kicking for grip. Desperately she looks up to the window above: the woman she danced through the house with stares down at her. | Gasping for air. BLURRED CUT TO: |
+| 48.9 | Tight two-shot, 85mm | Handheld | She doubles back as she turns the corner and is grabbed; she tries to fight back. The figure raises her up and chokes her against the wall. | Gasping for air. |
+| 48.10 | CU | Handheld | Feet kicking for grip, she desperately looks up to the window above: the woman she danced through the house with stares down at her. | Gasping for air. BLURRED CUT TO: |
 
 ### 49. INT. DINING ROOM - NIGHT (LAST DINNER) (p80-81)
 
