@@ -497,6 +497,7 @@ Eleanora walks in on Ezra telling his 'leading man' story; her leg shakes. Jaspe
 | 34.2 | Flash insert | Handheld | INTERCUT: FLASHES OF JASPER'S FANTASY. Hands erupt from the darkness, brushing, clutching, scratching, claiming every inch of him. Jasper's breath quickens, eyes closing, swallowed by the void. | JASPER Nothing major to report. ELEANORA Then it's you. |
 | 34.3 | Flash insert | Push in | Hands erupt from the darkness, reaching for Jasper. | - |
 | 34.4 | Flash insert, top shot | Handheld | Brushing, clutching, scratching, claiming every inch of him; he is swallowed by the void. | - |
+| 34.5 | CU, 50mm | Static | Hands at his throat and face; Jasper's head tips back, his breath quickening, eyes closing. | - |
 
 ### 35. INT. / EXT. EZRA'S FANTASY - HOUSE / FOREST - DAY (p56-58)
 
