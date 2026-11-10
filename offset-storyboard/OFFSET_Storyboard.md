@@ -809,6 +809,7 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 |---|---|---|---|---|
 | 57.1 | Two-shot | Static | Eleanora returns, once more and by her own choice, to a final fantasy with her mother. | - |
 | 57.2 | Insert, 50mm | Static | FLASHBACK - INT. MOTHER'S FLAT. Eleanora holds the pillow above her mum's head and presses down a little. Then she releases it to the floor. | - |
+| 57.3 | Two-shot, 85mm | Static | INT. ELEANORA'S FANTASY - NIGHT. She leans in on her Mother, close, the two resting against each other. | ELEANORA No eres mi madre. (You are not my Mother.) |
 
 ### 58. EXT. COUNTRY LANE - DAWN (p97)
 
