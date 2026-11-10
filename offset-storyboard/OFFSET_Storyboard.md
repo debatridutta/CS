@@ -808,6 +808,7 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 57.1 | Two-shot | Static | Eleanora returns, once more and by her own choice, to a final fantasy with her mother. | - |
+| 57.2 | Insert, 50mm | Static | FLASHBACK - INT. MOTHER'S FLAT. Eleanora holds the pillow above her mum's head and presses down a little. Then she releases it to the floor. | - |
 
 ### 58. EXT. COUNTRY LANE - DAWN (p97)
 
