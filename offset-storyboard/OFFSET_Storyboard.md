@@ -785,9 +785,16 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | 56.1 | Wide | Handheld | Ezra: a full physical fight across the spoiled feast. | - |
 | 56.2 | CU | Handheld | Eleanora narrowly overpowers him, completing the same act he once performed on someone else for entertainment. | CLICK. |
 | 56.3 | ECU | Push in | She twists his device even further, just before infinity. Eleanora moves around the table doing it to each person. | ELEANORA (V.O) My Mother knew what she meant to me. |
-| 56.4 | Wide, 35mm | Static | INTERCUT: A morbidly obese Cali, in pain, hunched over the table. | ELEANORA (V.O) A year for a year. |
-| 56.5 | CU | Static | She stuffs cake into her mouth. Her mirror unchanged. | - |
-| 56.6 | Insert | Static | Flo's fingers bleed, fumbling as she tries to conceal the marks on the glass. | ELEANORA (V.O) What is desire if it's fulfilled? |
+| 56.4 | MS | Static | INTERCUT: Eleanora has a hot shower and cleans off the rotten food. *(placeholder: image to come)* | Water running. |
+| 56.5 | Insert | Static | Coco checking the group's vitals as they are in the system. *(placeholder: image to come)* | Monitors beeping. |
+| 56.6 | Wide, 35mm | Static | INTERCUT: A morbidly obese Cali, in pain, hunched over the table. | ELEANORA (V.O) A year for a year. |
+| 56.7 | CU | Static | She stuffs cake into her mouth. Her mirror unchanged. | - |
+| 56.8 | CU | Handheld | Hands gripping and scratching Jasper from bodies unseen. *(placeholder: image to come)* | ELEANORA (V.O) They lived reckless and careless lives and forgot about her. |
+| 56.9 | MS | Static | Jacqueline cries against a bed as a baby cries on it. *(placeholder: image to come)* | ELEANORA (V.O) So they will stay in there. Like she did. |
+| 56.10 | Insert | Static | Flo's fingers bleed, fumbling as she tries to conceal the marks on the glass. | ELEANORA (V.O) What is desire if it's fulfilled? |
+| 56.11 | Top shot | Static | Cai lies on the grass, overdosing, consumed by the drugs. *(placeholder: image to come)* | ELEANORA (V.O) What is thirst when it's quenched? |
+| 56.12 | Wide | Handheld | Charlie gives tours in agony, attempting to bask in glory, but his trembling legs and blistered feet barely hold him up. *(placeholder: image to come)* | ELEANORA (V.O) It's nothing. Nothing comes from nothing. |
+| 56.13 | CU | Static | Ezra's make-up streaks from tears as he and the fans are in agony, but they continue clapping. *(placeholder: image to come)* | ELEANORA (V.O) And after all the pleasure and gorging and idolising. The question still stands. |
 
 ### 57. INT. ELEANORA'S FANTASY - MOTHER - (FINAL) (p97)
 
