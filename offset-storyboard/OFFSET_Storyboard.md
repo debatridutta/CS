@@ -419,6 +419,7 @@ Curled against the wall, gasping, soaked, her head bleeding slightly. She feels 
 |---|---|---|---|---|
 | 28.1 | CU, 85mm | Static | INT. BATHROOM - NIGHT. In the dark, she breathes, gasping and coughing for air. The yellow dreamy hue is gone. | Gasping, coughing. |
 | 28.2 | CU, 50mm | Static | Back against the wall, she gets her breath back and pushes her wet hair behind her ears. She feels the device attached: a wave of relief washes over her. Soaked in her scrubs, her head bleeding slightly from the top. | Music coming from upstairs. |
+| 28.3 | Wide, 24mm | Static | She sits alone in the corner against the wall, knees drawn up, soaked in her scrubs. | Music coming from upstairs. |
 
 ### 29. INT. LIVING ROOM - NIGHT (PARTY) / FLASHBACK (p46-47)
 
@@ -579,7 +580,8 @@ Ezra is asleep. Through blurred vision a figure darts down the corridor; ivy cra
 |---|---|---|---|---|
 | 41.1 | Wide corridor | Steadicam | Eleanora sets down two glasses of water; Ezra is already asleep. She slips into bed. Through blurred vision, a figure darts down the corridor. Startled, she turns to Ezra: ivy crawls down his back, from the top of his neck to the base of his spine. | - |
 | 41.2 | Insert, 50mm | Slow tilt down | The ivy crawls on, from the top of his neck down to the base of his spine. | - |
-| 41.3 | Wide | Slow drift | Eleanora rises and follows the unknown woman. They move in sync, mirroring every step, neither catching the other, both trying to escape the property. When they finally meet, they are dressed identically; even their faces echo each other. They push their bodies together, relieved, and slow dance, first slowly, then faster, drifting through the property, bringing a moment of peace to every empty room. | - |
+| 41.3 | MS | Mirrored movement | Eleanora rises and follows the unknown woman. They move in sync, mirroring every step, neither catching the other, both trying to escape the property. | - |
+| 41.4 | Wide | Slow drift | When they finally meet, they are dressed identically; even their faces echo each other. They push their bodies together, relieved, and slow dance, first slowly, then faster, drifting through the property, bringing a moment of peace to every empty room. | - |
 
 ### 42. INT. BEDROOM - MORNING (p65)
 
