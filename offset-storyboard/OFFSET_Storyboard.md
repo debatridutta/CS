@@ -476,9 +476,10 @@ Ezra at the table, everything far too close. Mother accuses Eleanora of bringing
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 33.1 | Tight, 85mm | Static | Ezra is now seated at the table. Everything feels far too close. They are all almost pressed together. | MOTHER You brought him here to embarrass me. ELEANORA No lo es. MOTHER You are making a show of your own Mother. I didn't raise you like this. |
-| 33.2 | CU | Static | The Mother becomes increasingly agitated; she holds her ears and screams. | MOTHER GET OUT! |
-| 33.3 | Wide, centred | Static | Ezra and Eleanora sit on opposite sides of the bed. Eleanora holds her emotion well. Nothing is said. Ezra faces the door. | - |
+| 33.1 | Wide, centred | Static | JUMP CUT TO: Eleanora's fantasy, revisited. Ezra sits facing Eleanora, mirrored, in her world now. | - |
+| 33.2 | Tight, 85mm | Static | Ezra is now seated at the table. Everything feels far too close. They are all almost pressed together. | MOTHER You brought him here to embarrass me. ELEANORA No lo es. MOTHER You are making a show of your own Mother. I didn't raise you like this. |
+| 33.3 | CU | Static | The Mother becomes increasingly agitated; she holds her ears and screams. | MOTHER GET OUT! |
+| 33.4 | Wide, centred | Static | Ezra and Eleanora sit on opposite sides of the bed. Eleanora holds her emotion well. Nothing is said. Ezra faces the door. | - |
 
 ### 34. INT. LIVING ROOM - DAY (EZRA'S STORY) / JASPER'S FANTASY (p54-56)
 
