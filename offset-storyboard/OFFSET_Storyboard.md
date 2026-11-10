@@ -507,9 +507,10 @@ Eleanora follows clapping out of the house: a crowd in white claps aggressively 
 | 35.2 | Top shot | Static | Ezra stands elevated near the house, his face fully covered in bold stage make-up, a wide genuine smile. The applause fills the open space between the house and the forest, in rhythm as if rehearsed a million times. He bows every so often in a mechanical manner. | - |
 | 35.3 | MS, 50mm | Slow track | The group clap increasingly aggressively, their attention fixed on him. The sound sharp, invasive and insistent. | Applause. |
 | 35.4 | MS | Handheld | Eleanora works her way through the crowd and sees her Mother at the front, cheering. She drags her Mother away, still cheering. | ELEANORA ¿Por quién estás animando? MOTHER Him. ELEANORA Cuéntame sobre el día en el cine. MOTHER We went to my favourite cinema. Cine Malda. Perfect day. |
-| 35.5 | INSERT | Handheld | INSERT: the pair entering the cinema. INSERT: her Mother's eyes lighting up while seated. | ELEANORA (V.O.) How you took the train. The popcorn. Every single thing. So I surprised you. MOTHER It really was the best day, wasn't it? |
-| 35.6 | Wide, 24mm | Static | INSERT: the cinema toilets. Strangers gather around the cubicle where her Mother has fallen. | - |
-| 35.7 | INSERT | Handheld | INSERT: Eleanora crying on the floor underneath the bathroom cubicle, holding her Mother. Flashes of kids taking pictures and videos underneath the cubicle. | ELEANORA It was the worst day. Well, the second worst day of my life. I screamed at you... MOTHER It's okay. Must be coming to an end. ELEANORA Looks that way. |
+| 35.5 | MS, 50mm | Static | Mother stands in the forest. Eleanora up ahead. Clapping echoes from behind. Mother looks around for someone. | ELEANORA ¿Por quién estás animando? (Who are you cheering for?) Who are you looking for? |
+| 35.6 | INSERT | Handheld | INSERT: the pair entering the cinema. INSERT: her Mother's eyes lighting up while seated. | ELEANORA (V.O.) How you took the train. The popcorn. Every single thing. So I surprised you. MOTHER It really was the best day, wasn't it? |
+| 35.7 | Wide, 24mm | Static | INSERT: the cinema toilets. Strangers gather around the cubicle where her Mother has fallen. | - |
+| 35.8 | INSERT | Handheld | INSERT: Eleanora crying on the floor underneath the bathroom cubicle, holding her Mother. Flashes of kids taking pictures and videos underneath the cubicle. | ELEANORA It was the worst day. Well, the second worst day of my life. I screamed at you... MOTHER It's okay. Must be coming to an end. ELEANORA Looks that way. |
 
 ### 36. INT. LIVING ROOM - DAY (p59-63)
 
@@ -625,6 +626,7 @@ Eleanora holds Jacqueline's hand as she screams in pain.
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 45.1 | CU | Handheld | Eleanora holds Jacqueline's hand as she screams in pain. | JACQUELINE (V.O.) I know where this is going to go. ELEANORA (V.O.) Can you choose? |
+| 45.2 | Two-shot, 85mm | Static | Eleanora holds Jacqueline's face gently, the two close in the yellow light. | ELEANORA (V.O.) Can you choose? |
 
 ### 46. EXT. RETREAT - NIGHT / INT. HOUSE (p75-78)
 
