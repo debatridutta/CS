@@ -67,15 +67,16 @@ The gate opens. The guests form a semicircle before the house. Charlie and Coco'
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 3.1 | Extreme wide, 24mm, centred | Locked-off | The front gate opens slowly and both cars breeze through and pull to a stop. | - |
-| 3.2 | ECU, 100mm | Static | Brake light as the car pulls to a stop. | - |
-| 3.3 | Low insert, 35mm | Tracking with wheel | The driver helps with bags. | - |
-| 3.4 | Low insert | Static | Rocks scrape and collect beneath the dragging bags. | Rocks scraping. |
-| 3.5 | Top shot | Static | From above, the guests form a rough semicircle, Eleanora lingering at the back. They are all poised. One of the taxis drives off; the other remains. | - |
-| 3.6 | MCU, 85mm | Static | Coco stands beside Charlie, writing notes; she whispers. A half smirk, half grimace forms on Charlie's face. Cai and Cali exchange a little smile with Eleanora. Jacqueline exchanges a look with Flo at Eleanora's expense. | - |
-| 3.7 | Insert, 100mm | Slow push | Charlie leads forward into the house, followed by Coco with her tablet. Eleanora notices the backs of their necks: strange devices, slightly worn, a faded white with a green glow emitting. | - |
-| 3.8 | Wide, 35mm | Static | From overhead, the semicircle of guests flows slowly into the building, with Charlie at the front. | - |
-| 3.9 | Top shot, very high | Static | Eleanora pauses behind, holding back for a moment. She stands before the building, its perfectly symmetrical façade rising evenly on either side of her. As she follows inside, Coco directs each person to their room; Charlie stands at the top of the stairs. | - |
+| 3.1 | Wide, 50mm | Static | The front gate opens slowly. | The hum of the gate motor. |
+| 3.2 | Extreme wide, 24mm, centred | Locked-off | Both cars breeze through and pull to a stop. | - |
+| 3.3 | ECU, 100mm | Static | Brake light as the car pulls to a stop. | - |
+| 3.4 | Low insert, 35mm | Tracking with wheel | The driver helps with bags. | - |
+| 3.5 | Low insert | Static | Rocks scrape and collect beneath the dragging bags. | Rocks scraping. |
+| 3.6 | Top shot | Static | From above, the guests form a rough semicircle, Eleanora lingering at the back. They are all poised. One of the taxis drives off; the other remains. | - |
+| 3.7 | MCU, 85mm | Static | Coco stands beside Charlie, writing notes; she whispers. A half smirk, half grimace forms on Charlie's face. Cai and Cali exchange a little smile with Eleanora. Jacqueline exchanges a look with Flo at Eleanora's expense. | - |
+| 3.8 | Insert, 100mm | Slow push | Charlie leads forward into the house, followed by Coco with her tablet. Eleanora notices the backs of their necks: strange devices, slightly worn, a faded white with a green glow emitting. | - |
+| 3.9 | Wide, 35mm | Static | From overhead, the semicircle of guests flows slowly into the building, with Charlie at the front. | - |
+| 3.10 | Top shot, very high | Static | Eleanora pauses behind, holding back for a moment. She stands before the building, its perfectly symmetrical façade rising evenly on either side of her. As she follows inside, Coco directs each person to their room; Charlie stands at the top of the stairs. | - |
 
 ### 4. INT. DINING ROOM - DAY (INTERCUT BEDROOM) (p5-7)
 
@@ -715,9 +716,10 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | 51.1 | Wide | Tracking behind | Eleanora makes a night-time trip to the outhouse. | - |
 | 51.2 | Wide | Handheld, following | Her breaths become heavier as she gets closer to the building on the hill; the door frame illuminates a green glow. | Heavy breathing. |
 | 51.3 | Wide | Slow push in | Inside the outhouse: machines, beds, the lab. | - |
-| 51.4 | Insert, 100mm | Static | Eve's device, sparking red: damaged by prolonged 'infinity' use. | - |
-| 51.5 | MS | Static | Eve, hooked to failing machinery. | - |
-| 51.6 | MS | Static | (Miro board) Coco grabs Eleanora's arm. | - |
+| 51.4 | Top shot, 35mm | Slow push | An unknown woman lies surrounded by softly beeping machines, tubes and lines keeping her suspended between worlds. | Machines beeping softly. |
+| 51.5 | Insert, 100mm | Static | Eve's device, sparking red: damaged by prolonged 'infinity' use. | - |
+| 51.6 | MS | Static | Eve, hooked to failing machinery. | - |
+| 51.7 | MS | Static | (Miro board) Coco grabs Eleanora's arm. | - |
 
 ### 52. INT. HOUSE - STAIRS / LIVING ROOM - NIGHT (p83-91)
 
