@@ -696,7 +696,8 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | 48.10 | Wide | Handheld | Eleanora reaches the house and tries the locked double doors. She moves around the house; the other doors are locked as well. | We can hear breathing surrounding her. |
 | 48.11 | Tight two-shot, 85mm | Handheld | She doubles back as she turns the corner and is grabbed; she tries to fight back. The figure raises her up and chokes her against the wall. | Gasping for air. |
 | 48.12 | Insert, macro | Static | The hand tightens around her throat. | - |
-| 48.13 | CU | Handheld | Feet kicking for grip, she desperately looks up to the window above: the woman she danced through the house with stares down at her. | Gasping for air. BLURRED CUT TO: |
+| 48.13 | CU, 50mm | Handheld | Gasping for air, her face going red. | - |
+| 48.14 | CU | Handheld | Feet kicking for grip, she desperately looks up to the window above: the woman she danced through the house with stares down at her. | Gasping for air. BLURRED CUT TO: |
 
 ### 49. INT. DINING ROOM - NIGHT (LAST DINNER) (p80-81)
 
