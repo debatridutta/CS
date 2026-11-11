@@ -1,6 +1,6 @@
 # OFFSET - Storyboard
 
-Shot-by-shot storyboard covering every scene of the 15-07-2026 screenplay (scenes 1-47) plus the ending from the Miro board and the OFFSET Treatment (scenes 48-58).
+Shot-by-shot storyboard covering every scene of the 98-page draft (OFFSET 04-07-2026), scenes 1-58.
 
 Interactive version with all images and a play-through animatic: https://claude.ai/artifact/WJoQZqQMdZT2EViNhAcHaa
 
@@ -13,6 +13,13 @@ Interactive version with all images and a play-through animatic: https://claude.
 - Grey: the hard years and bad memories (the bath, Mother's confusion, the cubicle).
 - White: the good times (recognition, dancing for Mother, the final fantasy).
 - Yellow: the walk to the cinema (Cine Malda).
+
+## Board grade
+
+- House scenes: a slight green cast.
+- Fantasies: a warm yellow glow.
+- Red: the dancing, the sex scenes, and the final fantasies turning to nightmares (not Eleanora's).
+- Flashbacks: washed white.
 
 ## Device (from DEVICE DESIGN.pdf)
 
@@ -54,7 +61,7 @@ Eleanora jolts awake against the taxi window. Flo brushes off her questions; the
 | 2.3 | Insert, 85mm | Static | The time is 13:00 on the car clock. | - |
 | 2.4 | CU, 85mm through glass | Static | Eleanora jolts her eyes wide, her face pressed up against the window. Her breath fogs up the glass, disturbing the view of nature. | - |
 | 2.5 | Wide, high angle | Slow crane, following | The other large cab, filled with two other couples: Cai, Cali, Jasper and Jacqueline. | - |
-| 2.6 | Insert, 50mm | Static | Eleanora sits up with her 'German for Beginners' book. It has been dog-eared in every which way and Post-it notes stick out from the side. | ELEANORA Where is this house? FLO (scoffs) Not a house. ELEANORA What is it then? Entschuldigung? FLO Sie sind entschuldigt. (To Frans) Som en retræte, ikke? It's a retreat. |
+| 2.6 | Insert, 50mm | Static | Eleanora sits up with her 'German for Beginners' book. It has been dog-eared in every which way and Post-it notes stick out from the side. | ELEANORA Where is this house? FLO (scoffs) Not a house. ELEANORA What is it then? Entschuldigung? FLO Sie sind entschuldigt. (To Frans) Ligesom at tage på rekreation, ikke? (Like a retreat, right?) |
 | 2.7 | POV back seat, 32mm | Static | Goli, the local taxi driver with a thick moustache, overhears, noticing the awkwardness. Flo and Frans share the taxi; tiny scars are visible on the backs of their necks. | ELEANORA OK so, when do we arrive at the retreat? DRIVER Nun ja, wir fahren seit einer Stunde über das Anwesen. ELEANORA (whispers) Unanswered questions... Unbeantwortete Fragen. |
 | 2.8 | ECU hand, 100mm macro | Static | Eleanora draws a large circle on the window, then a middle point to the circle. | ELEANORA Not your fault. So much space. Ungenutzt. So groß. DRIVER We're going right to the Zentrum... the centre of it. |
 | 2.9 | Macro | Rack focus | Water droplets trail down the window from her drawing. | CUT TO: |
@@ -86,7 +93,7 @@ Close on Charlie addressing the group. He quotes Ungers over insert shots of the
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 4.1 | CU, 50mm | Locked-off | Close on Charlie, speaking, addressing the group. | CHARLIE 'Dies ist ein Lebensraum, ein Laborversuch. Eine Darstellung der Idee der Welt.' ('This is a living space, a laboratory test. A representation of the idea of the world.') |
+| 4.1 | CU, 50mm | Locked-off | Close on Charlie, speaking, addressing the group. | CHARLIE 'Das ist ein Lebensraum. Ein Laborversuch. Eine Verkörperung der Idee von der Welt.' ('This is a living space, a laboratory test. A representation of the idea of the world.') |
 | 4.2 | Wide, 18mm, looking up | Slow tilt | Insert shot: building architecture. | CHARLIE (CONT'D) I can't take credit for it, nor shall I. So I use the words of the man who designed this place. Oswald. Mathias. Ungers. 'An idea of the world.' Who speaks like that nowadays? Such grandiose plans. |
 | 4.3 | Wide, 24mm | Static | Insert shot: building architecture. | CHARLIE (CONT'D) His aim was 'To see how far architecture can be abstract. A house without qualities. No ornaments, no details, no bottom nor top. Everything subtracted to the absolute core of abstraction.' End quote. Abstraction. That is what we are going to do here. Find the core of each of you. |
 | 4.4 | ECU, 100mm, centred | Locked-off | INT. BEDROOM - DAY. Little black cameras in every room, a bright green light emitting from them. | CHARLIE (V.O.) No locks. Nor keys. |
@@ -100,8 +107,8 @@ Bare rooms, five sets of colour-coded scrubs. Charlie (V.O.): they will be watch
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 5.1 | Wide, 32mm | Static | Each room is bare except for five sets of colour-coded scrubs hanging neatly, with folded towels laid on the beds. Coco stands at the doorway in front of Eleanora, giving her an odd reassuring look. | FRANS (V.O.) And who watches? CHARLIE (V.O.) Us. From afar. FRANS (V.O.) Big Bruder, no? CHARLIE (V.O.) Not quite. JASPER (V.O.) Something Orwellian anyhow. CHARLIE (V.O.) All for your safety of course. |
-| 5.2 | CU hands, 85mm | Static | Jewellery piles up in each bedside table. Flo is very precise with her finishing touches. | ELEANORA (V.O.) You're not staying with us? CHARLIE (V.O.) Only for the start. We like the open and the close. Starters and desserts. |
+| 5.1 | Wide, 32mm | Static | Each room is bare except for five sets of colour-coded scrubs hanging neatly, with folded towels laid on the beds. Coco stands at the doorway in front of Eleanora, giving her an odd reassuring look. | FRANS (V.O.) And who watches? CHARLIE (V.O.) Us. COCO (V.O.) But from afar. FRANS (V.O.) Big Bruder, no? CHARLIE (V.O.) Not quite. JASPER (V.O.) Something Orwellian anyhow. COCO (V.O.) All for your safety. CHARLIE (V.O.) Of course. |
+| 5.2 | CU hands, 85mm | Static | Jewellery piles up in each bedside table. Flo is very precise with her finishing touches. | ELEANORA (V.O.) You're not staying with us? COCO (V.O.) Only for the start. CHARLIE We like the open and the close, don't we darling? The starters and desserts, as you always put it. |
 | 5.3 | Insert | Static | Scrubs are held up by members of the group. Jacqueline looks upset and appalled by what she is having to wear. Jasper glances to Charlie; Charlie shakes his head. | - |
 | 5.4 | MS through doorway, 50mm | Slow push | Cali and Cai undress each other, stealing glances toward Eleanora at the end of the hallway. Aware she's watching. | - |
 | 5.5 | CU, 85mm | Static | Each person gets changed. | - |
@@ -116,7 +123,7 @@ The group ascends the staircase from shadow to pale light. Charlie and Coco stan
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 6.1 | Wide, 24mm, centred | Locked-off | The group ascends the staircase, figures moving from shadow to the pale light hitting from above. Charlie and Coco stand either side of the entrance at the top of the stairs, almost ceremonial. | - |
-| 6.2 | POV up the stair, 35mm | Steadicam climb | Eleanora sees the doorway looming. She takes in a deep breath and ascends the stairs. Charlie and Coco follow her with subtly unsettling smiles. | CHARLIE (whispers) Get back to a blank canvas. CHARLIE (V.O.) And that's where we all can begin to paint. |
+| 6.2 | POV up the stair, 35mm | Steadicam climb | Eleanora sees the doorway looming. She takes in a deep breath and ascends the stairs. Charlie and Coco follow her with subtly unsettling smiles. | CHARLIE (whispers) Get back to a blank canvas. CHARLIE (V.O.) And that's where you all can begin to paint. |
 
 ### 7. INT. DINING ROOM - DAY (THE FEAST) (p8-15)
 
@@ -134,7 +141,7 @@ Eleanora's gaze falls on a magnificent feast with 8 black boxes as its centrepie
 | 7.6 | Insert, 100mm macro | Static | Coco passes Charlie one of the black boxes. He opens it carefully to reveal the device. | CHARLIE Let's get on, shall we. |
 | 7.7 | Insert | Static | Insert: the water. Everyone apart from Eleanora pauses in their actions and looks straight towards Charlie. | CHARLIE But you have water. The house is full of water. It's pristine, alpine, alkaline, so damn fine it will cure your bloodline. JASPER Sorry, wait. No actual food? CHARLIE Nada. Nichts. Fünf Tage, meine Schätze. |
 | 7.8 | Insert, 85mm | Static | Rows of green glass bottles: the house is full of water. | CHARLIE It's pristine, alpine, alkaline, so damn fine it will cure your bloodline. |
-| 7.9 | CU, 85mm | Static | Eleanora watches Cali drink the milkshake halfway up the straw, then stop. Cali lets out an enthusiastic moan, as if it is delicious without tasting a drop. She looks Eleanora dead in the eyes. | ELEANORA What do you call it? CHARLIE Offline was the original name. Off-grid maybe, Offbeat, Offset. ELEANORA I like that. Offset. |
+| 7.9 | CU, 85mm | Static | Eleanora watches Cali drink the milkshake halfway up the straw, then stop. Cali lets out an enthusiastic moan, as if it is delicious without tasting a drop. She looks Eleanora dead in the eyes. | ELEANORA What do you call it? CHARLIE Offline was the original name. Off-grid maybe, Offbeat, Offset. ELEANORA I like that. CHARLIE Offset? |
 | 7.10 | ECU eye, 100mm | Push in | Eleanora says her own name. We hear her voice muffled, as if underwater. | CHARLIE A gold star for the lovely... ELEANORA Eleanora. JUMP CUT TO: |
 
 ### 8. FLASHBACK - INT. MOTHER'S FLAT - DAY (p13)
@@ -156,11 +163,11 @@ Charlie explains the rules: the first under controls the fantasy. Twist for hour
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 9.1 | Wide, 32mm | Static | Charlie and Coco stand at the head of the table. The group notice Eleanora's slip; subtle side-eyes are made to each other. | CHARLIE Eleanora. In all relationships there is the talker and there is the doer. Coco right here is the doer and I am the talker. |
-| 9.2 | Wide, 32mm | Static | Charlie stands over the seated group, talking about purpose. | CHARLIE This machine, if I can call it a machine... It has given me purpose. I. Us. Purpose. It shows you what you desire. |
+| 9.2 | Wide, 32mm | Static | Charlie stands over the seated group, talking about purpose. | COCO This machine, if we can call it a machine, truly is something special. It has given us purpose. CHARLIE To me it is God. It shows you what you desire. |
 | 9.3 | Wide, 24mm, centred | Slow push in | Charlie centred, the group seated around him. | CHARLIE You each need to lay yourself out on the slab. For all to see. Then, what judgement can harm you? |
 | 9.4 | Insert, 100mm | Static | Coco walks around checking and cleaning the back of each person's neck. | - |
 | 9.5 | ECU, 100mm macro | Static | Charlie twists the device. | TWIST. CHARLIE Good energy. |
-| 9.6 | Insert | Static | He presses the middle button. A green glow emits from the inner circle. | CLICK. CHARLIE My new friends, ecstasy is just the press of a button away. Coco. COCO One turn and press is one hour... FRANS Eternity. We get it. ELEANORA (looking at one of the devices) Infinity? |
+| 9.6 | Insert | Static | He presses the middle button. A green glow emits from the inner circle. | CLICK. CHARLIE My new friends, ecstasy is just the press of a button away. Coco. COCO One twist and press is one hour... FRANS Eternity. We get it. ELEANORA (looking at one of the devices) Infinity? |
 | 9.7 | MS from below, exterior, 50mm | Static | Eleanora looks out the balcony to see Charlie and Coco getting into the last remaining taxi. Coco holds a little longer, staring up at Eleanora's silhouette through the balcony door. Eleanora taps the glass repeatedly, gently. | CHARLIE (V.O.) We are not the kids with a magnifying glass and you are not the ants. You are all simultaneously. The glass, the ant, and the child. |
 
 ### 10. INT. DINING ROOM - DAY (THE FAST) (p16-27)
@@ -174,7 +181,7 @@ The devices are attached, outer rings glowing green, inner rings grey. The group
 | 10.1 | Insert, 85mm | Static | Around the group, the devices are now attached to the back of their necks: a subtle green glow in the outer ring, a soft pulse of light; the inner ring grey, not active yet. The guests, unbothered, keep eating at the most lavish dishes. | - |
 | 10.2 | Wide, 35mm | Static | Unbothered, the guests keep eating at the most lavish dishes. | Cutlery, chewing. |
 | 10.3 | CU hands, 85mm | Static | Cali picks and chops and adds food to her plate but very clearly isn't eating anything. A routine she has done many times. INTERCUT with CLOSE on chewing. | CALI 'The future is fasting' I hear. FLO Removes cancer. CALI Should go for as long as you can. |
-| 10.4 | Wide, 24mm | Slow lateral dolly | The group unanimously agree food isn't good for you, but continue eating. Eleanora's joke lands; the group goes quiet. Cai breaks the silence and bursts out laughing. | ELEANORA They should patent it. Starving kids, no? Prolonged fasting... What would you call the company? CAI I like her... A little off. But that is funny dennoch. JACQUELINE Schlechter Geschmack. |
+| 10.4 | Wide, 24mm | Slow lateral dolly | The group unanimously agree food isn't good for you, but continue eating. Eleanora's joke lands; the group goes quiet. Cai breaks the silence and bursts out laughing. | ELEANORA Maybe they should patent it. JASPER Please can't we enjoy one meal without hearing of any starving kids. CAI I like her. I wasn't sure at first. Thought something was a little komisch... But dennoch, that is funny. JACQUELINE Geschmackslos. |
 | 10.5 | CU, 50mm | Static | Frans eats with his fingers, eyes on Eleanora. Eleanora winces. | FRANS He paid for you right? You wouldn't be speaking like that if you paid for this yourself. ELEANORA You know that? FRANS I know that. ELEANORA OK. He did. |
 | 10.6 | Wide, centred, 32mm | Static | Silence. Everyone looking towards Eleanora. | FRANS He paid for you right? You wouldn't be speaking like that if you paid for this yourself. |
 | 10.7 | Wide, 50mm, down the table | Static | Before anyone can reply. | ELEANORA Even, still. Who goes first? |
@@ -228,7 +235,7 @@ Cold green replaces the yellow. Cali laughs hysterically, then talks about her m
 |---|---|---|---|---|
 | 13.1 | CU, 85mm | Static | The yellow warming glow has been replaced with a colder green one. The rest of them appear to still be in Cali's fantasy, savouring the pure ecstasy of it all. | - |
 | 13.2 | CU, 85mm | Static | Cali opens her eyes. All the rest come out of the system, back to the positions they were in. Cali laughs hysterically. It's so contagious everyone has a smile. | - |
-| 13.3 | High wide, 24mm | Static | Cali has settled. The group sits around her, watching, in the cold green light. Cai sits a little closer by. | CALI My mother always said: 'Don't be greedy Cali...' She didn't mean greedy, she meant fat. ... JACQUELINE Stunning. |
+| 13.3 | High wide, 24mm | Static | Cali has settled. The group sits around her, watching, in the cold green light. Cai sits a little closer by. | CALI My mother always said: 'Don't be greedy Cali. There is nothing in this world more unattractive than a greedy woman.' She didn't mean greedy, she meant fat. ... JACQUELINE Stunning. |
 | 13.4 | CU | Static | Necks fall back. TWIST. CLICK. PRESS, ACTIVATE. Eyes roll back. | JACQUELINE Again? |
 
 ### 14. INT. JACQUELINE'S FANTASY - BATHROOM - NIGHT (p31-33)
@@ -299,7 +306,7 @@ Ezra drops his bag and climbs toward the warm glow and the group's laughter.
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 19.1 | Low wide, 32mm | Static | Light comes from the top of the stairs. He drops his bag at the foot of the stairs. It slides to a stop near her feet. | EZRA I'll just say hello. I'll be down in a minute. A swift peck on the cheek. Laughter echoes upstairs. |
+| 19.1 | Low wide, 32mm | Static | Light comes from the top of the stairs. He drops his bag at the foot of the stairs. It slides to a stop near her feet. | A swift peck on the cheek. EZRA I'll be down in a minute. |
 | 19.2 | Wide, 24mm | Static | Unfazed, Ezra heads up the stairs, drawn toward the warm glow spilling through the open doorway above. From the shadows, Eleanora watches him climb into the light. | His footsteps echo loudly on the stairs. |
 
 ### 20. INT. BEDROOM - NIGHT (p34-35)
@@ -337,7 +344,7 @@ The kettle clicks off. Ezra, his device already fitted ('Flo helped'), eats grap
 |---|---|---|---|---|
 | 22.1 | Insert | Static | The kettle clicks off; steam curls from the spout. Flo pours boiling water into a green, see-through mug. | FLO You want your water hot. It makes you feel like you're having a cup of tea. ELEANORA Yeah. Hot is fine. FLO No 'thanks'? ELEANORA Thank you. |
 | 22.2 | CU, 85mm | Static | Jacqueline walks decisively towards Ezra, then turns to Eleanora alone and mouths the word. Ezra shakes his head. | JACQUELINE And you brought a 'friend.' (mouths) Stray. EZRA And thank god. |
-| 22.3 | MS | Static | Ezra now has the device on his neck. He walks towards Eleanora. | ELEANORA How did you do that? EZRA They left me instructions. And Flo helped. ... (Announcing) This is going to help you, you know? Glücklich? ELEANORA Glücklich. EZRA You ready? |
+| 22.3 | MS | Static | Ezra now has the device on his neck. He walks towards Eleanora. | ELEANORA How did you do that? EZRA They left me instructions. And Flo helped. ... (Announcing) This is going to help you know? ELEANORA I know. I'm grateful. EZRA Glücklich? ELEANORA Glücklich. EZRA You ready? |
 
 ### 23. INT. LIVING ROOM - BALCONY DOOR - DAY (p39)
 
@@ -464,7 +471,7 @@ The group gossips about 'the stray' in German and Danish. Eleanora confronts Cai
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 31.1 | Wide, 32mm | Static | The group talks about her in German and Danish. Eleanora stands in the doorway. | EZRA It's been fucking group therapy so far... FLO Ja, hvad var der med den strejfer? EZRA Ich habe gesagt, es wird alles gut. ELEANORA Could you not see I was uncomfortable? JASPER No one sits out. EZRA That's the point. |
+| 31.1 | Wide, 32mm | Static | The group talks about her in German and Danish. Eleanora stands in the doorway. | EZRA It's been group therapy so far, no? FLO Ja, hvad var der med den strejfer? EZRA Ich habe gesagt, es wird alles gut. ELEANORA Could you not see I was uncomfortable? JASPER No one sits out. EZRA That's the point. |
 | 31.2 | Wide, 24mm | Static | Eleanora opens the door to get some fresh air, a dark silhouette against the green outside. | - |
 | 31.3 | Insert, 100mm macro | Slow track | She holds onto the metal ledge and notices some scratches in the metal; her fingers trail across them. | CALI You should close that? CAI I don't like it open either. |
 | 31.4 | Wide, 35mm | Static | Eleanora stands at the open balcony door at the end of the dark room, looking out. She glances back out as she is closing it over: the other building. | ELEANORA What's the other building? CALI It's like an outhouse. CAI It's where they store the batteries. ... They last for ages. CALI He told us so we wouldn't go in. ELEANORA So who would? CAI Exactly. No one. |
@@ -531,7 +538,7 @@ Ezra wakes; a long awkward pause. The talk turns to Eleanora's looks and escalat
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 36.1 | Two-shot | Handheld, tightening | Ezra wakes on the sofa, followed by Eleanora, Flo, Jasper and Jacqueline. A long awkward pause. The argument escalates. | ELEANORA So they just clap the whole time? EZRA Is there an issue with that? ... EZRA Lenny, you're pretty? What's it like? ... EZRA What else do you have to offer? ELEANORA Wow. Flo, are you fucking ready now? |
+| 36.1 | Two-shot | Handheld, tightening | Ezra wakes on the sofa, followed by Eleanora, Flo, Jasper and Jacqueline. A long awkward pause. The argument escalates. | ELEANORA So they just clap the whole time? EZRA Is there an issue with that? ... EZRA Lenny, you're pretty? What's it like? ... EZRA What else do you have to offer? ELEANORA It's not why we're here, right? Flo, are you ready yet? |
 | 36.2 | CU | Static | Jacqueline twists Flo's device. Everyone pauses. She presses just as they are about to escalate the argument. | TWIST. CLICK. CUT TO: |
 
 ### 37. EXT. FLO'S FANTASY - LAKE EDGE - DAY (p63-64)
@@ -616,9 +623,9 @@ Eleanora does the dishes while Jasper and Frans watch. Frans splashes her. Ezra 
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 43.1 | OTS, 35mm | Static | Eleanora starts doing the dishes. Jasper is lounging in the background with Frans; we see them over her shoulder. Frans throws more dishes in the sink; water splashes up onto Eleanora. | JASPER We can leave all that stuff for them at the end. FRANS It's not why we're here. ... Maybe it's why she's here. ELEANORA Both up here just to watch me clean, huh? FRANS I helped you there. |
+| 43.1 | MCU, 50mm | Static | Eleanora starts doing the dishes. Jasper is lounging in the background with Frans; we see them over her shoulder. Frans throws more dishes in the sink; water splashes up onto Eleanora. | FRANS You don't have to do that, by the way. ELEANORA It needs to be done. JASPER It's not why we're here. Can you stop? FRANS Maybe it's why she's here. ELEANORA Both up here just to watch me clean, huh? FRANS I helped you there. |
 | 43.2 | Two-shot, 50mm | Handheld, tightening | Frans walks off and Ezra enters. The argument escalates. | EZRA If I'm honest you come across like a bit of a fan now. I find it creepy. ELEANORA So I'm a creepy fan who doesn't listen. ... ELEANORA I think all you've ever been with is fans. Girls who lie in bed and hold your face and tell you you're gorgeous. And because I'm not, it freaks you out. |
-| 43.3 | CU | Static | Ezra, unrepentant. | FRANS Cause you're a little pet. EZRA I mean at best you were going to be a good fuck and that's about it. |
+| 43.3 | CU | Static | Ezra, unrepentant. | FRANS Cause you're a little pet. ELEANORA And you're a twat. |
 
 ### 44. EXT. RETREAT - NIGHT (INTERCUT GROUP) (p72-74)
 
@@ -650,7 +657,7 @@ Smoking with Eleanora, Jacqueline drops the act: this is her actual voice. She t
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 46.1 | CU | Static | Jacqueline smoking with Eleanora. She has a shift in tone and temperament. Eleanora inhales the cigarette deeper. | JACQUELINE Oh yeah. This is my actual voice. The other is what Jasper conjured up... ELEANORA I'm not a stray by the way. JACQUELINE That's not me. I knew they'd like that. |
+| 46.1 | CU | Static | Jacqueline smoking with Eleanora. She has a shift in tone and temperament. Eleanora inhales the cigarette deeper. | JACQUELINE Oh yeah. This is my actual voice. The other is what Jasper conjured up... ELEANORA I'm not a stray by the way. JACQUELINE That's not me. In these circles alone you'll develop a wicked tongue... It makes him laugh. So I do it. |
 | 46.2 | Wide corridor | Walk and talk | Ezra heavily laughing with Jasper in the background. INTERCUT: flashes of Jasper's fantasy. | JACQUELINE I don't need to see his fantasy to see what he wants. ... ELEANORA I grieved before she died. My mum. Cared for her so long... JACQUELINE I think I'm becoming a ghost and you're searching for one. ... I let you stay here, remember. |
 | 46.3 | CU, 85mm | Static | Ezra, laughing, wet hair over his eyes, hand at his mouth. | Laughter. |
 
@@ -662,7 +669,7 @@ Ezra and Jasper, very sure of themselves: as it's the last night, something spec
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 47.1 | Wide | Static | Ezra and Jasper stand very sure of themselves in front of the group. Eleanora's eyes search the room for reassurance; the women avoid her gaze, each wearing the same quiet dread. | EZRA As it's the last night. We thought let's do something special. If you could take a seat. Close your eyes. I will let whoever remains decide. |
+| 47.1 | Wide | Static | Ezra and Jasper stand very sure of themselves in front of the group. Eleanora's eyes search the room for reassurance; the women avoid her gaze, each wearing the same quiet dread. | EZRA As it's the last night. And we only have a few fantasies left. Let's do something special. If you could take a seat. Close your eyes. I will let whoever remains decide. |
 | 47.2 | ECU eyes | Static | Most close their eyes. Jacqueline looks to Eleanora with regret, then closes hers. Eleanora takes in a deep breath and closes her eyes slowly. | TWIST and CLICK from across the room; Eleanora follows. It echoes louder than before. |
 
 ### 48. EXT. FRANS'S FANTASY - FOREST - NIGHT (THE HUNT) (p79-80)
@@ -711,7 +718,7 @@ Bed time. Ezra lies far away from Eleanora. 'I think everyone should experience 
 
 ### 51. EXT. / INT. OUTHOUSE - THE OFFSET LAB - NIGHT (p82-83)
 
-(Treatment) Fully alienated, Eleanora makes a night-time trip to the outhouse. She discovers Eve: hooked to failing machinery, her device sparking red, damaged by prolonged 'infinity' use.
+Fully alienated, Eleanora makes a night-time trip to the outhouse. She discovers Eve: hooked to failing machinery, her device sparking red, damaged by prolonged 'infinity' use.
 
 *Look:* Green-lit clinical corridors. Device danger state: orange-red.
 
@@ -725,12 +732,11 @@ Bed time. Ezra lies far away from Eleanora. 'I think everyone should experience 
 | 51.6 | Top shot, 35mm | Slow push | An unknown woman lies surrounded by softly beeping machines, tubes and lines keeping her suspended between worlds. | Machines beeping softly. |
 | 51.7 | Insert, 100mm | Static | Eve's device, sparking red: damaged by prolonged 'infinity' use. | - |
 | 51.8 | MS, 50mm | Slow track | Eleanora, with calm focus, studies the web of equipment: tubes and lines keeping the woman suspended between worlds. | Softly beeping machines. |
-| 51.9 | Insert, 50mm | Static | Coco grabs the arm of Eleanora aggressively to stop her. | - |
-| 51.10 | CU, 85mm | Static | She pauses; a look of realisation washes over Coco's face. She releases Eleanora's arm apologetically. | - |
+| 51.9 | CU, 85mm | Static | Coco grabs Eleanora's arm to stop her, then pauses; a look of realisation washes over her face. She lets go apologetically. | - |
 
 ### 52. INT. HOUSE - STAIRS / LIVING ROOM - NIGHT (p83-91)
 
-(Treatment) Eleanora shuts down the equipment and hauls Eve into the house to confront the group. Charlie and Coco's culpability is exposed. Eve, glitching and in agony, begs to be killed: an echo of Eleanora's mother.
+Eleanora shuts down the equipment and hauls Eve into the house to confront the group. Charlie and Coco's culpability is exposed. Eve, glitching and in agony, begs to be killed: an echo of Eleanora's mother.
 
 *Look:* Horror register. The cold-open stairwell, now real.
 
@@ -751,7 +757,7 @@ Bed time. Ezra lies far away from Eleanora. 'I think everyone should experience 
 
 ### 53. INT. HOUSE - BALCONY - NIGHT (p92)
 
-(Treatment) Eve breaks free and jumps from the balcony, dying in the same spot as the year before.
+Eve breaks free and jumps from the balcony, dying in the same spot as the year before.
 
 *Look:* Matches the cold open's leap.
 
@@ -762,13 +768,13 @@ Bed time. Ezra lies far away from Eleanora. 'I think everyone should experience 
 
 ### 54. INT. LIVING ROOM - NIGHT (THE REQUEST) (p92-94)
 
-(Treatment) The group fractures into blame, panic and denial ('we thought she died'). Eleanora quietly asks to go back into the device 'one more time'.
+The group fractures into blame, panic and denial ('You thought she died?'). Eleanora quietly asks to go back into the device 'one more time'.
 
 *Look:* Static, quiet.
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 54.1 | Wide, 35mm | Static | The group scrambles to distance themselves, fracturing into blame, panic and denial. | 'We thought she died.' |
+| 54.1 | Wide, 35mm | Static | The group scrambles to distance themselves, fracturing into blame, panic and denial. | CHARLIE You thought she died? Was that going to be your reply? |
 | 54.2 | Wide, handheld | Handheld, pushing in | The group erupts. Ezra explodes in anger, shouting, pacing and blaming. Charlie joins in, yelling over everyone, the accusations flying in all directions. Voices overlap. Fingers point. No one agrees on what just happened or who is responsible. | Overlapping shouting. |
 | 54.3 | ECU | Static | Eleanora's quiet, unsettling request. | ELEANORA One more time. |
 
@@ -776,7 +782,7 @@ Bed time. Ezra lies far away from Eleanora. 'I think everyone should experience 
 
 ### 55. INT. DINING ROOM - NIGHT (THE RECKONING) (p94-95)
 
-(Treatment) One final shared session at the ruined feast table. One by one, Eleanora turns each device past its intended duration toward 'infinity': Frans first, a physical struggle she wins; then Charlie, turned by a weeping, complicit Coco; then the rest.
+One final shared session at the ruined feast table. One by one, Eleanora turns each device past its intended duration toward 'infinity': Frans first, a physical struggle she wins; then Charlie, turned by a weeping, complicit Coco; then the rest.
 
 *Look:* Centred and controlled again, but now Eleanora holds the dial. Device moves from green to orange-red.
 
@@ -790,7 +796,7 @@ Bed time. Ezra lies far away from Eleanora. 'I think everyone should experience 
 
 ### 56. INT. DINING ROOM - NIGHT (THE FIGHT) (p95-96)
 
-(Treatment) Ezra is the final and hardest confrontation: a full physical fight across the spoiled feast. Eleanora narrowly overpowers him.
+Ezra is the final and hardest confrontation: a full physical fight across the spoiled feast. Eleanora narrowly overpowers him.
 
 *Look:* Handheld, close, brutal.
 
@@ -833,15 +839,15 @@ A flicker of hesitation as her hand lifts toward her neck. FLASHBACK to her fant
 | 57.3 | CU, 85mm | Static | She gives her mum a huge hug. They grip each other tightly. | - |
 | 57.4 | Two-shot, 85mm | Static | INT. ELEANORA'S FANTASY - NIGHT. She leans in on her Mother, close, the two resting against each other. | ELEANORA No eres mi madre. (You are not my Mother.) |
 
-### 58. EXT. COUNTRY LANE - DAWN (p97)
+### 58. EXT. RETREAT - DAY / LATER: INT. LIVING ROOM - DAY (p97)
 
-(Treatment) At dawn Eleanora walks away from the estate, barefoot, alive, and entirely alone.
+Eleanora walks barefoot down the lane, away from the house, alive and entirely alone. Later, the group lie dusty and wired in, kept in the system.
 
 *Look:* Extreme wide, still, fog.
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 58.1 | Extreme wide | Locked-off | At dawn, Eleanora walks away from the estate, barefoot, alive, and entirely alone. | - |
+| 58.1 | Extreme wide | Locked-off | Eleanora walks barefoot down the lane away from the house, alive and entirely alone. | - |
 | 58.2 | Insert, low, 50mm | Tracking | Under her bare feet, the ground is damp with dew; each step soft but deliberate. | ELEANORA (V.O) Would your fantasy really be your fantasy if you could have it all the time? |
 | 58.3 | Insert, 85mm | Static | LATER: dust hangs in the light of the living room. | - |
 | 58.4 | Wide, 24mm | Slow track | The group lie in rows, wired in, feeding tubes and lines running from each of them: kept in the system, indefinitely. | The hum of the machines. |
