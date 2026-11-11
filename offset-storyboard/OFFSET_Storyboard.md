@@ -130,7 +130,7 @@ Eleanora's gaze falls on a magnificent feast with 8 black boxes as its centrepie
 |---|---|---|---|---|
 | 7.1 | High wide, 24mm | Slow push in | Eleanora is seated, her gaze falls upon a magnificent feast laid out in sumptuous splendour. | - |
 | 7.2 | Wide, 32mm | Slow track left | Gleaming platters overflow with golden joints of roast meat. A lavish smorgasbord of decadent delights and condensation-covered drinks. | - |
-| 7.3 | Wide, 24mm, centred | Slow dolly in | Towers of exquisite hors d'oeuvres plastered with caviar. 8 pristine black boxes are laid out in the middle of the decadent feast as a centrepiece. | - |
+| 7.3 | MS, 50mm | Slow dolly in | Towers of exquisite hors d'oeuvres plastered with caviar. 8 pristine black boxes are laid out in the middle of the decadent feast as a centrepiece. | - |
 | 7.4 | Top shot | Static | Charlie slaps his head right in the centre; Jasper winces. Coco wants to comfort him and does a slight shimmy shuffle; Charlie holds out his hand at his side to stop her in her tracks. | CHARLIE We came - We've come, together. That's seven. We're missing one. No one likes an odd number. Ezra is it? CALI Later. |
 | 7.5 | Insert, 100mm macro | Static | Coco passes Charlie one of the black boxes. He opens it carefully to reveal the device. | CHARLIE Let's get on, shall we. |
 | 7.6 | Insert | Static | Insert: the water. Everyone apart from Eleanora pauses in their actions and looks straight towards Charlie. | CHARLIE But you have water. The house is full of water. It's pristine, alpine, alkaline, so damn fine it will cure your bloodline. JASPER Sorry, wait. No actual food? CHARLIE Nada. Nichts. Fünf Tage, meine Schätze. |
@@ -574,7 +574,7 @@ Eleanora hears a rustle: Frans sits in the dark at the back of the dining room b
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 40.1 | Wide | Slow push | Eleanora hears a rustle and goes into the dining room. A figure sits at the back of the room, behind the rotting food: Frans. Just a little light hitting the side of his body makes him visible. She pauses and stares briefly at him. | The noise of him eating increases. |
+| 40.1 | Wide | Slow push | Eleanora hears a rustle and goes into the dining room. A figure sits at the back of the room, behind the rotting food: Frans. Just a little light hitting the side of his body makes him visible. She pauses and stares briefly at him. *(placeholder: image to come)* | The noise of him eating increases. |
 | 40.2 | MS, 50mm | Static | Frans sits behind the rotting food, eating in the dark. | The noise of him eating increases. |
 | 40.3 | Low wide, 24mm | Slow push | The rotting feast between them; Frans keeps eating, unbothered. | - |
 
@@ -787,7 +787,7 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 56.1 | Wide | Handheld | Ezra: a full physical fight across the spoiled feast. | - |
+| 56.1 | Wide | Handheld | Ezra: a full physical fight across the spoiled feast. *(placeholder: image to come)* | - |
 | 56.2 | Low, table level | Handheld | Ezra pushes Eleanora across the table and into the decaying food; plates and glasses scatter as they struggle across it. | Glass breaking. |
 | 56.3 | CU | Handheld | Eleanora narrowly overpowers him, completing the same act he once performed on someone else for entertainment. | CLICK. |
 | 56.4 | ECU | Push in | She twists his device even further, just before infinity. Eleanora moves around the table doing it to each person. | ELEANORA (V.O) My Mother knew what she meant to me. |
