@@ -800,7 +800,7 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | 56.4 | Wide, 35mm | Static | She swings around and hits his device. Ezra collapses forward across the table; Eleanora kneels among the plates, gasping, collecting air. | Heavy breathing. |
 | 56.5 | ECU | Push in | She twists his device even further, just before infinity. Eleanora moves around the table doing it to each person. | ELEANORA (V.O) My Mother knew what she meant to me. |
 | 56.6 | Top shot, 24mm | Slow crane up | Eleanora sits amid the ruined feast, the group slumped around the table in the system, one by one. | - |
-| 56.7 | MS | Static | INTERCUT: Eleanora has a hot shower and cleans off the rotten food. *(placeholder: image to come)* | Water running. |
+| 56.7 | MS | Static | INTERCUT: Eleanora has a hot shower and cleans off the rotten food. | Water running. |
 | 56.8 | Insert | Static | Coco checking the group's vitals as they are in the system. *(placeholder: image to come)* | Monitors beeping. |
 | 56.9 | Wide, 35mm | Static | INTERCUT: A morbidly obese Cali, in pain, hunched over the table. | ELEANORA (V.O) A year for a year. |
 | 56.10 | CU | Static | She stuffs cake into her mouth. Her mirror unchanged. | - |
