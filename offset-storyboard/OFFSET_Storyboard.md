@@ -81,9 +81,10 @@ The gate opens. The guests form a semicircle before the house. Charlie and Coco'
 | 3.5 | Low insert | Static | Rocks scrape and collect beneath the dragging bags. | Rocks scraping. |
 | 3.6 | Top shot | Static | From above, the guests form a rough semicircle, Eleanora lingering at the back. They are all poised. One of the taxis drives off; the other remains. | - |
 | 3.7 | MCU, 85mm | Static | Coco stands beside Charlie, writing notes; she whispers. A half smirk, half grimace forms on Charlie's face. Cai and Cali exchange a little smile with Eleanora. Jacqueline exchanges a look with Flo at Eleanora's expense. | - |
-| 3.8 | Extreme wide, through the leaves | Locked-off | Charlie leads forward into the house, followed by Coco with her tablet. Eleanora notices the backs of their necks: strange devices, slightly worn, a faded white with a green glow emitting. | - |
-| 3.9 | Wide, 35mm | Static | From overhead, the semicircle of guests flows slowly into the building, with Charlie at the front. | - |
-| 3.10 | Top shot, very high | Static | Eleanora pauses behind, holding back for a moment. She stands before the building, its perfectly symmetrical façade rising evenly on either side of her. As she follows inside, Coco directs each person to their room; Charlie stands at the top of the stairs. | - |
+| 3.8 | Extreme wide, through the leaves | Locked-off | Charlie leads the group forward towards the house, followed by Coco with her tablet. | - |
+| 3.9 | Insert, 100mm | Slow push | Eleanora notices the backs of their necks: strange devices, slightly worn, a faded white with a green glow emitting. | - |
+| 3.10 | Wide, 35mm | Static | From overhead, the semicircle of guests flows slowly into the building, with Charlie at the front. | - |
+| 3.11 | Top shot, very high | Static | Eleanora pauses behind, holding back for a moment. She stands before the building, its perfectly symmetrical façade rising evenly on either side of her. As she follows inside, Coco directs each person to their room; Charlie stands at the top of the stairs. | - |
 
 ### 4. INT. DINING ROOM - DAY (INTERCUT BEDROOM) (p5-7)
 
@@ -94,10 +95,11 @@ Close on Charlie addressing the group. He quotes Ungers over insert shots of the
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 4.1 | CU, 50mm | Locked-off | Close on Charlie, speaking, addressing the group. | CHARLIE 'Das ist ein Lebensraum. Ein Laborversuch. Eine Verkörperung der Idee von der Welt.' ('This is a living space, a laboratory test. A representation of the idea of the world.') |
-| 4.2 | Wide, 18mm, looking up | Slow tilt | Insert shot: building architecture. | CHARLIE (CONT'D) I can't take credit for it, nor shall I. So I use the words of the man who designed this place. Oswald. Mathias. Ungers. 'An idea of the world.' Who speaks like that nowadays? Such grandiose plans. |
-| 4.3 | Wide, 24mm | Static | Insert shot: building architecture. | CHARLIE (CONT'D) His aim was 'To see how far architecture can be abstract. A house without qualities. No ornaments, no details, no bottom nor top. Everything subtracted to the absolute core of abstraction.' End quote. Abstraction. That is what we are going to do here. Find the core of each of you. |
-| 4.4 | ECU, 100mm, centred | Locked-off | INT. BEDROOM - DAY. Little black cameras in every room, a bright green light emitting from them. | CHARLIE (V.O.) No locks. Nor keys. |
-| 4.5 | ECU, 100mm | Static | Watched. The group unpack and manoeuvre below. | CHARLIE (CONT'D) Privacy is not prerequisite. Make peace with being watched. |
+| 4.2 | Wide, 18mm, looking up | Slow tilt | Insert shot: building architecture. | CHARLIE (CONT'D) I can't take credit for it, nor shall I. So I use the words of the man who designed this place. Oswald. Mathias. Ungers. |
+| 4.3 | High wide, 24mm | Slow tilt down | Insert shot: building architecture. The library, seen from the gallery above. | CHARLIE (CONT'D) 'An idea of the world.' Who speaks like that nowadays? Such grandiose plans. |
+| 4.4 | Wide, 24mm | Static | Insert shot: building architecture. | CHARLIE (CONT'D) His aim was 'To see how far architecture can be abstract. A house without qualities. No ornaments, no details, no bottom nor top. Everything subtracted to the absolute core of abstraction.' End quote. Abstraction. That is what we are going to do here. Find the core of each of you. |
+| 4.5 | ECU, 100mm, centred | Locked-off | INT. BEDROOM - DAY. Little black cameras in every room, a bright green light emitting from them. | CHARLIE (V.O.) No locks. Nor keys. |
+| 4.6 | ECU, 100mm | Static | Watched. The group unpack and manoeuvre below. | CHARLIE (CONT'D) Privacy is not prerequisite. Make peace with being watched. |
 
 ### 5. INT. BEDROOMS - DAY (p6-7)
 
@@ -292,11 +294,12 @@ Headlights burst; Ezra's silhouette looms over her on the white wall. He feels f
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 18.1 | CU, 85mm | Static | Eleanora is having a cigarette in front of the house, wearing a jacket over her scrubs. She lights it. | The flick of a lighter. |
-| 18.2 | Wide, 50mm, her POV | Static | Suddenly, a huge bright light bursts at her from outside. | The noise of car tyres on rocks. |
-| 18.3 | Wide, 24mm | Static | The light hits the figure, creating a large silhouette against the building which looms over Eleanora, covering her in shadow. As the figure becomes clearer, we see Ezra marching forward with bag in hand. | - |
-| 18.4 | ECU, 100mm | Static | Ezra makes a talking symbol with his hand, shaking his head. The car drives off. He reaches out and grabs the top of her ears and feels her neck. | A strange clicking sound from his mouth. |
-| 18.5 | CU, 85mm | Static | They hug. Finally, some connection she knows. | - |
+| 18.1 | Extreme wide | Locked-off | EXT. RETREAT - NIGHT. The house in the dark, every window glowing; mist creeps across the lawn. | - |
+| 18.2 | CU, 85mm | Static | Eleanora is having a cigarette in front of the house, wearing a jacket over her scrubs. She lights it. | The flick of a lighter. |
+| 18.3 | Wide, 50mm, her POV | Static | Suddenly, a huge bright light bursts at her from outside. | The noise of car tyres on rocks. |
+| 18.4 | Wide, 24mm | Static | The light hits the figure, creating a large silhouette against the building which looms over Eleanora, covering her in shadow. As the figure becomes clearer, we see Ezra marching forward with bag in hand. | - |
+| 18.5 | ECU, 100mm | Static | Ezra makes a talking symbol with his hand, shaking his head. The car drives off. He reaches out and grabs the top of her ears and feels her neck. | A strange clicking sound from his mouth. |
+| 18.6 | CU, 85mm | Static | They hug. Finally, some connection she knows. | - |
 
 ### 19. INT. ENTRANCE HALL - NIGHT (p34)
 
@@ -635,8 +638,9 @@ Eleanora smokes outside, wiping away a tear; behind her the outhouse door is lit
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 44.1 | Wide | Static | Eleanora is outside having a smoke and wiping away a tear. In the background we can see the outhouse door lit with green. | - |
-| 44.2 | Wide | Static | INTERCUT WITH THE GROUP. | FRANS I mean she was so rude to him, you have no idea... EZRA Well, yes. Brain to jelly and all that. JASPER We've all lost family. FRANS Fun sponge. NOISE of a TWIST and CLICK echoes. |
+| 44.1 | Wide | Locked-off | The house from across the water as night falls, its windows lit. | - |
+| 44.2 | Wide | Static | Eleanora is outside having a smoke and wiping away a tear. In the background we can see the outhouse door lit with green. | - |
+| 44.3 | Wide | Static | INTERCUT WITH THE GROUP. | FRANS I mean she was so rude to him, you have no idea... EZRA Well, yes. Brain to jelly and all that. JASPER We've all lost family. FRANS Fun sponge. NOISE of a TWIST and CLICK echoes. |
 
 ### 45. INT. JACQUELINE'S FANTASY - NIGHT (p74)
 
@@ -704,7 +708,8 @@ The last dinner. The feast is fully rotten; the guys toast the hunt with glasses
 |---|---|---|---|---|
 | 49.1 | Wide, centred | Locked-off | Eleanora sits in shock, her hands trembling. The feast is now fully rotten: meat sagging from the bone, bread grey with mould. | - |
 | 49.2 | Insert | Static | Candles burn low, their flames bending toward the rotten feast. The guys keep reliving the hunt; Frans is particularly smug. | Laughing, toasting with glasses of water. |
-| 49.3 | Wide | Slow push | INT. ELEANORA'S FANTASY - MOTHER'S FLAT - NIGHT. She presses her head against her Mother's at the dinner table, her eyes closed at first, then she opens them. | - |
+| 49.3 | Wide | Slow push | INT. ELEANORA'S FANTASY - MOTHER'S FLAT - NIGHT. She presses her head against her Mother's at the dinner table, her eyes closed. | - |
+| 49.4 | ECU, 100mm | Static | Then she opens them. | - |
 
 ### 50. INT. BEDROOM - NIGHT (BED TIME) (p81-82)
 
@@ -745,15 +750,16 @@ Eleanora shuts down the equipment and hauls Eve into the house to confront the g
 | 52.1 | Wide | Static | Eleanora shuts down the equipment and hauls Eve into the house to confront the group. | - |
 | 52.2 | Low angle, 24mm | Handheld | INT. HALLWAY - NIGHT. Eleanora, out of breath but trying to remain silent, holds Eve upright and props her against the side of the staircase. | Laboured breathing. |
 | 52.3 | Ground level, 35mm | Static | Eve slumps at the foot of the staircase. Eleanora stares at her, then looks up at the impending flight of stairs. | - |
-| 52.4 | CU, through the banisters | Static | Through the banisters: Eve at the bottom of the stairs. | Laboured breathing. |
-| 52.5 | Wide | Static | INTERCUT BETWEEN BEDROOMS: Eleanora enters all the bedrooms and whispers to everyone. | Whispers. |
-| 52.6 | Wide | Handheld | FLASHBACK FROM THE YEAR BEFORE: the same group in their pristine clothes, devices on, laughing and joking. | COCO We took turns like you have. |
-| 52.7 | MS | Floating | Eve's fantasy, a year ago: so wholesome, full of love. The system was younger. | COCO Hers was so wholesome, full of love. I admired her optimism. |
-| 52.8 | ECU, eyes | Static | The group go quiet as we slowly see Eve rising from her chair, her device glitching in and out. Her eyes try to find focus like a camera, opening and closing in pain from the lights. | EZRA My god. |
-| 52.9 | ECU eyes | Static | Eve, glitching and in agony. Charlie and Coco's culpability is exposed. | - |
-| 52.10 | Wide, 35mm | Static | FLASHBACK - MOTHER'S FLAT - DAY. Her Mother, frail in her wheelchair at the end of the hallway. Eleanora has a strong emotional reaction. | MOTHER SCREAMS IN PAIN. MOTHER Kill me! |
-| 52.11 | ECU, 85mm | Static | Eleanora opens her eyes. Eve slowly walks towards her, struggling to find balance, and grabs onto her; Eleanora, tears in her eyes, looks more concerned for Eve than for herself. | - |
-| 52.12 | CU | Handheld | Eve begs to be killed: an explicit echo of Eleanora's mother. | - |
+| 52.4 | POV, low, 24mm | Static | Her POV: the flight of stairs rising to the dark gallery above. | - |
+| 52.5 | CU, through the banisters | Static | Through the banisters: Eve at the bottom of the stairs. | Laboured breathing. |
+| 52.6 | Wide | Static | INTERCUT BETWEEN BEDROOMS: Eleanora enters all the bedrooms and whispers to everyone. | Whispers. |
+| 52.7 | Wide | Handheld | FLASHBACK FROM THE YEAR BEFORE: the same group in their pristine clothes, devices on, laughing and joking. | COCO We took turns like you have. |
+| 52.8 | MS | Floating | Eve's fantasy, a year ago: so wholesome, full of love. The system was younger. | COCO Hers was so wholesome, full of love. I admired her optimism. |
+| 52.9 | ECU, eyes | Static | The group go quiet as we slowly see Eve rising from her chair, her device glitching in and out. Her eyes try to find focus like a camera, opening and closing in pain from the lights. | EZRA My god. |
+| 52.10 | ECU eyes | Static | Eve, glitching and in agony. Charlie and Coco's culpability is exposed. | - |
+| 52.11 | Wide, 35mm | Static | FLASHBACK - MOTHER'S FLAT - DAY. Her Mother, frail in her wheelchair at the end of the hallway. Eleanora has a strong emotional reaction. | MOTHER SCREAMS IN PAIN. MOTHER Kill me! |
+| 52.12 | ECU, 85mm | Static | Eleanora opens her eyes. Eve slowly walks towards her, struggling to find balance, and grabs onto her; Eleanora, tears in her eyes, looks more concerned for Eve than for herself. | - |
+| 52.13 | CU | Handheld | Eve begs to be killed: an explicit echo of Eleanora's mother. | - |
 
 ### 53. INT. HOUSE - BALCONY - NIGHT (p92)
 
