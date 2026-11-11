@@ -671,17 +671,18 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 48.1 | Low wide | Handheld | EXT. FRANS'S FANTASY - FOREST - NIGHT. Eleanora wakes frantically on the forest floor, gasping for air and coughing across the dirt. | TWIST and CLICK echo, louder than before. |
-| 48.2 | Wide | Whip pan | A blood-soaked woman sprints past her; torchlight cuts through the dark. | MIX: ELEANORA'S MOTHER / JACQUELINE / EVE (distorted) RUN! |
-| 48.3 | Wide, 35mm | Tracking | Eleanora hears rustles through the trees and sees some of the group running between them. | Rustling, running feet. |
-| 48.4 | Wide | Handheld chase | Eleanora backtracks and sees silhouetted figures, one attacking the other from above. A figure stands up and darts to their right, inhumanely fast. | - |
-| 48.5 | Wide, from behind | Handheld, running | Eleanora sprints, hitting branches, cutting her face. | Branches snapping. |
-| 48.6 | Wide | Static | Another figure flees between the trees. | We hear other voices SCREAMING IN PAIN. |
-| 48.7 | Ground level, 50mm | Static | In the distance another person is hacked down, left lying in the undergrowth. | We hear other voices SCREAMING IN PAIN. |
-| 48.8 | MS | Handheld | Jacqueline is tackled by a figure from the dark. Frans's hunting party looks up into the dark. | - |
-| 48.9 | Wide | Handheld | Eleanora reaches the house and tries the locked double doors. She moves around the house; the other doors are locked as well. | We can hear breathing surrounding her. |
-| 48.10 | Tight two-shot, 85mm | Handheld | She doubles back as she turns the corner and is grabbed; she tries to fight back. The figure raises her up and chokes her against the wall. | Gasping for air. |
-| 48.11 | Insert, macro | Static | The hand tightens around her throat. | - |
-| 48.12 | CU | Handheld | Feet kicking for grip, she desperately looks up to the window above: the woman she danced through the house with stares down at her. | Gasping for air. BLURRED CUT TO: |
+| 48.2 | Insert, ground level | Static | Her hand claws at the dirt floor of the forest as she drags in air. | Coughing. |
+| 48.3 | Wide | Whip pan | A blood-soaked woman sprints past her; torchlight cuts through the dark. | MIX: ELEANORA'S MOTHER / JACQUELINE / EVE (distorted) RUN! |
+| 48.4 | Wide, 35mm | Tracking | Eleanora hears rustles through the trees and sees some of the group running between them. | Rustling, running feet. |
+| 48.5 | Wide | Handheld chase | Eleanora backtracks and sees silhouetted figures, one attacking the other from above. A figure stands up and darts to their right, inhumanely fast. | - |
+| 48.6 | Wide, from behind | Handheld, running | Eleanora sprints, hitting branches, cutting her face. | Branches snapping. |
+| 48.7 | Wide | Static | Another figure flees between the trees. | We hear other voices SCREAMING IN PAIN. |
+| 48.8 | Ground level, 50mm | Static | In the distance another person is hacked down, left lying in the undergrowth. | We hear other voices SCREAMING IN PAIN. |
+| 48.9 | MS | Handheld | Jacqueline is tackled by a figure from the dark. Frans's hunting party looks up into the dark. | - |
+| 48.10 | Wide | Handheld | Eleanora reaches the house and tries the locked double doors. She moves around the house; the other doors are locked as well. | We can hear breathing surrounding her. |
+| 48.11 | Tight two-shot, 85mm | Handheld | She doubles back as she turns the corner and is grabbed; she tries to fight back. The figure raises her up and chokes her against the wall. | Gasping for air. |
+| 48.12 | Insert, macro | Static | The hand tightens around her throat. | - |
+| 48.13 | CU | Handheld | Feet kicking for grip, she desperately looks up to the window above: the woman she danced through the house with stares down at her. | Gasping for air. BLURRED CUT TO: |
 
 ### 49. INT. DINING ROOM - NIGHT (LAST DINNER) (p80-81)
 
