@@ -196,7 +196,8 @@ Cali twists once, mouths 'I love you' to Cai and presses; she passes out. A row 
 | 11.6 | MS, 50mm | Static | She presses the button. Instantly, her device emits a green glow in the inner circle. Immediately, Cali passes out backwards onto the sofa in an eerie way. All eyes on her. | A click. Even heavier breathing from the group. |
 | 11.7 | Wide | Static | They look to each other for support. A row of twists is heard, then a row of clicks. | WHOLE GROUP TOGETHER One. |
 | 11.8 | MCU, 50mm | Static | One by one they all follow suit, passing out in a similar manner in different directions. | A row of clicks. |
-| 11.9 | ECU eyes, 100mm | Static | Eleanora surveys the room: these characters, so lively, now in complete silence. She mimes passing out, flicking her head back in a strange manner. She twists her device. Her hand shakes. Tentatively she presses. Her eyes roll back. | A loud click. CUT TO BLACK. |
+| 11.9 | CU, 50mm | Static | As each goes under, eyes roll back and mouths fall open; the device takes them into OFFSET. | - |
+| 11.10 | ECU eyes, 100mm | Static | Eleanora surveys the room: these characters, so lively, now in complete silence. She mimes passing out, flicking her head back in a strange manner. She twists her device. Her hand shakes. Tentatively she presses. Her eyes roll back. | A loud click. CUT TO BLACK. |
 
 ## Act IIa: Immersion and Erosion
 
