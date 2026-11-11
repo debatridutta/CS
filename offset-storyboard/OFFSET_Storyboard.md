@@ -826,7 +826,8 @@ A flicker of hesitation as her hand lifts toward her neck. FLASHBACK to her fant
 |---|---|---|---|---|
 | 57.1 | Two-shot | Static | FLASHBACK: Eleanora with her Mother in her earlier fantasy, remembered, not revisited. | - |
 | 57.2 | Insert, 50mm | Static | FLASHBACK - INT. MOTHER'S FLAT. Eleanora holds the pillow above her mum's head and presses down a little. Then she releases it to the floor. | - |
-| 57.3 | Two-shot, 85mm | Static | INT. ELEANORA'S FANTASY - NIGHT. She leans in on her Mother, close, the two resting against each other. | ELEANORA No eres mi madre. (You are not my Mother.) |
+| 57.3 | CU, 85mm | Static | She gives her mum a huge hug. They grip each other tightly. | - |
+| 57.4 | Two-shot, 85mm | Static | INT. ELEANORA'S FANTASY - NIGHT. She leans in on her Mother, close, the two resting against each other. | ELEANORA No eres mi madre. (You are not my Mother.) |
 
 ### 58. EXT. COUNTRY LANE - DAWN (p97)
 
