@@ -653,6 +653,7 @@ Smoking with Eleanora, Jacqueline drops the act: this is her actual voice. She t
 |---|---|---|---|---|
 | 46.1 | CU | Static | Jacqueline smoking with Eleanora. She has a shift in tone and temperament. Eleanora inhales the cigarette deeper. | JACQUELINE Oh yeah. This is my actual voice. The other is what Jasper conjured up... ELEANORA I'm not a stray by the way. JACQUELINE That's not me. I knew they'd like that. |
 | 46.2 | Wide corridor | Walk and talk | Ezra heavily laughing with Jasper in the background. INTERCUT: flashes of Jasper's fantasy. | JACQUELINE I don't need to see his fantasy to see what he wants. ... ELEANORA I grieved before she died. My mum. Cared for her so long... JACQUELINE I think I'm becoming a ghost and you're searching for one. ... I let you stay here, remember. |
+| 46.3 | CU, 85mm | Static | Ezra, laughing, wet hair over his eyes, hand at his mouth. | Laughter. |
 
 ### 47. INT. LIVING ROOM - NIGHT (THE LAST NIGHT) (p78-79)
 
