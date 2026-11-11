@@ -542,6 +542,7 @@ Flo stands behind a massive black pane of glass at the edge of the lake. She wip
 |---|---|---|---|---|
 | 37.1 | Extreme wide | Locked-off | Flo stands behind a massive black pane of glass at the edge of the lake, palms pressed flat. Marks appear across the surface: endless lines, smudges, imperfections. | - |
 | 37.2 | CU hands | Static | She wipes one clean; another instantly appears. Another. Her fingers are red at the knuckles, tiny streaks of soap and water trailing down her hands. A flicker of irritation, then a slow, satisfied smile; she moves faster, almost dancing with the repetition. | Flo exhales, a soft, contented sigh. |
+| 37.3 | MCU, through the glass | Static | The marks multiply; her hands press against the glass from the other side, silhouetted in the warm light. | - |
 
 ## Act IIb: The Hunt and the Outhouse
 
