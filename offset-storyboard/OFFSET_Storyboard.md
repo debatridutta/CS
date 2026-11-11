@@ -768,7 +768,7 @@ Bed time. Ezra lies far away from Eleanora. 'I think everyone should experience 
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 54.1 | Two-shot | Static | The group scrambles to distance themselves, fracturing into blame, panic and denial. | 'We thought she died.' |
+| 54.1 | Wide, 35mm | Static | The group scrambles to distance themselves, fracturing into blame, panic and denial. | 'We thought she died.' |
 | 54.2 | Wide, handheld | Handheld, pushing in | The group erupts. Ezra explodes in anger, shouting, pacing and blaming. Charlie joins in, yelling over everyone, the accusations flying in all directions. Voices overlap. Fingers point. No one agrees on what just happened or who is responsible. | Overlapping shouting. |
 | 54.3 | ECU | Static | Eleanora's quiet, unsettling request. | ELEANORA One more time. |
 
