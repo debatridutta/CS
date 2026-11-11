@@ -810,7 +810,7 @@ Ezra is the final and hardest confrontation: a full physical fight across the sp
 |---|---|---|---|---|
 | 56.1 | Wide, 28mm | Handheld | Ezra snaps and lunges. He climbs onto the table and crawls across it like a maniac as the others pull back. | Glasses topple. |
 | 56.2 | Insert, 85mm | Handheld | Eleanora meets him head on. He seizes her wrist; the table shakes as they each try to gain the upper hand. | - |
-| 56.3 | MCU, 50mm | Handheld | Ezra, food and blood smeared across his face, grins like a maniac as he comes at her again. | - |
+| 56.3 | MCU, 50mm | Handheld | Ezra, blood smeared down his neck and shirt, comes at her again. | - |
 | 56.4 | Low, table level | Handheld | Ezra pushes Eleanora across the table and into the decaying food; plates and glasses scatter as they struggle across it. | Glass breaking. |
 | 56.5 | Top shot, 35mm | Handheld | They find themselves at the end of the table. Ezra pins her down, his hand clamped over her mouth; her eyes wide. | Muffled breathing. |
 | 56.6 | Two-shot, silhouette | Handheld | Ezra is choking her. Eleanora scratches his face, making him wince; he tightens his grip just before she is about to pass out. | CLICK. |
