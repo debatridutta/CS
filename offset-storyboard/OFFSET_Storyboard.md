@@ -811,9 +811,10 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | 56.15 | MS | Static | Jacqueline cries against a bed as a baby cries on it. | ELEANORA (V.O) So they will stay in there. Like she did. |
 | 56.16 | MCU, 50mm | Static | Jacqueline slumped over the edge of the bath, spent, in the red light. | - |
 | 56.17 | Insert | Static | Flo's fingers bleed, fumbling as she tries to conceal the marks on the glass. | ELEANORA (V.O) What is desire if it's fulfilled? |
-| 56.18 | Top shot | Static | Cai lies on the grass, overdosing, consumed by the drugs. *(placeholder: image to come)* | ELEANORA (V.O) What is thirst when it's quenched? |
-| 56.19 | Wide | Handheld | Charlie gives tours in agony, attempting to bask in glory, but his trembling legs and blistered feet barely hold him up. | ELEANORA (V.O) It's nothing. Nothing comes from nothing. |
-| 56.20 | CU | Static | Ezra's make-up streaks from tears as he and the fans are in agony, but they continue clapping. | ELEANORA (V.O) And after all the pleasure and gorging and idolising. The question still stands. |
+| 56.18 | Top shot, 35mm | Static | Cai lies on the grass, overdosing, consumed by the drugs: sunk into the earth, arms spread, the ground closing over him. | ELEANORA (V.O) What is thirst when it's quenched? |
+| 56.19 | High angle, 50mm | Slow push | His eyes close; the undergrowth swallows him. | - |
+| 56.20 | Wide | Handheld | Charlie gives tours in agony, attempting to bask in glory, but his trembling legs and blistered feet barely hold him up. | ELEANORA (V.O) It's nothing. Nothing comes from nothing. |
+| 56.21 | CU | Static | Ezra's make-up streaks from tears as he and the fans are in agony, but they continue clapping. | ELEANORA (V.O) And after all the pleasure and gorging and idolising. The question still stands. |
 
 ### 57. INT. ELEANORA'S FANTASY - MOTHER - (FINAL) (p97)
 
