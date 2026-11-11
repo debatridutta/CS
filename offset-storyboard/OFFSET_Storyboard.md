@@ -21,13 +21,15 @@ Interactive version with all images and a play-through animatic: https://claude.
 - Red: the dancing, the sex scenes, and the final fantasies turning to nightmares (not Eleanora's).
 - Flashbacks: washed white.
 
-## Device (from DEVICE DESIGN.pdf)
+## Device: Halo (device design round 3, direction A)
 
-- About 1 inch across, raised about 0.4 from the skin; circular, white, smooth, slightly convex like a magnifying glass.
-- Twist the dial once per hour, then push the middle to turn on.
-- Outer ring green when on; inner ring green when connected.
-- The longer in the fantasy, the more it glows toward red: bright green, then bright yellow, then bright red.
-- A neural implant at the base of the skull; a surgical spike reaches the cortex and rewrites signals.
+- A low white dome worn at the nape: Ø 1.5 in / 38 mm, rising 4.5 mm from the skin.
+- Matte warm white body. A very subtle twist bezel: a 1 mm lip with 48 fine grip ridges and a small engraved infinity mark at 12 o'clock.
+- Twist the bezel to set the length, then push the gloss white centre button.
+- Inner ring (by the button): always green while connected to the wearer.
+- Outer ring (near the edge): neon green #39FF14 when started, yellow #FFE600 deep in, full red #FF1A1A at infinite.
+- States: Off (nothing lit), Connected (inner ring only), Started, Deep in, Infinite.
+- A 40 mm brushed-titanium spike, Ø 1.8 mm, runs from the centre of the underside into the spinal cord, with a faint green point at the tip.
 
 ## Act I: Arrival
 
