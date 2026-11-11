@@ -241,8 +241,8 @@ Jacqueline lies in a bath of dark, oil-like water in yellow syrup light, the gro
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 14.1 | CU, 50mm | Static | Eleanora wakes up on the floor below the bookcase. She feels the back of her neck immediately: there is no device. A warm glow comes from downstairs; figures standing, watching, beckon her down. | - |
-| 14.2 | Ground level, 50mm | Static | On the floor below the bookcase, she comes to, eyes opening. | - |
+| 14.1 | Ground level, 50mm | Static | Eleanora comes to on the floor below the bookcase, eyes opening. | - |
+| 14.2 | CU, 50mm | Static | She feels the back of her neck immediately: there is no device. A warm glow comes from downstairs; figures standing, watching, beckon her down. | - |
 | 14.3 | MS, 50mm | Slow pan | The bathtub is filled with dark, oil-like water, opaque and still; the yellow syrup light reflects off it. Jacqueline lies in the bath. The group stands nearby, observing in silence. As we pan we see her body is pregnant, her hand resting on the rounded belly. | - |
 | 14.4 | CU belly | Static | Her face shows a mix of uncertainty and quiet happiness. Eleanora smiles: a softer side to Jacqueline. | - |
 | 14.5 | Insert macro | Static | Her other hand's fingers dip into the dark water and let it drip. Each drip comes slower and slower. | CUT TO: |
@@ -691,25 +691,25 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 
 ### 49. INT. DINING ROOM - NIGHT (LAST DINNER) (p80-81)
 
-(Miro board) The last dinner: the feast is fully decayed.
+The last dinner. The feast is fully rotten; the guys toast the hunt with glasses of water while Eleanora sits in shock.
 
 *Look:* Locked-off, centred.
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 49.1 | Wide, centred | Locked-off | (Miro board) The last dinner: the feast fully decayed. | - |
+| 49.1 | Wide, centred | Locked-off | Eleanora sits in shock, her hands trembling. The feast is now fully rotten: meat sagging from the bone, bread grey with mould. | - |
 | 49.2 | Insert | Static | Candles burn low, their flames bending toward the rotten feast. The guys keep reliving the hunt; Frans is particularly smug. | Laughing, toasting with glasses of water. |
 | 49.3 | Wide | Slow push | INT. ELEANORA'S FANTASY - MOTHER'S FLAT - NIGHT. She presses her head against her Mother's at the dinner table, her eyes closed at first, then she opens them. | - |
 
 ### 50. INT. BEDROOM - NIGHT (BED TIME) (p81-82)
 
-(Miro board) Bed time. Ezra sleeps; Eleanora does not.
+Bed time. Ezra lies far away from Eleanora. 'I think everyone should experience everything.'
 
 *Look:* Static two-shot.
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 50.1 | Two-shot | Static | (Miro board) Ezra asleep; Eleanora awake. | - |
+| 50.1 | Two-shot | Static | Ezra lies far away from Eleanora. She stares through the open doorway. | EZRA I think everyone should experience everything. |
 
 ### 51. EXT. / INT. OUTHOUSE - THE OFFSET LAB - NIGHT (p82-83)
 
@@ -850,5 +850,12 @@ A flicker of hesitation as her hand lifts toward her neck. FLASHBACK to her fant
 | 58.4 | Wide, 24mm | Slow track | The group lie in rows, wired in, feeding tubes and lines running from each of them: kept in the system, indefinitely. | The hum of the machines. |
 | 58.5 | MS | Slow track | LATER: INT. LIVING ROOM - DAY. The group are all slightly dusty, connected to devices, feeding tubes, heart monitors and IVs. | ELEANORA (V.O) Or should it always be just out of reach. Aimed for but never grasped. |
 | 58.6 | Insert, 85mm | Static | Heart monitors tick over beside each of them, keeping the group suspended in the system. | The steady beep of the monitors. |
-| 58.7 | Aerial | Drone rising | (Miro board) The forest closes over the estate. | END. |
+| 58.7 | Aerial | Drone rising | The forest closes over the estate. | ELEANORA (V.O) Forever. Para siempre. FADE TO BLACK. |
 
+---
+
+> *Would your fantasy really be your fantasy if you could have it all the time? Or should it always be just out of reach. Aimed for but never grasped.*
+>
+> *Not to run or to fly. But to walk, with my voice. Forever. Para siempre.*
+>
+> ELEANORA (V.O.), *Offset*, p97
