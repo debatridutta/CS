@@ -788,7 +788,8 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | 55.2 | ECU | Static | Eleanora turns a device past its intended duration, toward 'infinity'. | TWIST. TWIST. TWIST. |
 | 55.3 | Insert, 100mm | Static | Frans slowly leans forward to see if she is in the system. He moves her hair off her neck and catches a glance of the device with just one green circle. | - |
 | 55.4 | CU | Handheld | Frans first: a physical struggle she wins. | - |
-| 55.5 | Insert | Static | Then Charlie, turned by a weeping, complicit Coco; then the rest of the group in sequence. | - |
+| 55.5 | MS, centred | Static | Charlie is disgusted and fills with rage; he moves towards Eleanora to attack her and shouts at her. Coco comes to comfort him. | CHARLIE (shouting, unheard) |
+| 55.6 | Insert | Static | Then Charlie, turned by a weeping, complicit Coco; then the rest of the group in sequence. | - |
 
 ### 56. INT. DINING ROOM - NIGHT (THE FIGHT) (p95-96)
 
