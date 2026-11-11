@@ -342,7 +342,7 @@ The kettle clicks off. Ezra, his device already fitted ('Flo helped'), eats grap
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 22.1 | Insert | Static | The kettle clicks off; steam curls from the spout. Flo pours boiling water into a green, see-through mug. | FLO You want your water hot. It makes you feel like you're having a cup of tea. ELEANORA Yeah. Hot is fine. FLO No 'thanks'? ELEANORA Thank you. |
+| 22.1 | Insert, 85mm | Static | The kettle clicks off; steam curls from the spout. Flo pours boiling water into a green, see-through mug. | FLO You want your water hot. It makes you feel like you're having a cup of tea. ELEANORA Yeah. Hot is fine. FLO No 'thanks'? ELEANORA Thank you. |
 | 22.2 | CU, 85mm | Static | Jacqueline walks decisively towards Ezra, then turns to Eleanora alone and mouths the word. Ezra shakes his head. | JACQUELINE And you brought a 'friend.' (mouths) Stray. EZRA And thank god. |
 | 22.3 | MS | Static | Ezra now has the device on his neck. He walks towards Eleanora. | ELEANORA How did you do that? EZRA They left me instructions. And Flo helped. ... (Announcing) This is going to help you know? ELEANORA I know. I'm grateful. EZRA Glücklich? ELEANORA Glücklich. EZRA You ready? |
 
