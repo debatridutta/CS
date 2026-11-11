@@ -591,7 +591,8 @@ Ezra is asleep. Through blurred vision a figure darts down the corridor; ivy cra
 | 41.1 | Wide corridor | Steadicam | Eleanora sets down two glasses of water; Ezra is already asleep. She slips into bed. Through blurred vision, a figure darts down the corridor. Startled, she turns to Ezra: ivy crawls down his back, from the top of his neck to the base of his spine. | - |
 | 41.2 | Insert, 50mm | Slow tilt down | The ivy crawls on, from the top of his neck down to the base of his spine. | - |
 | 41.3 | MS | Mirrored movement | Eleanora rises and follows the unknown woman. They move in sync, mirroring every step, neither catching the other, both trying to escape the property. | - |
-| 41.4 | Wide | Slow drift | When they finally meet, they are dressed identically; even their faces echo each other. They push their bodies together, relieved, and slow dance, first slowly, then faster, drifting through the property, bringing a moment of peace to every empty room. | - |
+| 41.4 | Wide | Slow drift | When they finally meet, they are dressed identically; even their faces echo each other. They push their bodies together, relieved. | - |
+| 41.5 | Wide, 35mm | Slow drift | They slow dance, first slowly, then faster, drifting through the property, bringing a moment of peace to every empty room. | - |
 
 ### 42. INT. BEDROOM - MORNING (p65)
 
