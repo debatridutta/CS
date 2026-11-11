@@ -677,7 +677,7 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | 48.5 | Wide | Handheld chase | Eleanora backtracks and sees silhouetted figures, one attacking the other from above. A figure stands up and darts to their right, inhumanely fast. | - |
 | 48.6 | Wide, from behind | Handheld, running | Eleanora sprints, hitting branches, cutting her face. | Branches snapping. |
 | 48.7 | Wide | Static | Another figure flees between the trees. | We hear other voices SCREAMING IN PAIN. |
-| 48.8 | Ground level, 50mm | Static | In the distance another person is hacked down, left lying in the undergrowth. | We hear other voices SCREAMING IN PAIN. |
+| 48.8 | Extreme wide | Static | A lone figure stands in the light between the trees. In the distance another person is hacked down. | We hear other voices SCREAMING IN PAIN. |
 | 48.9 | MS | Handheld | Jacqueline is tackled by a figure from the dark. Frans's hunting party looks up into the dark. | - |
 | 48.10 | Wide | Handheld | Eleanora reaches the house and tries the locked double doors. She moves around the house; the other doors are locked as well. | We can hear breathing surrounding her. |
 | 48.11 | Tight two-shot, 85mm | Handheld | She doubles back as she turns the corner and is grabbed; she tries to fight back. The figure raises her up and chokes her against the wall. | Gasping for air. |
