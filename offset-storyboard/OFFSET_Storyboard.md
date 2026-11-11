@@ -542,7 +542,7 @@ Ezra wakes; a long awkward pause. The talk turns to Eleanora's looks and escalat
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 36.1 | Two-shot | Handheld, tightening | Ezra wakes on the sofa, followed by Eleanora, Flo, Jasper and Jacqueline. A long awkward pause. The argument escalates. | ELEANORA So they just clap the whole time? EZRA Is there an issue with that? ... EZRA Lenny, you're pretty? What's it like? ... EZRA What else do you have to offer? ELEANORA It's not why we're here, right? Flo, are you ready yet? |
-| 36.2 | CU | Static | Jacqueline twists Flo's device. Everyone pauses. She presses just as they are about to escalate the argument. | TWIST. CLICK. CUT TO: |
+| 36.2 | CU, 85mm | Static | Jacqueline twists Flo's device. Everyone pauses. She presses just as they are about to escalate the argument. | TWIST. CLICK. CUT TO: |
 
 ### 37. EXT. FLO'S FANTASY - LAKE EDGE - DAY (p63-64)
 
