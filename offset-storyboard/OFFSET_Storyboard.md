@@ -138,7 +138,7 @@ Eleanora's gaze falls on a magnificent feast with 8 black boxes as its centrepie
 | 7.1 | High wide, 24mm | Slow push in | Eleanora is seated, her gaze falls upon a magnificent feast laid out in sumptuous splendour. | - |
 | 7.2 | Wide, 32mm | Slow track left | Gleaming platters overflow with golden joints of roast meat. A lavish smorgasbord of decadent delights and condensation-covered drinks. | - |
 | 7.3 | MS, 50mm | Slow dolly in | Towers of exquisite hors d'oeuvres plastered with caviar. 8 pristine black boxes are laid out in the middle of the decadent feast as a centrepiece. | - |
-| 7.4 | Top shot | Static | Charlie slaps his head right in the centre; Jasper winces. | CHARLIE We came - We've come, together. That's seven. We're missing one. No one likes an odd number. Ezra is it? CALI Later. |
+| 7.4 | CU, 50mm | Static | Charlie slaps his head right in the centre; Jasper winces. | CHARLIE We came - We've come, together. That's seven. We're missing one. No one likes an odd number. Ezra is it? CALI Later. |
 | 7.5 | Insert, 50mm | Static | Coco wants to comfort him and does a slight shimmy shuffle; Charlie holds out his hand at his side to stop her in her tracks. | - |
 | 7.6 | Insert, 100mm macro | Static | Coco passes Charlie one of the black boxes. He opens it carefully to reveal the device. | CHARLIE Let's get on, shall we. |
 | 7.7 | Insert | Static | Insert: the water. Everyone apart from Eleanora pauses in their actions and looks straight towards Charlie. | CHARLIE But you have water. The house is full of water. It's pristine, alpine, alkaline, so damn fine it will cure your bloodline. JASPER Sorry, wait. No actual food? CHARLIE Nada. Nichts. Fünf Tage, meine Schätze. |
