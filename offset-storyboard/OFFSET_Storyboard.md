@@ -135,8 +135,9 @@ Eleanora's gaze falls on a magnificent feast with 8 black boxes as its centrepie
 | 7.5 | Insert, 50mm | Static | Coco wants to comfort him and does a slight shimmy shuffle; Charlie holds out his hand at his side to stop her in her tracks. | - |
 | 7.6 | Insert, 100mm macro | Static | Coco passes Charlie one of the black boxes. He opens it carefully to reveal the device. | CHARLIE Let's get on, shall we. |
 | 7.7 | Insert | Static | Insert: the water. Everyone apart from Eleanora pauses in their actions and looks straight towards Charlie. | CHARLIE But you have water. The house is full of water. It's pristine, alpine, alkaline, so damn fine it will cure your bloodline. JASPER Sorry, wait. No actual food? CHARLIE Nada. Nichts. Fünf Tage, meine Schätze. |
-| 7.8 | CU, 85mm | Static | Eleanora watches Cali drink the milkshake halfway up the straw, then stop. Cali lets out an enthusiastic moan, as if it is delicious without tasting a drop. She looks Eleanora dead in the eyes. | ELEANORA What do you call it? CHARLIE Offline was the original name. Off-grid maybe, Offbeat, Offset. ELEANORA I like that. Offset. |
-| 7.9 | ECU eye, 100mm | Push in | Eleanora says her own name. We hear her voice muffled, as if underwater. | CHARLIE A gold star for the lovely... ELEANORA Eleanora. JUMP CUT TO: |
+| 7.8 | Insert, 85mm | Static | Rows of green glass bottles: the house is full of water. | CHARLIE It's pristine, alpine, alkaline, so damn fine it will cure your bloodline. |
+| 7.9 | CU, 85mm | Static | Eleanora watches Cali drink the milkshake halfway up the straw, then stop. Cali lets out an enthusiastic moan, as if it is delicious without tasting a drop. She looks Eleanora dead in the eyes. | ELEANORA What do you call it? CHARLIE Offline was the original name. Off-grid maybe, Offbeat, Offset. ELEANORA I like that. Offset. |
+| 7.10 | ECU eye, 100mm | Push in | Eleanora says her own name. We hear her voice muffled, as if underwater. | CHARLIE A gold star for the lovely... ELEANORA Eleanora. JUMP CUT TO: |
 
 ### 8. FLASHBACK - INT. MOTHER'S FLAT - DAY (p13)
 
@@ -197,7 +198,8 @@ Cali twists once, mouths 'I love you' to Cai and presses; she passes out. A row 
 | 11.7 | Wide | Static | They look to each other for support. A row of twists is heard, then a row of clicks. | WHOLE GROUP TOGETHER One. |
 | 11.8 | MCU, 50mm | Static | One by one they all follow suit, passing out in a similar manner in different directions. | A row of clicks. |
 | 11.9 | CU, 50mm | Static | As each goes under, eyes roll back and mouths fall open; the device takes them into OFFSET. | - |
-| 11.10 | ECU eyes, 100mm | Static | Eleanora surveys the room: these characters, so lively, now in complete silence. She mimes passing out, flicking her head back in a strange manner. She twists her device. Her hand shakes. Tentatively she presses. Her eyes roll back. | A loud click. CUT TO BLACK. |
+| 11.10 | CU, 85mm | Static | Lying back on the sofa, gone under: eyes glazed, the device glowing at the temple. | - |
+| 11.11 | ECU eyes, 100mm | Static | Eleanora surveys the room: these characters, so lively, now in complete silence. She mimes passing out, flicking her head back in a strange manner. She twists her device. Her hand shakes. Tentatively she presses. Her eyes roll back. | A loud click. CUT TO BLACK. |
 
 ## Act IIa: Immersion and Erosion
 
@@ -715,16 +717,17 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 51.1 | Wide | Tracking behind | Eleanora makes a night-time trip to the outhouse. | - |
-| 51.2 | Wide | Handheld, following | Her breaths become heavier as she gets closer to the building on the hill; the door frame illuminates a green glow. | Heavy breathing. |
-| 51.3 | Wide, 35mm | Slow push | The door stands ajar, its frame glowing neon green. | A low hum. |
-| 51.4 | Wide | Slow push in | Inside the outhouse: machines, beds, the lab. | - |
-| 51.5 | ECU, eyes | Static | Eleanora's eyes take it in: many devices, all glowing green, pulsing, reflected in her pupils. | - |
-| 51.6 | Top shot, 35mm | Slow push | An unknown woman lies surrounded by softly beeping machines, tubes and lines keeping her suspended between worlds. | Machines beeping softly. |
-| 51.7 | Insert, 100mm | Static | Eve's device, sparking red: damaged by prolonged 'infinity' use. | - |
-| 51.8 | MS, 50mm | Slow track | Eleanora, with calm focus, studies the web of equipment: tubes and lines keeping the woman suspended between worlds. | Softly beeping machines. |
-| 51.9 | Insert, 50mm | Static | Coco grabs the arm of Eleanora aggressively to stop her. | - |
-| 51.10 | CU, 85mm | Static | She pauses; a look of realisation washes over Coco's face. She releases Eleanora's arm apologetically. | - |
+| 51.1 | Wide, 24mm | Handheld, following | Eleanora makes a night-time trip across the grounds toward the glow of the outhouse. | Crickets; distant hum. |
+| 51.2 | Wide | Tracking behind | She follows the green-lit corridor inside. | - |
+| 51.3 | Wide | Handheld, following | Her breaths become heavier as she gets closer to the building on the hill; the door frame illuminates a green glow. | Heavy breathing. |
+| 51.4 | Wide, 35mm | Slow push | The door stands ajar, its frame glowing neon green. | A low hum. |
+| 51.5 | Wide | Slow push in | Inside the outhouse: machines, beds, the lab. | - |
+| 51.6 | ECU, eyes | Static | Eleanora's eyes take it in: many devices, all glowing green, pulsing, reflected in her pupils. | - |
+| 51.7 | Top shot, 35mm | Slow push | An unknown woman lies surrounded by softly beeping machines, tubes and lines keeping her suspended between worlds. | Machines beeping softly. |
+| 51.8 | Insert, 100mm | Static | Eve's device, sparking red: damaged by prolonged 'infinity' use. | - |
+| 51.9 | MS, 50mm | Slow track | Eleanora, with calm focus, studies the web of equipment: tubes and lines keeping the woman suspended between worlds. | Softly beeping machines. |
+| 51.10 | Insert, 50mm | Static | Coco grabs the arm of Eleanora aggressively to stop her. | - |
+| 51.11 | CU, 85mm | Static | She pauses; a look of realisation washes over Coco's face. She releases Eleanora's arm apologetically. | - |
 
 ### 52. INT. HOUSE - STAIRS / LIVING ROOM - NIGHT (p83-91)
 
