@@ -242,9 +242,10 @@ Jacqueline lies in a bath of dark, oil-like water in yellow syrup light, the gro
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 14.1 | CU, 50mm | Static | Eleanora wakes up on the floor below the bookcase. She feels the back of her neck immediately: there is no device. A warm glow comes from downstairs; figures standing, watching, beckon her down. | - |
-| 14.2 | MS, 50mm | Slow pan | The bathtub is filled with dark, oil-like water, opaque and still; the yellow syrup light reflects off it. Jacqueline lies in the bath. The group stands nearby, observing in silence. As we pan we see her body is pregnant, her hand resting on the rounded belly. | - |
-| 14.3 | CU belly | Static | Her face shows a mix of uncertainty and quiet happiness. Eleanora smiles: a softer side to Jacqueline. | - |
-| 14.4 | Insert macro | Static | Her other hand's fingers dip into the dark water and let it drip. Each drip comes slower and slower. | CUT TO: |
+| 14.2 | Ground level, 50mm | Static | On the floor below the bookcase, she comes to, eyes opening. | - |
+| 14.3 | MS, 50mm | Slow pan | The bathtub is filled with dark, oil-like water, opaque and still; the yellow syrup light reflects off it. Jacqueline lies in the bath. The group stands nearby, observing in silence. As we pan we see her body is pregnant, her hand resting on the rounded belly. | - |
+| 14.4 | CU belly | Static | Her face shows a mix of uncertainty and quiet happiness. Eleanora smiles: a softer side to Jacqueline. | - |
+| 14.5 | Insert macro | Static | Her other hand's fingers dip into the dark water and let it drip. Each drip comes slower and slower. | CUT TO: |
 
 ### 15. FLASHBACK - INT. MOTHER'S FLAT - BATHROOM - DAY (p32)
 
@@ -747,9 +748,8 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | 52.8 | ECU, eyes | Static | The group go quiet as we slowly see Eve rising from her chair, her device glitching in and out. Her eyes try to find focus like a camera, opening and closing in pain from the lights. | EZRA My god. |
 | 52.9 | ECU eyes | Static | Eve, glitching and in agony. Charlie and Coco's culpability is exposed. | - |
 | 52.10 | Wide, 35mm | Static | FLASHBACK - MOTHER'S FLAT - DAY. Her Mother, frail in her wheelchair at the end of the hallway. Eleanora has a strong emotional reaction. | MOTHER SCREAMS IN PAIN. MOTHER Kill me! |
-| 52.11 | Ground level, 50mm | Static | INT. LIVING ROOM - NIGHT. Eleanora opens her eyes on the floor. | - |
-| 52.12 | ECU, 85mm | Static | Eve slowly walks towards her, struggling to find balance, and grabs onto her; Eleanora, tears in her eyes, looks more concerned for Eve than for herself. | - |
-| 52.13 | CU | Handheld | Eve begs to be killed: an explicit echo of Eleanora's mother. | - |
+| 52.11 | ECU, 85mm | Static | Eleanora opens her eyes. Eve slowly walks towards her, struggling to find balance, and grabs onto her; Eleanora, tears in her eyes, looks more concerned for Eve than for herself. | - |
+| 52.12 | CU | Handheld | Eve begs to be killed: an explicit echo of Eleanora's mother. | - |
 
 ### 53. INT. HOUSE - BALCONY - NIGHT (p92)
 
