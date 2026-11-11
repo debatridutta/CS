@@ -26,8 +26,8 @@ Interactive version with all images and a play-through animatic: https://claude.
 - A low white dome worn at the nape: Ø 1.5 in / 38 mm, rising 4.5 mm from the skin.
 - Matte warm white body. A very subtle twist bezel: a 1 mm lip with 48 fine grip ridges and a small engraved infinity mark at 12 o'clock.
 - Twist the bezel to set the length, then push the gloss white centre button.
-- Inner ring (by the button): always green while connected to the wearer.
-- Outer ring (near the edge): neon green #39FF14 when started, yellow #FFE600 deep in, full red #FF1A1A at infinite.
+- Inner ring (by the button): on when connected to the body.
+- Outer ring (near the edge): on when connected to the fantasy. Neon green #39FF14 when started, yellow #FFE600 deep in, full red #FF1A1A at infinite.
 - States: Off (nothing lit), Connected (inner ring only), Started, Deep in, Infinite.
 - A 40 mm brushed-titanium spike, Ø 1.8 mm, runs from the centre of the underside into the spinal cord, with a faint green point at the tip.
 
@@ -170,18 +170,18 @@ Charlie explains the rules: the first under controls the fantasy. Twist for hour
 | 9.3 | Wide, 24mm, centred | Slow push in | Charlie centred, the group seated around him. | CHARLIE You each need to lay yourself out on the slab. For all to see. Then, what judgement can harm you? |
 | 9.4 | Insert, 100mm | Static | Coco walks around checking and cleaning the back of each person's neck. | - |
 | 9.5 | ECU, 100mm macro | Static | Charlie twists the device. | TWIST. CHARLIE Good energy. |
-| 9.6 | Insert | Static | He presses the middle button. A green glow emits from the inner circle. | CLICK. CHARLIE My new friends, ecstasy is just the press of a button away. Coco. COCO One twist and press is one hour... FRANS Eternity. We get it. ELEANORA (looking at one of the devices) Infinity? |
+| 9.6 | Insert | Static | He presses the middle button. A green glow emits from the outer circle. | CLICK. CHARLIE My new friends, ecstasy is just the press of a button away. Coco. COCO One twist and press is one hour... FRANS Eternity. We get it. ELEANORA (looking at one of the devices) Infinity? |
 | 9.7 | MS from below, exterior, 50mm | Static | Eleanora looks out the balcony to see Charlie and Coco getting into the last remaining taxi. Coco holds a little longer, staring up at Eleanora's silhouette through the balcony door. Eleanora taps the glass repeatedly, gently. | CHARLIE (V.O.) We are not the kids with a magnifying glass and you are not the ants. You are all simultaneously. The glass, the ant, and the child. |
 
 ### 10. INT. DINING ROOM - DAY (THE FAST) (p16-27)
 
-The devices are attached, outer rings glowing green, inner rings grey. The group keeps eating while agreeing food is bad for you. Eleanora's 'patent it' joke about starving kids lands badly; Frans reveals Ezra paid for her. 'Who goes first?'
+The devices are attached, inner rings glowing green, outer rings dark. The group keeps eating while agreeing food is bad for you. Eleanora's 'patent it' joke about starving kids lands badly; Frans reveals Ezra paid for her. 'Who goes first?'
 
 *Look:* Round-table coverage on a slow lateral dolly; intercut close-ups of chewing.
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 10.1 | Insert, 85mm | Static | Around the group, the devices are now attached to the back of their necks: a subtle green glow in the outer ring, a soft pulse of light; the inner ring grey, not active yet. The guests, unbothered, keep eating at the most lavish dishes. | - |
+| 10.1 | Insert, 85mm | Static | Around the group, the devices are now attached to the back of their necks: a subtle green glow in the inner ring, a soft pulse of light; the outer ring dark, not active yet. The guests, unbothered, keep eating at the most lavish dishes. | - |
 | 10.2 | Wide, 35mm | Static | Unbothered, the guests keep eating at the most lavish dishes. | Cutlery, chewing. |
 | 10.3 | CU hands, 85mm | Static | Cali picks and chops and adds food to her plate but very clearly isn't eating anything. A routine she has done many times. INTERCUT with CLOSE on chewing. | CALI 'The future is fasting' I hear. FLO Removes cancer. CALI Should go for as long as you can. |
 | 10.4 | Wide, 24mm | Slow lateral dolly | The group unanimously agree food isn't good for you, but continue eating. Eleanora's joke lands; the group goes quiet. Cai breaks the silence and bursts out laughing. | ELEANORA Maybe they should patent it. JASPER Please can't we enjoy one meal without hearing of any starving kids. CAI I like her. I wasn't sure at first. Thought something was a little komisch... But dennoch, that is funny. JACQUELINE Geschmackslos. |
@@ -202,7 +202,7 @@ Cali twists once, mouths 'I love you' to Cai and presses; she passes out. A row 
 | 11.3 | Insert, 85mm | Static | Varyingly filled wine glasses cover the table. | - |
 | 11.4 | CU, 85mm | Static | Cali raises her hand to the device on the back of her neck. | - |
 | 11.5 | ECU, 100mm macro | Static | She twists the device clockwise until she hears the one click. Her fingers linger; Cai gives her a look of support. | CALI One. CAI (mouths) I love you. CALI (mouths) I love you too. |
-| 11.6 | MS, 50mm | Static | She presses the button. Instantly, her device emits a green glow in the inner circle. Immediately, Cali passes out backwards onto the sofa in an eerie way. All eyes on her. | A click. Even heavier breathing from the group. |
+| 11.6 | MS, 50mm | Static | She presses the button. Instantly, her device emits a green glow in the outer circle. Immediately, Cali passes out backwards onto the sofa in an eerie way. All eyes on her. | A click. Even heavier breathing from the group. |
 | 11.7 | Wide | Static | They look to each other for support. A row of twists is heard, then a row of clicks. | WHOLE GROUP TOGETHER One. |
 | 11.8 | MCU, 50mm | Static | One by one they all follow suit, passing out in a similar manner in different directions. | A row of clicks. |
 | 11.9 | CU, 50mm | Static | As each goes under, eyes roll back and mouths fall open; the device takes them into OFFSET. | - |
