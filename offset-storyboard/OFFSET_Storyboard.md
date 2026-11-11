@@ -190,11 +190,12 @@ Cali twists once, mouths 'I love you' to Cai and presses; she passes out. A row 
 | 11.1 | Wide, 24mm, centred | Locked-off | A semi-circle of seats holds all but one. Eleanora is in her own chair, a little apart from the group. | - |
 | 11.2 | Wide, 32mm, over Eleanora's shoulder | Static | Everyone else occupies the sofa and adjacent seats, facing inward as if bracing for something unsaid. The mood shifts from jovial and tipsy to tightened. | The room is still, apart from the breathing which has become heavier. |
 | 11.3 | Insert, 85mm | Static | Varyingly filled wine glasses cover the table. | - |
-| 11.4 | ECU, 100mm macro | Static | Cali raises her hand to the device on her neck. She twists the device clockwise until she hears the one click. Her fingers linger; Cai gives her a look of support. | CALI One. CAI (mouths) I love you. CALI (mouths) I love you too. |
-| 11.5 | MS, 50mm | Static | She presses the button. Instantly, her device emits a green glow in the inner circle. Immediately, Cali passes out backwards onto the sofa in an eerie way. All eyes on her. | A click. Even heavier breathing from the group. |
-| 11.6 | Wide | Static | They look to each other for support. A row of twists is heard, then a row of clicks. | WHOLE GROUP TOGETHER One. |
-| 11.7 | MCU, 50mm | Static | One by one they all follow suit, passing out in a similar manner in different directions. | A row of clicks. |
-| 11.8 | ECU eyes, 100mm | Static | Eleanora surveys the room: these characters, so lively, now in complete silence. She mimes passing out, flicking her head back in a strange manner. She twists her device. Her hand shakes. Tentatively she presses. Her eyes roll back. | A loud click. CUT TO BLACK. |
+| 11.4 | CU, 85mm | Static | Cali raises her hand to the device on the back of her neck. | - |
+| 11.5 | ECU, 100mm macro | Static | She twists the device clockwise until she hears the one click. Her fingers linger; Cai gives her a look of support. | CALI One. CAI (mouths) I love you. CALI (mouths) I love you too. |
+| 11.6 | MS, 50mm | Static | She presses the button. Instantly, her device emits a green glow in the inner circle. Immediately, Cali passes out backwards onto the sofa in an eerie way. All eyes on her. | A click. Even heavier breathing from the group. |
+| 11.7 | Wide | Static | They look to each other for support. A row of twists is heard, then a row of clicks. | WHOLE GROUP TOGETHER One. |
+| 11.8 | MCU, 50mm | Static | One by one they all follow suit, passing out in a similar manner in different directions. | A row of clicks. |
+| 11.9 | ECU eyes, 100mm | Static | Eleanora surveys the room: these characters, so lively, now in complete silence. She mimes passing out, flicking her head back in a strange manner. She twists her device. Her hand shakes. Tentatively she presses. Her eyes roll back. | A loud click. CUT TO BLACK. |
 
 ## Act IIa: Immersion and Erosion
 
@@ -360,7 +361,8 @@ The room becomes her mother's flat. Mother is well and joyful. The table glides 
 | 24.2 | MCU, 85mm | Static | Eleanora looks down at her plate, almost finished bar one last bite. She looks up to see her Mother smiling from ear to ear. | - |
 | 24.3 | Two-shot, 50mm | Static | Mother smiles, full of life. They laugh and hug. | ELEANORA Aunque no seas real, igual quiero abrazarte. |
 | 24.4 | POV through doorway | Static | The group watches. Ezra leans in, analysing. | - |
-| 24.5 | CU, 50mm | Static | The table glides away. The group's mouths are sealed shut; they can only watch. | Rush of air. |
+| 24.5 | Extreme wide | Slow pull back | Immediately the table glides away from the group, carrying Eleanora and her Mother with it, alone in the dark. | Rush of air. |
+| 24.6 | CU, 50mm | Static | The group's mouths are sealed shut; they can only watch. | Rush of air. |
 
 ### 25. EXT. RETREAT - DAY (p41-42)
 
