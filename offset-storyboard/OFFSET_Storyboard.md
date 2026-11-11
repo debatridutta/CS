@@ -818,13 +818,13 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 
 ### 57. INT. ELEANORA'S FANTASY - MOTHER - (FINAL) (p97)
 
-(Treatment) Once more and by her own choice, Eleanora returns to a final fantasy with her mother: an ending on her own terms.
+A flicker of hesitation as her hand lifts toward her neck. FLASHBACK to her fantasy with her Mother, as before: she leans in on her Mother at the table. 'No eres mi madre.'
 
-*Look:* White and bright, still, at peace: the good times.
+*Look:* Fantasy yellow: a flashback to her earlier fantasy, not a return.
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 57.1 | Two-shot | Static | Eleanora returns, once more and by her own choice, to a final fantasy with her mother. | - |
+| 57.1 | Two-shot | Static | FLASHBACK: Eleanora with her Mother in her earlier fantasy, remembered, not revisited. | - |
 | 57.2 | Insert, 50mm | Static | FLASHBACK - INT. MOTHER'S FLAT. Eleanora holds the pillow above her mum's head and presses down a little. Then she releases it to the floor. | - |
 | 57.3 | Two-shot, 85mm | Static | INT. ELEANORA'S FANTASY - NIGHT. She leans in on her Mother, close, the two resting against each other. | ELEANORA No eres mi madre. (You are not my Mother.) |
 
