@@ -801,7 +801,7 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | 56.4 | MCU, 50mm | Handheld | Ezra, food and blood smeared across his face, grins like a maniac as he comes at her again. | - |
 | 56.5 | Low, table level | Handheld | Ezra pushes Eleanora across the table and into the decaying food; plates and glasses scatter as they struggle across it. | Glass breaking. |
 | 56.6 | Top shot, 35mm | Handheld | They find themselves at the end of the table. Ezra pins her down, his hand clamped over her mouth; her eyes wide. | Muffled breathing. |
-| 56.7 | CU | Handheld | Eleanora narrowly overpowers him, completing the same act he once performed on someone else for entertainment. | CLICK. |
+| 56.7 | Two-shot, silhouette | Handheld | Ezra is choking her. Eleanora scratches his face, making him wince; he tightens his grip just before she is about to pass out. | CLICK. |
 | 56.8 | Wide, 35mm | Static | She swings around and hits his device. Ezra collapses forward across the table; Eleanora kneels among the plates, gasping, collecting air. | Heavy breathing. |
 | 56.9 | High angle, 35mm | Static | Ezra lies across the table amid the ruined feast, eyes open, staring at nothing as he slips into the system. | - |
 | 56.10 | ECU | Push in | She twists his device even further, just before infinity. Eleanora moves around the table doing it to each person. | ELEANORA (V.O) My Mother knew what she meant to me. |
