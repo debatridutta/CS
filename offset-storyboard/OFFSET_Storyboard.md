@@ -172,10 +172,11 @@ The devices are attached, outer rings glowing green, inner rings grey. The group
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 10.1 | Insert, 85mm | Static | Around the group, the devices are now attached to the back of their necks: a subtle green glow in the outer ring, a soft pulse of light; the inner ring grey, not active yet. The guests, unbothered, keep eating at the most lavish dishes. | - |
-| 10.2 | CU hands, 85mm | Static | Cali picks and chops and adds food to her plate but very clearly isn't eating anything. A routine she has done many times. INTERCUT with CLOSE on chewing. | CALI 'The future is fasting' I hear. FLO Removes cancer. CALI Should go for as long as you can. |
-| 10.3 | Wide, 24mm | Slow lateral dolly | The group unanimously agree food isn't good for you, but continue eating. Eleanora's joke lands; the group goes quiet. Cai breaks the silence and bursts out laughing. | ELEANORA They should patent it. Starving kids, no? Prolonged fasting... What would you call the company? CAI I like her... A little off. But that is funny dennoch. JACQUELINE Schlechter Geschmack. |
-| 10.4 | CU, 50mm | Static | Frans eats with his fingers, eyes on Eleanora. Eleanora winces. | FRANS He paid for you right? You wouldn't be speaking like that if you paid for this yourself. ELEANORA You know that? FRANS I know that. ELEANORA OK. He did. |
-| 10.5 | Wide, 50mm, down the table | Static | Before anyone can reply. | ELEANORA Even, still. Who goes first? |
+| 10.2 | Wide, 35mm | Static | Unbothered, the guests keep eating at the most lavish dishes. | Cutlery, chewing. |
+| 10.3 | CU hands, 85mm | Static | Cali picks and chops and adds food to her plate but very clearly isn't eating anything. A routine she has done many times. INTERCUT with CLOSE on chewing. | CALI 'The future is fasting' I hear. FLO Removes cancer. CALI Should go for as long as you can. |
+| 10.4 | Wide, 24mm | Slow lateral dolly | The group unanimously agree food isn't good for you, but continue eating. Eleanora's joke lands; the group goes quiet. Cai breaks the silence and bursts out laughing. | ELEANORA They should patent it. Starving kids, no? Prolonged fasting... What would you call the company? CAI I like her... A little off. But that is funny dennoch. JACQUELINE Schlechter Geschmack. |
+| 10.5 | CU, 50mm | Static | Frans eats with his fingers, eyes on Eleanora. Eleanora winces. | FRANS He paid for you right? You wouldn't be speaking like that if you paid for this yourself. ELEANORA You know that? FRANS I know that. ELEANORA OK. He did. |
+| 10.6 | Wide, 50mm, down the table | Static | Before anyone can reply. | ELEANORA Even, still. Who goes first? |
 
 ### 11. INT. LIVING ROOM - DAY (FIRST ACTIVATION) (p27-28)
 
@@ -783,18 +784,19 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 56.1 | Wide | Handheld | Ezra: a full physical fight across the spoiled feast. | - |
-| 56.2 | CU | Handheld | Eleanora narrowly overpowers him, completing the same act he once performed on someone else for entertainment. | CLICK. |
-| 56.3 | ECU | Push in | She twists his device even further, just before infinity. Eleanora moves around the table doing it to each person. | ELEANORA (V.O) My Mother knew what she meant to me. |
-| 56.4 | MS | Static | INTERCUT: Eleanora has a hot shower and cleans off the rotten food. *(placeholder: image to come)* | Water running. |
-| 56.5 | Insert | Static | Coco checking the group's vitals as they are in the system. *(placeholder: image to come)* | Monitors beeping. |
-| 56.6 | Wide, 35mm | Static | INTERCUT: A morbidly obese Cali, in pain, hunched over the table. | ELEANORA (V.O) A year for a year. |
-| 56.7 | CU | Static | She stuffs cake into her mouth. Her mirror unchanged. | - |
-| 56.8 | CU | Handheld | Hands gripping and scratching Jasper from bodies unseen. *(placeholder: image to come)* | ELEANORA (V.O) They lived reckless and careless lives and forgot about her. |
-| 56.9 | MS | Static | Jacqueline cries against a bed as a baby cries on it. *(placeholder: image to come)* | ELEANORA (V.O) So they will stay in there. Like she did. |
-| 56.10 | Insert | Static | Flo's fingers bleed, fumbling as she tries to conceal the marks on the glass. | ELEANORA (V.O) What is desire if it's fulfilled? |
-| 56.11 | Top shot | Static | Cai lies on the grass, overdosing, consumed by the drugs. *(placeholder: image to come)* | ELEANORA (V.O) What is thirst when it's quenched? |
-| 56.12 | Wide | Handheld | Charlie gives tours in agony, attempting to bask in glory, but his trembling legs and blistered feet barely hold him up. *(placeholder: image to come)* | ELEANORA (V.O) It's nothing. Nothing comes from nothing. |
-| 56.13 | CU | Static | Ezra's make-up streaks from tears as he and the fans are in agony, but they continue clapping. *(placeholder: image to come)* | ELEANORA (V.O) And after all the pleasure and gorging and idolising. The question still stands. |
+| 56.2 | Low, table level | Handheld | Ezra pushes Eleanora across the table and into the decaying food; plates and glasses scatter as they struggle across it. | Glass breaking. |
+| 56.3 | CU | Handheld | Eleanora narrowly overpowers him, completing the same act he once performed on someone else for entertainment. | CLICK. |
+| 56.4 | ECU | Push in | She twists his device even further, just before infinity. Eleanora moves around the table doing it to each person. | ELEANORA (V.O) My Mother knew what she meant to me. |
+| 56.5 | MS | Static | INTERCUT: Eleanora has a hot shower and cleans off the rotten food. *(placeholder: image to come)* | Water running. |
+| 56.6 | Insert | Static | Coco checking the group's vitals as they are in the system. *(placeholder: image to come)* | Monitors beeping. |
+| 56.7 | Wide, 35mm | Static | INTERCUT: A morbidly obese Cali, in pain, hunched over the table. | ELEANORA (V.O) A year for a year. |
+| 56.8 | CU | Static | She stuffs cake into her mouth. Her mirror unchanged. | - |
+| 56.9 | CU | Handheld | Hands gripping and scratching Jasper from bodies unseen. *(placeholder: image to come)* | ELEANORA (V.O) They lived reckless and careless lives and forgot about her. |
+| 56.10 | MS | Static | Jacqueline cries against a bed as a baby cries on it. *(placeholder: image to come)* | ELEANORA (V.O) So they will stay in there. Like she did. |
+| 56.11 | Insert | Static | Flo's fingers bleed, fumbling as she tries to conceal the marks on the glass. | ELEANORA (V.O) What is desire if it's fulfilled? |
+| 56.12 | Top shot | Static | Cai lies on the grass, overdosing, consumed by the drugs. *(placeholder: image to come)* | ELEANORA (V.O) What is thirst when it's quenched? |
+| 56.13 | Wide | Handheld | Charlie gives tours in agony, attempting to bask in glory, but his trembling legs and blistered feet barely hold him up. *(placeholder: image to come)* | ELEANORA (V.O) It's nothing. Nothing comes from nothing. |
+| 56.14 | CU | Static | Ezra's make-up streaks from tears as he and the fans are in agony, but they continue clapping. *(placeholder: image to come)* | ELEANORA (V.O) And after all the pleasure and gorging and idolising. The question still stands. |
 
 ### 57. INT. ELEANORA'S FANTASY - MOTHER - (FINAL) (p97)
 
