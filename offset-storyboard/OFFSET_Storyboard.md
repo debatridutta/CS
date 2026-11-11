@@ -603,7 +603,8 @@ Morning arrives. Eleanora opens her eyes to empty space, places a hand on the ba
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 42.1 | Wide | Static | Morning arrives. Eleanora opens her eyes to empty space. She places a hand on the back of her neck, inhales deeply; a wave of calm washes over her again. | - |
-| 42.2 | Wide, low angle | Slow push | EXT. FOREST - DAY - ELEANORA'S FANTASY. She walks out of the house towards the forest; some of the group stare through the window at her. Her old dining room is now outside in the forest. | - |
+| 42.2 | Wide, low angle | Slow push | EXT. FOREST - DAY - ELEANORA'S FANTASY. She walks out of the house towards the forest; some of the group stare through the window at her. | - |
+| 42.3 | Wide, 35mm | Static | Her old dining room is now outside in the forest: an armchair, a lamp, a pot of tea on a small table among the leaves. | - |
 
 ### 43. INT. KITCHEN - DAY (DISH WASHING) (p65-72)
 
