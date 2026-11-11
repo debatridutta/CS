@@ -577,7 +577,7 @@ Eleanora hears a rustle: Frans sits in the dark at the back of the dining room b
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 40.1 | Wide | Slow push | Eleanora hears a rustle and goes into the dining room. A figure sits at the back of the room, behind the rotting food: Frans. Just a little light hitting the side of his body makes him visible. She pauses and stares briefly at him. *(placeholder: image to come)* | The noise of him eating increases. |
+| 40.1 | Wide | Slow push | Eleanora hears a rustle and goes into the dining room. A figure sits at the back of the room, behind the rotting food: Frans. Just a little light hitting the side of his body makes him visible. She pauses and stares briefly at him. | The noise of him eating increases. |
 | 40.2 | MS, 50mm | Static | Frans sits behind the rotting food, eating in the dark. | The noise of him eating increases. |
 | 40.3 | Low wide, 24mm | Slow push | The rotting feast between them; Frans keeps eating, unbothered. | - |
 
