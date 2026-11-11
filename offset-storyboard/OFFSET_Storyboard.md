@@ -81,7 +81,7 @@ The gate opens. The guests form a semicircle before the house. Charlie and Coco'
 | 3.5 | Low insert | Static | Rocks scrape and collect beneath the dragging bags. | Rocks scraping. |
 | 3.6 | Top shot | Static | From above, the guests form a rough semicircle, Eleanora lingering at the back. They are all poised. One of the taxis drives off; the other remains. | - |
 | 3.7 | MCU, 85mm | Static | Coco stands beside Charlie, writing notes; she whispers. A half smirk, half grimace forms on Charlie's face. Cai and Cali exchange a little smile with Eleanora. Jacqueline exchanges a look with Flo at Eleanora's expense. | - |
-| 3.8 | Insert, 100mm | Slow push | Charlie leads forward into the house, followed by Coco with her tablet. Eleanora notices the backs of their necks: strange devices, slightly worn, a faded white with a green glow emitting. | - |
+| 3.8 | Extreme wide, through the leaves | Locked-off | Charlie leads forward into the house, followed by Coco with her tablet. Eleanora notices the backs of their necks: strange devices, slightly worn, a faded white with a green glow emitting. | - |
 | 3.9 | Wide, 35mm | Static | From overhead, the semicircle of guests flows slowly into the building, with Charlie at the front. | - |
 | 3.10 | Top shot, very high | Static | Eleanora pauses behind, holding back for a moment. She stands before the building, its perfectly symmetrical façade rising evenly on either side of her. As she follows inside, Coco directs each person to their room; Charlie stands at the top of the stairs. | - |
 
