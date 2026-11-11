@@ -797,25 +797,26 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | 56.1 | Wide | Handheld | Ezra: a full physical fight across the spoiled feast. *(placeholder: image to come)* | - |
 | 56.2 | Wide, 28mm | Handheld | Ezra snaps and lunges. He climbs onto the table and crawls across it like a maniac as the others pull back. | Glasses topple. |
 | 56.3 | Insert, 85mm | Handheld | Eleanora meets him head on. He seizes her wrist; the table shakes as they each try to gain the upper hand. | - |
-| 56.4 | Low, table level | Handheld | Ezra pushes Eleanora across the table and into the decaying food; plates and glasses scatter as they struggle across it. | Glass breaking. |
-| 56.5 | CU | Handheld | Eleanora narrowly overpowers him, completing the same act he once performed on someone else for entertainment. | CLICK. |
-| 56.6 | Wide, 35mm | Static | She swings around and hits his device. Ezra collapses forward across the table; Eleanora kneels among the plates, gasping, collecting air. | Heavy breathing. |
-| 56.7 | High angle, 35mm | Static | Ezra lies across the table amid the ruined feast, eyes open, staring at nothing as he slips into the system. | - |
-| 56.8 | ECU | Push in | She twists his device even further, just before infinity. Eleanora moves around the table doing it to each person. | ELEANORA (V.O) My Mother knew what she meant to me. |
-| 56.9 | Top shot, 24mm | Slow crane up | Eleanora sits amid the ruined feast, the group slumped around the table in the system, one by one. | - |
-| 56.10 | MCU, 85mm | Static | Eleanora stands, spattered with the rotten food, surveying what she has done. | Silence; the hum of the devices. |
-| 56.11 | MS | Static | INTERCUT: Eleanora has a hot shower and cleans off the rotten food. | Water running. |
-| 56.12 | Insert | Static | Coco checking the group's vitals as they are in the system. | Monitors beeping. |
-| 56.13 | Wide, 35mm | Static | INTERCUT: A morbidly obese Cali, in pain, hunched over the table. | ELEANORA (V.O) A year for a year. |
-| 56.14 | CU | Static | She stuffs cake into her mouth. Her mirror unchanged. | - |
-| 56.15 | CU | Handheld | Hands gripping and scratching Jasper from bodies unseen. | ELEANORA (V.O) They lived reckless and careless lives and forgot about her. |
-| 56.16 | MS | Static | Jacqueline cries against a bed as a baby cries on it. | ELEANORA (V.O) So they will stay in there. Like she did. |
-| 56.17 | MCU, 50mm | Static | Jacqueline slumped over the edge of the bath, spent, in the red light. | - |
-| 56.18 | Insert | Static | Flo's fingers bleed, fumbling as she tries to conceal the marks on the glass. | ELEANORA (V.O) What is desire if it's fulfilled? |
-| 56.19 | Top shot, 35mm | Static | Cai lies on the grass, overdosing, consumed by the drugs: sunk into the earth, arms spread, the ground closing over him. | ELEANORA (V.O) What is thirst when it's quenched? |
-| 56.20 | High angle, 50mm | Slow push | His eyes close; the undergrowth swallows him. | - |
-| 56.21 | Wide | Handheld | Charlie gives tours in agony, attempting to bask in glory, but his trembling legs and blistered feet barely hold him up. | ELEANORA (V.O) It's nothing. Nothing comes from nothing. |
-| 56.22 | CU | Static | Ezra's make-up streaks from tears as he and the fans are in agony, but they continue clapping. | ELEANORA (V.O) And after all the pleasure and gorging and idolising. The question still stands. |
+| 56.4 | MCU, 50mm | Handheld | Ezra, food and blood smeared across his face, grins like a maniac as he comes at her again. | - |
+| 56.5 | Low, table level | Handheld | Ezra pushes Eleanora across the table and into the decaying food; plates and glasses scatter as they struggle across it. | Glass breaking. |
+| 56.6 | CU | Handheld | Eleanora narrowly overpowers him, completing the same act he once performed on someone else for entertainment. | CLICK. |
+| 56.7 | Wide, 35mm | Static | She swings around and hits his device. Ezra collapses forward across the table; Eleanora kneels among the plates, gasping, collecting air. | Heavy breathing. |
+| 56.8 | High angle, 35mm | Static | Ezra lies across the table amid the ruined feast, eyes open, staring at nothing as he slips into the system. | - |
+| 56.9 | ECU | Push in | She twists his device even further, just before infinity. Eleanora moves around the table doing it to each person. | ELEANORA (V.O) My Mother knew what she meant to me. |
+| 56.10 | Top shot, 24mm | Slow crane up | Eleanora sits amid the ruined feast, the group slumped around the table in the system, one by one. | - |
+| 56.11 | MCU, 85mm | Static | Eleanora stands, spattered with the rotten food, surveying what she has done. | Silence; the hum of the devices. |
+| 56.12 | MS | Static | INTERCUT: Eleanora has a hot shower and cleans off the rotten food. | Water running. |
+| 56.13 | Insert | Static | Coco checking the group's vitals as they are in the system. | Monitors beeping. |
+| 56.14 | Wide, 35mm | Static | INTERCUT: A morbidly obese Cali, in pain, hunched over the table. | ELEANORA (V.O) A year for a year. |
+| 56.15 | CU | Static | She stuffs cake into her mouth. Her mirror unchanged. | - |
+| 56.16 | CU | Handheld | Hands gripping and scratching Jasper from bodies unseen. | ELEANORA (V.O) They lived reckless and careless lives and forgot about her. |
+| 56.17 | MS | Static | Jacqueline cries against a bed as a baby cries on it. | ELEANORA (V.O) So they will stay in there. Like she did. |
+| 56.18 | MCU, 50mm | Static | Jacqueline slumped over the edge of the bath, spent, in the red light. | - |
+| 56.19 | Insert | Static | Flo's fingers bleed, fumbling as she tries to conceal the marks on the glass. | ELEANORA (V.O) What is desire if it's fulfilled? |
+| 56.20 | Top shot, 35mm | Static | Cai lies on the grass, overdosing, consumed by the drugs: sunk into the earth, arms spread, the ground closing over him. | ELEANORA (V.O) What is thirst when it's quenched? |
+| 56.21 | High angle, 50mm | Slow push | His eyes close; the undergrowth swallows him. | - |
+| 56.22 | Wide | Handheld | Charlie gives tours in agony, attempting to bask in glory, but his trembling legs and blistered feet barely hold him up. | ELEANORA (V.O) It's nothing. Nothing comes from nothing. |
+| 56.23 | CU | Static | Ezra's make-up streaks from tears as he and the fans are in agony, but they continue clapping. | ELEANORA (V.O) And after all the pleasure and gorging and idolising. The question still stands. |
 
 ### 57. INT. ELEANORA'S FANTASY - MOTHER - (FINAL) (p97)
 
