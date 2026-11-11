@@ -730,15 +730,16 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | 52.1 | Wide | Static | Eleanora shuts down the equipment and hauls Eve into the house to confront the group. | - |
 | 52.2 | Low angle, 24mm | Handheld | INT. HALLWAY - NIGHT. Eleanora, out of breath but trying to remain silent, holds Eve upright and props her against the side of the staircase. | Laboured breathing. |
 | 52.3 | Ground level, 35mm | Static | Eve slumps at the foot of the staircase. Eleanora stares at her, then looks up at the impending flight of stairs. | - |
-| 52.4 | Wide | Static | INTERCUT BETWEEN BEDROOMS: Eleanora enters all the bedrooms and whispers to everyone. | Whispers. |
-| 52.5 | Wide | Handheld | FLASHBACK FROM THE YEAR BEFORE: the same group in their pristine clothes, devices on, laughing and joking. | COCO We took turns like you have. |
-| 52.6 | MS | Floating | Eve's fantasy, a year ago: so wholesome, full of love. The system was younger. | COCO Hers was so wholesome, full of love. I admired her optimism. |
-| 52.7 | ECU, eyes | Static | The group go quiet as we slowly see Eve rising from her chair, her device glitching in and out. Her eyes try to find focus like a camera, opening and closing in pain from the lights. | EZRA My god. |
-| 52.8 | ECU eyes | Static | Eve, glitching and in agony. Charlie and Coco's culpability is exposed. | - |
-| 52.9 | Wide, 35mm | Static | FLASHBACK - MOTHER'S FLAT - DAY. Her Mother, frail in her wheelchair at the end of the hallway. Eleanora has a strong emotional reaction. | MOTHER SCREAMS IN PAIN. MOTHER Kill me! |
-| 52.10 | Ground level, 50mm | Static | INT. LIVING ROOM - NIGHT. Eleanora opens her eyes on the floor. | - |
-| 52.11 | ECU, 85mm | Static | Eve slowly walks towards her, struggling to find balance, and grabs onto her; Eleanora, tears in her eyes, looks more concerned for Eve than for herself. | - |
-| 52.12 | CU | Handheld | Eve begs to be killed: an explicit echo of Eleanora's mother. | - |
+| 52.4 | CU, through the banisters | Static | Through the banisters: Eve lies at the bottom of the stairs, eyes wide, the skin at her neck scarred where the device has burned. | Laboured breathing. |
+| 52.5 | Wide | Static | INTERCUT BETWEEN BEDROOMS: Eleanora enters all the bedrooms and whispers to everyone. | Whispers. |
+| 52.6 | Wide | Handheld | FLASHBACK FROM THE YEAR BEFORE: the same group in their pristine clothes, devices on, laughing and joking. | COCO We took turns like you have. |
+| 52.7 | MS | Floating | Eve's fantasy, a year ago: so wholesome, full of love. The system was younger. | COCO Hers was so wholesome, full of love. I admired her optimism. |
+| 52.8 | ECU, eyes | Static | The group go quiet as we slowly see Eve rising from her chair, her device glitching in and out. Her eyes try to find focus like a camera, opening and closing in pain from the lights. | EZRA My god. |
+| 52.9 | ECU eyes | Static | Eve, glitching and in agony. Charlie and Coco's culpability is exposed. | - |
+| 52.10 | Wide, 35mm | Static | FLASHBACK - MOTHER'S FLAT - DAY. Her Mother, frail in her wheelchair at the end of the hallway. Eleanora has a strong emotional reaction. | MOTHER SCREAMS IN PAIN. MOTHER Kill me! |
+| 52.11 | Ground level, 50mm | Static | INT. LIVING ROOM - NIGHT. Eleanora opens her eyes on the floor. | - |
+| 52.12 | ECU, 85mm | Static | Eve slowly walks towards her, struggling to find balance, and grabs onto her; Eleanora, tears in her eyes, looks more concerned for Eve than for herself. | - |
+| 52.13 | CU | Handheld | Eve begs to be killed: an explicit echo of Eleanora's mother. | - |
 
 ### 53. INT. HOUSE - BALCONY - NIGHT (p92)
 
