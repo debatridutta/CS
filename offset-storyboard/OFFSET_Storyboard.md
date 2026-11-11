@@ -87,12 +87,10 @@ Close on Charlie addressing the group. He quotes Ungers over insert shots of the
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 4.1 | CU, 50mm | Locked-off | Close on Charlie, speaking, addressing the group. | CHARLIE 'Dies ist ein Lebensraum, ein Laborversuch. Eine Darstellung der Idee der Welt.' ('This is a living space, a laboratory test. A representation of the idea of the world.') |
-| 4.2 | Wide, 35mm, centred | Locked-off | Insert shot: building architecture. | CHARLIE (CONT'D) I can't take credit for it, nor shall I. So I use the words of the man who designed this place. Oswald. Mathias. Ungers. |
-| 4.3 | Wide, 24mm | Slow push in | Insert shot: building architecture. | CHARLIE (CONT'D) 'An idea of the world.' Who speaks like that nowadays? Such grandiose plans. |
-| 4.4 | Wide, 18mm, looking up | Slow tilt | Insert shot: building architecture. | CHARLIE (CONT'D) His aim was 'To see how far architecture can be abstract. A house without qualities. No ornaments, no details, no bottom nor top. Everything subtracted to the absolute core of abstraction.' End quote. |
-| 4.5 | Wide, 24mm | Static | Insert shot: building architecture. | CHARLIE (CONT'D) Abstraction. That is what we are going to do here. Find the core of each of you. |
-| 4.6 | ECU, 100mm, centred | Locked-off | INT. BEDROOM - DAY. Little black cameras in every room, a bright green light emitting from them. | CHARLIE (V.O.) No locks. Nor keys. |
-| 4.7 | ECU, 100mm | Static | Watched. The group unpack and manoeuvre below. | CHARLIE (CONT'D) Privacy is not prerequisite. Make peace with being watched. |
+| 4.2 | Wide, 18mm, looking up | Slow tilt | Insert shot: building architecture. | CHARLIE (CONT'D) I can't take credit for it, nor shall I. So I use the words of the man who designed this place. Oswald. Mathias. Ungers. 'An idea of the world.' Who speaks like that nowadays? Such grandiose plans. |
+| 4.3 | Wide, 24mm | Static | Insert shot: building architecture. | CHARLIE (CONT'D) His aim was 'To see how far architecture can be abstract. A house without qualities. No ornaments, no details, no bottom nor top. Everything subtracted to the absolute core of abstraction.' End quote. Abstraction. That is what we are going to do here. Find the core of each of you. |
+| 4.4 | ECU, 100mm, centred | Locked-off | INT. BEDROOM - DAY. Little black cameras in every room, a bright green light emitting from them. | CHARLIE (V.O.) No locks. Nor keys. |
+| 4.5 | ECU, 100mm | Static | Watched. The group unpack and manoeuvre below. | CHARLIE (CONT'D) Privacy is not prerequisite. Make peace with being watched. |
 
 ### 5. INT. BEDROOMS - DAY (p6-7)
 
@@ -784,12 +782,11 @@ Bed time. Ezra lies far away from Eleanora. 'I think everyone should experience 
 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
-| 55.1 | Wide, centred | Locked-off | Reluctantly, grief-numbed and eager to move past what just happened, the group agrees to one final shared session at the ruined feast table. | - |
-| 55.2 | ECU | Static | Eleanora turns a device past its intended duration, toward 'infinity'. | TWIST. TWIST. TWIST. |
-| 55.3 | Insert, 100mm | Static | Frans slowly leans forward to see if she is in the system. He moves her hair off her neck and catches a glance of the device with just one green circle. | - |
-| 55.4 | CU | Handheld | Frans first: a physical struggle she wins. | - |
-| 55.5 | MS, centred | Static | Charlie is disgusted and fills with rage; he moves towards Eleanora to attack her and shouts at her. Coco comes to comfort him. | CHARLIE (shouting, unheard) |
-| 55.6 | Insert | Static | Then Charlie, turned by a weeping, complicit Coco; then the rest of the group in sequence. | - |
+| 55.1 | ECU | Static | Reluctantly, grief-numbed and eager to move past what just happened, the group agrees to one final shared session at the ruined feast table. Eleanora turns a device past its intended duration, toward 'infinity'. | TWIST. TWIST. TWIST. |
+| 55.2 | Insert, 100mm | Static | Frans slowly leans forward to see if she is in the system. He moves her hair off her neck and catches a glance of the device with just one green circle. | - |
+| 55.3 | CU | Handheld | Frans first: a physical struggle she wins. | - |
+| 55.4 | MS, centred | Static | Charlie is disgusted and fills with rage; he moves towards Eleanora to attack her and shouts at her. Coco comes to comfort him. | CHARLIE (shouting, unheard) |
+| 55.5 | Insert | Static | Then Charlie, turned by a weeping, complicit Coco; then the rest of the group in sequence. | - |
 
 ### 56. INT. DINING ROOM - NIGHT (THE FIGHT) (p95-96)
 
@@ -849,13 +846,28 @@ A flicker of hesitation as her hand lifts toward her neck. FLASHBACK to her fant
 | 58.3 | Insert, 85mm | Static | LATER: dust hangs in the light of the living room. | - |
 | 58.4 | Wide, 24mm | Slow track | The group lie in rows, wired in, feeding tubes and lines running from each of them: kept in the system, indefinitely. | The hum of the machines. |
 | 58.5 | MS | Slow track | LATER: INT. LIVING ROOM - DAY. The group are all slightly dusty, connected to devices, feeding tubes, heart monitors and IVs. | ELEANORA (V.O) Or should it always be just out of reach. Aimed for but never grasped. |
-| 58.6 | Insert, 85mm | Static | Heart monitors tick over beside each of them, keeping the group suspended in the system. | The steady beep of the monitors. |
-| 58.7 | Aerial | Drone rising | The forest closes over the estate. | ELEANORA (V.O) Forever. Para siempre. FADE TO BLACK. |
+| 58.6 | Insert, 85mm | Static | Heart monitors tick over beside each of them, keeping the group suspended in the system. | The steady beep of the monitors. ELEANORA (V.O) Forever. Para siempre. FADE TO BLACK. |
 
 ---
 
-> *Would your fantasy really be your fantasy if you could have it all the time? Or should it always be just out of reach. Aimed for but never grasped.*
+<br>
+
+> *Would your fantasy really be your fantasy...*  
+> *if you could have it all the time?*
 >
-> *Not to run or to fly. But to walk, with my voice. Forever. Para siempre.*
+> <br>
 >
-> ELEANORA (V.O.), *Offset*, p97
+> *Or should it always be... just out of reach.*  
+> *Aimed for... but never grasped.*
+>
+> <br>
+>
+> *Not to run... or to fly.*  
+> *But to walk... with my voice.*
+>
+> <br>
+>
+> ***Forever...***  
+> ***Para siempre.***
+>
+> ELEANORA (V.O.) · *Offset* · p97
