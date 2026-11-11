@@ -176,7 +176,8 @@ The devices are attached, outer rings glowing green, inner rings grey. The group
 | 10.3 | CU hands, 85mm | Static | Cali picks and chops and adds food to her plate but very clearly isn't eating anything. A routine she has done many times. INTERCUT with CLOSE on chewing. | CALI 'The future is fasting' I hear. FLO Removes cancer. CALI Should go for as long as you can. |
 | 10.4 | Wide, 24mm | Slow lateral dolly | The group unanimously agree food isn't good for you, but continue eating. Eleanora's joke lands; the group goes quiet. Cai breaks the silence and bursts out laughing. | ELEANORA They should patent it. Starving kids, no? Prolonged fasting... What would you call the company? CAI I like her... A little off. But that is funny dennoch. JACQUELINE Schlechter Geschmack. |
 | 10.5 | CU, 50mm | Static | Frans eats with his fingers, eyes on Eleanora. Eleanora winces. | FRANS He paid for you right? You wouldn't be speaking like that if you paid for this yourself. ELEANORA You know that? FRANS I know that. ELEANORA OK. He did. |
-| 10.6 | Wide, 50mm, down the table | Static | Before anyone can reply. | ELEANORA Even, still. Who goes first? |
+| 10.6 | Wide, centred, 32mm | Static | Silence. Everyone looking towards Eleanora. | FRANS He paid for you right? You wouldn't be speaking like that if you paid for this yourself. |
+| 10.7 | Wide, 50mm, down the table | Static | Before anyone can reply. | ELEANORA Even, still. Who goes first? |
 
 ### 11. INT. LIVING ROOM - DAY (FIRST ACTIVATION) (p27-28)
 
