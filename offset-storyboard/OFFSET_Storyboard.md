@@ -676,7 +676,7 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 |---|---|---|---|---|
 | 48.1 | Low wide | Handheld | EXT. FRANS'S FANTASY - FOREST - NIGHT. Eleanora wakes frantically on the forest floor, gasping for air and coughing across the dirt. | TWIST and CLICK echo, louder than before. |
 | 48.2 | Insert, ground level | Static | Her hand claws at the dirt floor of the forest as she drags in air. | Coughing. |
-| 48.3 | Wide | Whip pan | A blood-soaked woman sprints past her; torchlight cuts through the dark. | MIX: ELEANORA'S MOTHER / JACQUELINE / EVE (distorted) RUN! |
+| 48.3 | Wide | Whip pan | A blood-soaked woman sprints past her, her movements frantic, unnatural. | MIX: ELEANORA'S MOTHER / JACQUELINE / EVE (distorted) RUN! |
 | 48.4 | Wide, 35mm | Tracking | Eleanora hears rustles through the trees and sees some of the group running between them. | Rustling, running feet. |
 | 48.5 | Wide | Handheld chase | Eleanora backtracks and sees silhouetted figures, one attacking the other from above. A figure stands up and darts to their right, inhumanely fast. | - |
 | 48.6 | Wide, from behind | Handheld, running | Eleanora sprints, hitting branches, cutting her face. | Branches snapping. |
