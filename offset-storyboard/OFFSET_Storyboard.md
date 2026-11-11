@@ -719,16 +719,15 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 51.1 | Wide, 24mm | Handheld, following | Eleanora makes a night-time trip across the grounds toward the glow of the outhouse. | Crickets; distant hum. |
-| 51.2 | Wide | Tracking behind | She follows the green-lit corridor inside. | - |
-| 51.3 | Wide | Handheld, following | Her breaths become heavier as she gets closer to the building on the hill; the door frame illuminates a green glow. | Heavy breathing. |
-| 51.4 | Wide, 35mm | Slow push | The door stands ajar, its frame glowing neon green. | A low hum. |
-| 51.5 | Wide | Slow push in | Inside the outhouse: machines, beds, the lab. | - |
-| 51.6 | ECU, eyes | Static | Eleanora's eyes take it in: many devices, all glowing green, pulsing, reflected in her pupils. | - |
-| 51.7 | Top shot, 35mm | Slow push | An unknown woman lies surrounded by softly beeping machines, tubes and lines keeping her suspended between worlds. | Machines beeping softly. |
-| 51.8 | Insert, 100mm | Static | Eve's device, sparking red: damaged by prolonged 'infinity' use. | - |
-| 51.9 | MS, 50mm | Slow track | Eleanora, with calm focus, studies the web of equipment: tubes and lines keeping the woman suspended between worlds. | Softly beeping machines. |
-| 51.10 | Insert, 50mm | Static | Coco grabs the arm of Eleanora aggressively to stop her. | - |
-| 51.11 | CU, 85mm | Static | She pauses; a look of realisation washes over Coco's face. She releases Eleanora's arm apologetically. | - |
+| 51.2 | Wide | Handheld, following | Her breaths become heavier as she gets closer to the building on the hill; the door frame illuminates a green glow. | Heavy breathing. |
+| 51.3 | Wide, 35mm | Slow push | The door stands ajar, its frame glowing neon green. | A low hum. |
+| 51.4 | Wide | Slow push in | Inside the outhouse: machines, beds, the lab. | - |
+| 51.5 | ECU, eyes | Static | Eleanora's eyes take it in: many devices, all glowing green, pulsing, reflected in her pupils. | - |
+| 51.6 | Top shot, 35mm | Slow push | An unknown woman lies surrounded by softly beeping machines, tubes and lines keeping her suspended between worlds. | Machines beeping softly. |
+| 51.7 | Insert, 100mm | Static | Eve's device, sparking red: damaged by prolonged 'infinity' use. | - |
+| 51.8 | MS, 50mm | Slow track | Eleanora, with calm focus, studies the web of equipment: tubes and lines keeping the woman suspended between worlds. | Softly beeping machines. |
+| 51.9 | Insert, 50mm | Static | Coco grabs the arm of Eleanora aggressively to stop her. | - |
+| 51.10 | CU, 85mm | Static | She pauses; a look of realisation washes over Coco's face. She releases Eleanora's arm apologetically. | - |
 
 ### 52. INT. HOUSE - STAIRS / LIVING ROOM - NIGHT (p83-91)
 
@@ -741,7 +740,7 @@ Eleanora wakes on the forest floor inside Frans's fantasy. A blood-soaked woman 
 | 52.1 | Wide | Static | Eleanora shuts down the equipment and hauls Eve into the house to confront the group. | - |
 | 52.2 | Low angle, 24mm | Handheld | INT. HALLWAY - NIGHT. Eleanora, out of breath but trying to remain silent, holds Eve upright and props her against the side of the staircase. | Laboured breathing. |
 | 52.3 | Ground level, 35mm | Static | Eve slumps at the foot of the staircase. Eleanora stares at her, then looks up at the impending flight of stairs. | - |
-| 52.4 | CU, through the banisters | Static | Through the banisters: Eve lies at the bottom of the stairs, eyes wide, the skin at her neck scarred where the device has burned. | Laboured breathing. |
+| 52.4 | CU, through the banisters | Static | Through the banisters: Eve at the bottom of the stairs. | Laboured breathing. |
 | 52.5 | Wide | Static | INTERCUT BETWEEN BEDROOMS: Eleanora enters all the bedrooms and whispers to everyone. | Whispers. |
 | 52.6 | Wide | Handheld | FLASHBACK FROM THE YEAR BEFORE: the same group in their pristine clothes, devices on, laughing and joking. | COCO We took turns like you have. |
 | 52.7 | MS | Floating | Eve's fantasy, a year ago: so wholesome, full of love. The system was younger. | COCO Hers was so wholesome, full of love. I admired her optimism. |
