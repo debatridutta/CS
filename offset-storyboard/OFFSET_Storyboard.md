@@ -798,8 +798,7 @@ One final shared session at the ruined feast table. One by one, Eleanora turns e
 | 55.1 | ECU | Static | Reluctantly, grief-numbed and eager to move past what just happened, the group agrees to one final shared session at the ruined feast table. Eleanora turns a device past its intended duration, toward 'infinity'. | TWIST. TWIST. TWIST. |
 | 55.2 | Insert, 100mm | Static | Frans slowly leans forward to see if she is in the system. He moves her hair off her neck and catches a glance of the device with just one green circle. | - |
 | 55.3 | CU | Handheld | Frans first: a physical struggle she wins. | - |
-| 55.4 | MS, centred | Static | Charlie is disgusted and fills with rage; he moves towards Eleanora to attack her and shouts at her. Coco comes to comfort him. | CHARLIE (shouting, unheard) |
-| 55.5 | Insert | Static | Then Charlie, turned by a weeping, complicit Coco; then the rest of the group in sequence. | - |
+| 55.4 | Insert | Static | Charlie, filled with rage, moves to attack her and shouts; Coco comes to comfort him. Then Charlie is turned by a weeping, complicit Coco; then the rest of the group in sequence. | CHARLIE (shouting, unheard) |
 
 ### 56. INT. DINING ROOM - NIGHT (THE FIGHT) (p95-96)
 
