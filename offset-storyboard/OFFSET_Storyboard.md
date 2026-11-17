@@ -1,5 +1,7 @@
 # OFFSET - Storyboard
 
+Velvet Coconut · Ginga Stories · Penned Pictures
+
 Shot-by-shot storyboard covering every scene of the 98-page draft (OFFSET 04-07-2026), scenes 1-58.
 
 Interactive version with all images and a play-through animatic: https://claude.ai/artifact/WJoQZqQMdZT2EViNhAcHaa
@@ -13,6 +15,22 @@ Interactive version with all images and a play-through animatic: https://claude.
 - Grey: the hard years and bad memories (the bath, Mother's confusion, the cubicle).
 - White: the good times (recognition, dancing for Mother, the final fantasy).
 - Yellow: the walk to the cinema (Cine Malda).
+
+## Cast
+
+| Character | Actor | Status |
+|---|---|---|
+| Eleanora | - | To be confirmed |
+| Ezra | Elijah | Confirmed |
+| Cali | - | To be confirmed |
+| Cai | Cazz Rowen | Confirmed |
+| Jacqueline | - | To be confirmed |
+| Jasper | Jack McEvoy | Confirmed |
+| Charlie | Charlie Freeman | Confirmed |
+| Flo | - | To be confirmed |
+| Frans | Frederik Lysegaard | Confirmed |
+| Mother | - | To be confirmed (portrait placeholder) |
+| Eve | - | To be confirmed (portrait placeholder) |
 
 ## Board grade
 
