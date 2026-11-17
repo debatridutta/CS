@@ -21,12 +21,13 @@ Interactive version with all images and a play-through animatic: https://claude.
 | Character | Actor | Status |
 |---|---|---|
 | Eleanora | - | To be confirmed |
-| Ezra | Elijah | Confirmed |
+| Ezra | Elijah Rowen | Confirmed |
 | Cali | - | To be confirmed |
 | Cai | Cazz Rowen | Confirmed |
 | Jacqueline | - | To be confirmed |
 | Jasper | Jack McEvoy | Confirmed |
 | Charlie | Charlie Freeman | Confirmed |
+| Coco | - | To be confirmed (portrait placeholder) |
 | Flo | - | To be confirmed |
 | Frans | Frederik Lysegaard | Confirmed |
 | Mother | - | To be confirmed (portrait placeholder) |
