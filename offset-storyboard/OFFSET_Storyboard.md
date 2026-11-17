@@ -2,7 +2,7 @@
 
 Velvet Coconut · Ginga Stories · Penned Pictures
 
-Shot-by-shot storyboard covering every scene of the 98-page draft (OFFSET 04-07-2026), scenes 1-58.
+Shot-by-shot storyboard covering every scene of the 98-page draft (OFFSET 15-11-2026), scenes 1-58.
 
 Interactive version with all images and a play-through animatic: https://claude.ai/artifact/WJoQZqQMdZT2EViNhAcHaa
 
@@ -61,7 +61,7 @@ BLACK. A woman sprints up a stairwell in slow motion while Mother and Eleanora's
 | Shot | Size / lens | Movement | Action | Sound / dialogue |
 |---|---|---|---|---|
 | 1.1 | ECU feet, 50mm low | Tracking up the steps, 96fps | BLACK. Then her muddied feet pound the steps, leaving dark smears behind. Her breath echoes loudly. | MOTHER (V.O.) Wake up, Eleanora. Wach auf, Eleanora. |
-| 1.2 | Wide, 24mm, centred | Locked-off, slow motion | A WOMAN sprints up the stairwell in slow motion. | ELEANORA (V.O.) Despierta, Eleanora. Esto no es real. MOTHER (V.O.) This is not real. |
+| 1.2 | Wide, 24mm, centred | Locked-off, slow motion | A WOMAN sprints up the stairwell in slow motion. | ELEANORA (V.O.) Despierta, Eleanora. Esto no es real. MOTHER (V.O.) This is not real, my sweetheart. |
 | 1.3 | POV, 35mm, centred | Slow push in | She halts at the top of the stairs, frozen in place. Her eyes dart back to where she came from. Her footprints are already gone. The wind howls through the open, dark doorway below. | ELEANORA (V.O.) ¿Lo ves? Por eso tengo que matarte. Sí, a ti. A la persona que más amo... Pero porque no hablas mi idioma. |
 | 1.4 | MS, 85mm | Handheld chase | She sprints again. | ELEANORA (V.O.) Por mucho que intentes aprenderlo, nunca lo conseguirás. |
 | 1.5 | Wide, 32mm | Handheld | Turning the corner, she sees the open balcony. | ELEANORA (V.O.) Tu boca puede imitar los sonidos, pero jamás podrá captar lo que significa hablar en mi lengua. |
@@ -69,7 +69,7 @@ BLACK. A woman sprints up a stairwell in slow motion while Mother and Eleanora's
 | 1.7 | Wide, 32mm | Slow push in | The opening, lit with warm yellow light, beckoning her in. | ELEANORA (V.O.) Para siempre. Forever. |
 | 1.8 | Insert, 85mm | Slow motion, 120fps | She jumps at it with all her might. | JUMP CUT TO: |
 
-### 2. INT. TAXI - MORNING (MOVING) (p2-4)
+### 2. INT. TAXI - AFTERNOON (MOVING) (p2-4)
 
 Eleanora jolts awake against the taxi window. Flo brushes off her questions; the driver says they have been crossing the estate for an hour. She draws a circle on the window, then its centre.
 
@@ -84,7 +84,7 @@ Eleanora jolts awake against the taxi window. Flo brushes off her questions; the
 | 2.5 | Wide, high angle | Slow crane, following | The other large cab, filled with two other couples: Cai, Cali, Jasper and Jacqueline. | - |
 | 2.6 | Insert, 50mm | Static | Eleanora sits up with her 'German for Beginners' book. It has been dog-eared in every which way and Post-it notes stick out from the side. | ELEANORA Where is this house? FLO (scoffs) Not a house. ELEANORA What is it then? Entschuldigung? FLO Sie sind entschuldigt. (To Frans) Ligesom at tage på rekreation, ikke? (Like a retreat, right?) |
 | 2.7 | POV back seat, 32mm | Static | Goli, the local taxi driver with a thick moustache, overhears, noticing the awkwardness. Flo and Frans share the taxi; tiny scars are visible on the backs of their necks. | ELEANORA OK so, when do we arrive at the retreat? DRIVER Nun ja, wir fahren seit einer Stunde über das Anwesen. ELEANORA (whispers) Unanswered questions... Unbeantwortete Fragen. |
-| 2.8 | ECU hand, 100mm macro | Static | Eleanora draws a large circle on the window, then a middle point to the circle. | ELEANORA Not your fault. So much space. Ungenutzt. So groß. DRIVER We're going right to the Zentrum... the centre of it. |
+| 2.8 | ECU hand, 100mm macro | Static | Eleanora draws a large circle on the window, then a middle point to the circle. | ELEANORA Not your fault. So much space. Ungenutzt. So groß. DRIVER We're going right to the Zentrum... The middle. (The centre...) |
 | 2.9 | Macro | Rack focus | Water droplets trail down the window from her drawing. | CUT TO: |
 
 ### 3. EXT. RETREAT - MORNING (p4-5)
@@ -119,7 +119,7 @@ Close on Charlie addressing the group. He quotes Ungers over insert shots of the
 | 4.3 | High wide, 24mm | Slow tilt down | Insert shot: building architecture. The library, seen from the gallery above. | CHARLIE (CONT'D) 'An idea of the world.' Who speaks like that nowadays? Such grandiose plans. |
 | 4.4 | Wide, 24mm | Static | Insert shot: building architecture. | CHARLIE (CONT'D) His aim was 'To see how far architecture can be abstract. A house without qualities. No ornaments, no details, no bottom nor top. Everything subtracted to the absolute core of abstraction.' End quote. Abstraction. That is what we are going to do here. Find the core of each of you. |
 | 4.5 | ECU, 100mm, centred | Locked-off | INT. BEDROOM - DAY. Little black cameras in every room, a bright green light emitting from them. | CHARLIE (V.O.) No locks. Nor keys. |
-| 4.6 | ECU, 100mm | Static | Watched. The group unpack and manoeuvre below. | CHARLIE (CONT'D) Privacy is not prerequisite. Make peace with being watched. |
+| 4.6 | ECU, 100mm | Static | Watched. The group unpack and manoeuvre below. | CHARLIE (CONT'D) Privacy is not a prerequisite. Make peace with being watched. |
 
 ### 5. INT. BEDROOMS - DAY (p6-7)
 
@@ -509,7 +509,7 @@ Ezra faces Eleanora on the bed; she reluctantly meets him halfway. They grab eac
 |---|---|---|---|---|
 | 32.1 | Wide, centred | Static | Ezra sits facing Eleanora on the bed. He leans forward; she reluctantly meets him halfway. They both grab each other's devices. He nods. Ezra presses her device first. | TWIST. CLICK. JUMP CUT TO: |
 
-### 33. INT. ELEANORA'S FANTASY - BEDROOM / DINING ROOM - NIGHT (p53-54)
+### 33. INT. ELEANORA'S FANTASY - LIVING ROOM - NIGHT / INT. BEDROOM - DAY (p53-54)
 
 Ezra at the table, everything far too close. Mother accuses Eleanora of bringing him to embarrass her, holds her ears and screams 'GET OUT'. Then Ezra and Eleanora on opposite sides of a bed; nothing is said.
 
@@ -520,7 +520,7 @@ Ezra at the table, everything far too close. Mother accuses Eleanora of bringing
 | 33.1 | Wide, centred | Static | JUMP CUT TO: Eleanora's fantasy, revisited. Ezra sits facing Eleanora, mirrored, in her world now. | - |
 | 33.2 | Tight, 85mm | Static | Ezra is now seated at the table. Everything feels far too close. They are all almost pressed together. | MOTHER You brought him here to embarrass me. ELEANORA No lo es. MOTHER You are making a show of your own Mother. I didn't raise you like this. |
 | 33.3 | CU | Static | The Mother becomes increasingly agitated; she holds her ears and screams. | MOTHER GET OUT! |
-| 33.4 | Wide, centred | Static | Ezra and Eleanora sit on opposite sides of the bed. Eleanora holds her emotion well. Nothing is said. Ezra faces the door. | - |
+| 33.4 | Wide, centred | Static | INT. BEDROOM - DAY. Ezra and Eleanora sit on opposite sides of the bed. Eleanora holds her emotion well. Nothing is said. Ezra faces the door. | - |
 
 ### 34. INT. LIVING ROOM - DAY (EZRA'S STORY) / JASPER'S FANTASY (p54-56)
 
@@ -865,9 +865,9 @@ A flicker of hesitation as her hand lifts toward her neck. FLASHBACK to her fant
 | 57.3 | CU, 85mm | Static | She gives her mum a huge hug. They grip each other tightly. | - |
 | 57.4 | Two-shot, 85mm | Static | INT. ELEANORA'S FANTASY - NIGHT. She leans in on her Mother, close, the two resting against each other. | ELEANORA No eres mi madre. (You are not my Mother.) |
 
-### 58. EXT. RETREAT - DAY / LATER: INT. LIVING ROOM - DAY (p97)
+### 58. EXT. RETREAT - DAY / INTERCUT LIVING ROOM (p97)
 
-Eleanora walks barefoot down the lane, away from the house, alive and entirely alone. Later, the group lie dusty and wired in, kept in the system.
+Eleanora walks barefoot down the lane, away from the house, alive and entirely alone. Intercut with the living room, where the group lie dusty and wired in, kept in the system.
 
 *Look:* Extreme wide, still, fog.
 
@@ -875,9 +875,9 @@ Eleanora walks barefoot down the lane, away from the house, alive and entirely a
 |---|---|---|---|---|
 | 58.1 | Extreme wide | Locked-off | Eleanora walks barefoot down the lane away from the house, alive and entirely alone. | - |
 | 58.2 | Insert, low, 50mm | Tracking | Under her bare feet, the ground is damp with dew; each step soft but deliberate. | ELEANORA (V.O) Would your fantasy really be your fantasy if you could have it all the time? |
-| 58.3 | Insert, 85mm | Static | LATER: dust hangs in the light of the living room. | - |
+| 58.3 | Insert, 85mm | Static | INTERCUT: dust hangs in the light of the living room. | - |
 | 58.4 | Wide, 24mm | Slow track | The group lie in rows, wired in, feeding tubes and lines running from each of them: kept in the system, indefinitely. | The hum of the machines. |
-| 58.5 | MS | Slow track | LATER: INT. LIVING ROOM - DAY. The group are all slightly dusty, connected to devices, feeding tubes, heart monitors and IVs. | ELEANORA (V.O) Or should it always be just out of reach. Aimed for but never grasped. |
+| 58.5 | MS | Slow track | INTERCUT EXT. RETREAT / LIVING ROOM. The group are all slightly dusty. Coco monitoring the devices, feeding tubes, heart monitors and IVs. | ELEANORA (V.O) Or should it always be just out of reach? Aimed for but never grasped. |
 | 58.6 | Insert, 85mm | Static | Heart monitors tick over beside each of them, keeping the group suspended in the system. | The steady beep of the monitors. ELEANORA (V.O) Forever. Para siempre. FADE TO BLACK. |
 
 ---
@@ -889,7 +889,7 @@ Eleanora walks barefoot down the lane, away from the house, alive and entirely a
 >
 > <br>
 >
-> *Or should it always be... just out of reach.*  
+> *Or should it always be... just out of reach?*  
 > *Aimed for... but never grasped.*
 >
 > <br>
