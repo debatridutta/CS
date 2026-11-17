@@ -27,11 +27,11 @@ Interactive version with all images and a play-through animatic: https://claude.
 | Jacqueline | - | To be confirmed |
 | Jasper | Jack McEvoy | Confirmed |
 | Charlie | Charlie Freeman | Confirmed |
-| Coco | - | To be confirmed (portrait placeholder) |
+| Coco | - | To be confirmed |
 | Flo | - | To be confirmed |
 | Frans | Frederik Lysegaard | Confirmed |
-| Mother | - | To be confirmed (portrait placeholder) |
-| Eve | - | To be confirmed (portrait placeholder) |
+| Mother | - | To be confirmed |
+| Eve | - | To be confirmed |
 
 ## Board grade
 
