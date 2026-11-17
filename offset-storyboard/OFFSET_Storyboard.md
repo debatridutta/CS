@@ -2,7 +2,7 @@
 
 Velvet Coconut · Ginga Stories · Penned Pictures
 
-Shot-by-shot storyboard covering every scene of the 98-page draft (OFFSET 15-11-2026), scenes 1-58.
+Shot-by-shot storyboard covering every scene of the 98-page draft, scenes 1-58.
 
 Interactive version with all images and a play-through animatic: https://claude.ai/artifact/WJoQZqQMdZT2EViNhAcHaa
 
