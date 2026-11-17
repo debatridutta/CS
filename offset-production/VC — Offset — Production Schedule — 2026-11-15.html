@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>VC — Offset — Production Schedule — 2026-11-15</title>
+<style>
+  :root {
+    --maroon: #5B0B1F; --rose-deep: #BB796F; --rose: #CA9E94; --rose-light: #DCC8C0;
+    --cherry: #241115; --ink: #040707; --blush: #F6EEEA; --muted: #5E5356;
+  }
+  @page { size: A4; margin: 22mm 22mm 24mm 22mm; }
+  html, body { background: #fff; }
+  body { font-family: "Jost", Arial, sans-serif; font-weight: 400; font-size: 10pt; line-height: 1.5; color: var(--ink); margin: 0; }
+
+  .masthead { display: flex; justify-content: space-between; align-items: flex-end; padding-bottom: 10pt; border-bottom: 0.75pt solid var(--rose-light); margin-bottom: 22pt; }
+  .masthead img { width: 58mm; height: auto; display: block; }
+  .masthead .doc { text-align: right; font-size: 8pt; font-weight: 500; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); line-height: 1.6; }
+
+  .label { display: inline-block; font-size: 7.5pt; font-weight: 500; letter-spacing: 0.16em; text-transform: uppercase; color: var(--maroon); border: 0.75pt solid var(--maroon); padding: 2pt 7pt 1.5pt; margin-bottom: 12pt; }
+  h1 { font-family: "Playfair Display", Georgia, serif; font-weight: 500; font-size: 30pt; line-height: 1.05; color: var(--maroon); margin: 0 0 4pt; letter-spacing: -0.005em; }
+  h1 em { font-style: italic; font-weight: 400; color: var(--rose-deep); }
+  .meta { font-size: 9pt; color: var(--muted); letter-spacing: 0.02em; margin: 0 0 16pt; }
+  .lead { font-weight: 300; font-size: 12.5pt; line-height: 1.5; color: var(--ink); margin: 0 0 20pt; max-width: 150mm; }
+
+  .facts { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0; margin: 0 0 6pt; border-top: 0.75pt solid var(--maroon); }
+  .fact { padding: 10pt 12pt 11pt 0; border-bottom: 0.5pt solid var(--rose-light); }
+  .fact:nth-child(3n+2), .fact:nth-child(3n+3) { padding-left: 12pt; border-left: 0.5pt solid var(--rose-light); }
+  .fact .k { font-size: 7.5pt; font-weight: 500; letter-spacing: 0.16em; text-transform: uppercase; color: var(--muted); margin-bottom: 3pt; }
+  .fact .v { font-family: "Playfair Display", Georgia, serif; font-size: 15pt; line-height: 1.15; color: var(--maroon); margin-bottom: 2pt; }
+  .fact .s { font-size: 8.5pt; color: var(--muted); line-height: 1.4; }
+
+  h2 { font-family: "Playfair Display", Georgia, serif; font-weight: 500; font-size: 16pt; color: var(--maroon); margin: 22pt 0 7pt; padding-bottom: 4pt; border-bottom: 0.75pt solid var(--rose-light); break-after: avoid; }
+  h2 .n { font-family: "Jost", Arial, sans-serif; font-size: 8.5pt; font-weight: 500; letter-spacing: 0.14em; color: var(--rose-deep); margin-right: 8pt; vertical-align: 3pt; }
+  h3 { font-size: 8.5pt; font-weight: 500; letter-spacing: 0.14em; text-transform: uppercase; color: var(--maroon); margin: 16pt 0 5pt; break-after: avoid; }
+  p { margin: 0 0 8pt; }
+  ul { margin: 0 0 9pt; padding-left: 0; list-style: none; }
+  li { position: relative; padding-left: 13pt; margin: 0 0 3.5pt; }
+  li::before { content: ""; position: absolute; left: 0; top: 0.62em; width: 5pt; height: 0.75pt; background: var(--rose-deep); }
+  .unit { margin: 12pt 0 4pt; }
+  .unit b { font-family: "Playfair Display", Georgia, serif; font-weight: 500; font-size: 11.5pt; color: var(--maroon); }
+  .unit span { font-size: 8.5pt; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); margin-left: 6pt; }
+
+  table { width: 100%; border-collapse: collapse; margin: 4pt 0 12pt; font-size: 9.5pt; }
+  thead { display: table-header-group; }
+  th { text-align: left; font-size: 7.5pt; font-weight: 500; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); background: var(--blush); padding: 5pt 8pt; }
+  td { text-align: left; vertical-align: top; padding: 4.5pt 8pt; border-bottom: 0.5pt solid var(--rose-light); }
+  tr { break-inside: avoid; }
+  td.group { font-family: "Playfair Display", Georgia, serif; font-size: 11pt; color: var(--maroon); padding-top: 9pt; border-bottom: 0.75pt solid var(--maroon); }
+  td.when { white-space: nowrap; color: var(--ink); }
+  .sched td:first-child { width: 32%; }
+  .days td:first-child { width: 26%; white-space: nowrap; }
+  .days td:nth-child(2) { width: 16%; white-space: nowrap; }
+  tr.rest td { color: var(--muted); }
+  .ms { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10pt; margin: 6pt 0 4pt; }
+  .ms div { background: var(--blush); padding: 10pt 12pt; }
+  .ms .k { font-size: 7.5pt; font-weight: 500; letter-spacing: 0.16em; text-transform: uppercase; color: var(--muted); }
+  .ms .v { font-family: "Playfair Display", Georgia, serif; font-size: 14pt; color: var(--maroon); }
+
+  .keep { break-inside: avoid; }
+  .confirm { background: var(--blush); padding: 12pt 14pt 6pt; border-left: 2pt solid var(--maroon); }
+  .sign { margin-top: 20pt; padding-top: 10pt; border-top: 0.75pt solid var(--rose-light); font-size: 8pt; color: var(--muted); line-height: 1.6; }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <img src="vc_primary.png" alt="Velvet Coconut">
+  <div class="doc">Offset<br>Production schedule</div>
+</header>
+
+<div class="label">Draft — for review</div>
+<h1>Offset <em>Production schedule</em></h1>
+<p class="meta">Version 1.0 · 15 November 2026</p>
+
+<p class="lead">A psychological sci-fi thriller produced by Velvet Coconut Productions (Ireland) with Penned Pictures (Germany) and Ginga Stories (Spain). This schedule runs from financing through to delivery and premiere. All dates are indicative and to be confirmed.</p>
+
+<div class="facts">
+  <div class="fact"><div class="k">Script</div><div class="v">98 pages</div><div class="s">About 98 minutes · draft dated 15 July 2026</div></div>
+  <div class="fact"><div class="k">Shoot</div><div class="v">1 – 29 June 2027</div><div class="s">24 shooting days on six-day weeks</div></div>
+  <div class="fact"><div class="k">Units</div><div class="v">17 · 3 · 4 days</div><div class="s">Eifel · Cologne · Barcelona</div></div>
+  <div class="fact"><div class="k">Budget</div><div class="v">€1,200,000</div><div class="s">About €28,000 per shoot day</div></div>
+  <div class="fact"><div class="k">Post-production</div><div class="v">26 weeks</div><div class="s">Ginga Stories, Spain · €201,700</div></div>
+  <div class="fact"><div class="k">Delivery</div><div class="v">31 January 2028</div><div class="s">Target premiere: Berlinale, February 2028</div></div>
+</div>
+
+<h2><span class="n">01</span>Master timeline</h2>
+<p>November 2026 to March 2028.</p>
+<table class="sched">
+  <thead><tr><th>Phase</th><th>Dates</th><th>Notes</th></tr></thead>
+  <tr><td class="group" colspan="3">Development and finance</td></tr>
+  <tr><td>Financing and cast</td><td class="when">15 Nov 2026 – 11 Apr 2027</td><td>11 sources; €400,000 equity; Rowen and McEvoy attached.</td></tr>
+  <tr><td>Funding applications</td><td class="when">1 Dec 2026 – 31 Mar 2027</td><td>Screen Ireland, DFFF, FMS NRW, RLP, ICAA / ICEC, Eurimages.</td></tr>
+  <tr><td class="group" colspan="3">Production</td></tr>
+  <tr><td>Pre-production</td><td class="when">12 Apr – 29 May 2027</td><td>7 weeks, Cologne office.</td></tr>
+  <tr><td>Principal photography</td><td class="when">1 – 29 Jun 2027</td><td>24 days in the Eifel, Cologne and Barcelona.</td></tr>
+  <tr><td class="group" colspan="3">Post-production · Ginga Stories, Spain</td></tr>
+  <tr><td>Offline edit to picture lock</td><td class="when">30 Jun – 5 Oct 2027</td><td>14 weeks.</td></tr>
+  <tr><td>Visual effects</td><td class="when">2 Aug – 17 Dec 2027</td><td>About 200 shots, around 120 of them device glow.</td></tr>
+  <tr><td>Score: write and record</td><td class="when">1 Sep – 26 Nov 2027</td><td>Composed in Ireland, recorded in Spain.</td></tr>
+  <tr><td>Sound design and ADR</td><td class="when">4 Oct – 3 Dec 2027</td><td>Four languages.</td></tr>
+  <tr><td>Final grade</td><td class="when">22 Nov – 10 Dec 2027</td><td>15 days; six looks.</td></tr>
+  <tr><td>Re-recording mix</td><td class="when">1 – 17 Dec 2027</td><td>5.1 and stereo.</td></tr>
+  <tr><td>Conform, masters and DCP</td><td class="when">13 – 28 Dec 2027</td><td>English, German, Spanish and Danish subtitles.</td></tr>
+  <tr><td>QC and delivery</td><td class="when">29 Dec 2027 – 31 Jan 2028</td><td>Delivery on 31 January 2028.</td></tr>
+  <tr><td class="group" colspan="3">Release</td></tr>
+  <tr><td>Berlinale and EFM</td><td class="when">10 – 20 Feb 2028</td><td>World premiere target; Venice is the alternative.</td></tr>
+</table>
+
+<div class="keep">
+<h3>Key milestones</h3>
+<div class="ms">
+  <div><div class="k">Wrap</div><div class="v">29 June 2027</div></div>
+  <div><div class="k">Picture lock</div><div class="v">5 October 2027</div></div>
+  <div><div class="k">Delivery</div><div class="v">31 January 2028</div></div>
+</div>
+</div>
+
+<h2><span class="n">02</span>The shoot</h2>
+<p>Principal photography runs from 1 to 29 June 2027 (to be confirmed): 24 shooting days on six-day weeks, with Sundays as rest days.</p>
+
+<h3>Shooting days</h3>
+<table class="days">
+  <thead><tr><th>Dates</th><th>Shoot days</th><th>Unit and notes</th></tr></thead>
+  <tr><td>Tue 1 – Sat 5 June</td><td>Days 1 – 5</td><td>Eifel. Day 1 is the first day of principal photography.</td></tr>
+  <tr class="rest"><td>Sun 6 June</td><td>Rest</td><td></td></tr>
+  <tr><td>Mon 7 – Sat 12 June</td><td>Days 6 – 11</td><td>Eifel.</td></tr>
+  <tr class="rest"><td>Sun 13 June</td><td>Rest</td><td></td></tr>
+  <tr><td>Mon 14 – Sat 19 June</td><td>Days 12 – 17</td><td>Eifel. Day 17 completes the Eifel unit.</td></tr>
+  <tr class="rest"><td>Sun 20 June</td><td>Rest</td><td></td></tr>
+  <tr><td>Mon 21 – Wed 23 June</td><td>Days 18 – 20</td><td>Cologne. Wednesday 23 June is the pool day.</td></tr>
+  <tr><td>Thu 24 June</td><td>Travel</td><td>Travel to Barcelona.</td></tr>
+  <tr><td>Fri 25 – Sat 26 June</td><td>Days 21 – 22</td><td>Barcelona.</td></tr>
+  <tr class="rest"><td>Sun 27 June</td><td>Rest</td><td></td></tr>
+  <tr><td>Mon 28 – Tue 29 June</td><td>Days 23 – 24</td><td>Barcelona. Day 24 is the wrap.</td></tr>
+  <tr><td>Wed 30 June</td><td></td><td>Post-production begins.</td></tr>
+</table>
+
+<h3>Units and scenes</h3>
+<div class="keep">
+<p class="unit"><b>Eifel · Villa Glashütte, Utscheid</b><span>Days 1 – 17 · 1 – 19 June</span></p>
+<ul>
+  <li>Arrival across the estate, the façade, and the dawn walk down the lane.</li>
+  <li>The dining room, shot in story order so the feast rots on camera, through to the final session.</li>
+  <li>The living room, bedrooms, stairwell, kitchen, bathroom and the red-light party.</li>
+  <li>Fantasies: Cali's cake, Jacqueline's bath, the mother's dinner, Ezra's crowd, Flo's glass at the lake and Cai's forest.</li>
+  <li>Nights: Frans's hunt, the building on the hill, and Eve's rescue and fall.</li>
+</ul>
+</div>
+<div class="keep">
+<p class="unit"><b>Cologne · Ungers house</b><span>Days 18 – 20 · 21 – 23 June</span></p>
+<ul>
+  <li>House interiors (scene split to be confirmed with Penned Pictures).</li>
+  <li>Pool day: the black water and the green door, with cast in the water.</li>
+</ul>
+</div>
+<div class="keep">
+<p class="unit"><b>Barcelona · flashback unit, Ginga Stories</b><span>Days 21 – 24 · 25 – 29 June</span></p>
+<ul>
+  <li>The mother's flat: the bath, the dance, the pillow and her decline.</li>
+  <li>Cine Malda: the street, the cinema and the bathroom cubicle.</li>
+</ul>
+</div>
+
+<h3>On set</h3>
+<p>Two RED Komodo cameras (in kind); practical LED neck devices; a VFX supervisor on the glow, sealed-mouth and water days; prosthetics; a crowd for Ezra's fantasy; one stunt jump (to be confirmed); and night work in the forest.</p>
+
+<div class="keep">
+<h2><span class="n">03</span>Pre-production</h2>
+<p>12 April to 29 May 2027: seven weeks, run from the Cologne production office.</p>
+<ul>
+  <li>Production office and German crew in Cologne (Penned Pictures).</li>
+  <li>Remaining cast, including the Spanish lead and the mother.</li>
+  <li>Device build: practical LED neck units and the black boxes.</li>
+  <li>Look development and camera tests, including green light on skin.</li>
+  <li>VFX shot planning: the glow, sealed mouths and the black water.</li>
+  <li>Prosthetics: the pregnancy, sealed mouths and Eve.</li>
+  <li>Location preparation, with exclusive use of Villa Glashütte.</li>
+  <li>Insurance placed, a song licence quote obtained and a sales agent attached.</li>
+</ul>
+</div>
+
+<div class="keep">
+<h2><span class="n">04</span>Post-production milestones</h2>
+<table>
+  <thead><tr><th>Date</th><th>Milestone</th></tr></thead>
+  <tr><td class="when">30 June 2027</td><td>Offline edit begins at Ginga Stories.</td></tr>
+  <tr><td class="when">5 October 2027</td><td>Picture lock (week 14).</td></tr>
+  <tr><td class="when">November – December 2027</td><td>Final grade (15 days) and mix.</td></tr>
+  <tr><td class="when">28 December 2027</td><td>Conform, masters and DCP.</td></tr>
+  <tr><td class="when">31 January 2028</td><td>Delivery.</td></tr>
+  <tr><td class="when">February 2028</td><td>Berlinale and EFM (target).</td></tr>
+</table>
+</div>
+
+<div class="keep">
+<h2><span class="n">05</span>To confirm</h2>
+<div class="confirm">
+<ul>
+  <li>Dates follow the Miller insurance proposal.</li>
+  <li>Budget v3.12 and the memorandum still show preparation from January and an April shoot.</li>
+  <li>24 days in June needs six-day weeks; the budget assumes five.</li>
+  <li>Preparation is 7 weeks here and 10 weeks in the budget.</li>
+</ul>
+</div>
+</div>
+
+<div class="sign">Velvet Coconut Productions Limited · Registered in Ireland · Company No. 828792<br>
+77 Camden Street Lower, Dublin, D02 XE80, Ireland · thomas@velvet-coconut.com<br>
+Offset · Velvet Coconut Productions with Penned Pictures and Ginga Stories · Confidential · Planning schedule, not a call sheet.</div>
+
+</body>
+</html>
